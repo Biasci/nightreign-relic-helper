@@ -1,28 +1,40 @@
 {
   "updated": "2026-10-27",
-  "game_version": "1.03.5 (hotfix 2026-03-31); ultimo bilanciamento 1.03.2 (2026-01-15)",
+  "game_version": "1.03.5 (hotfix 2026-03-31); ultimo bilanciamento 1.03.2 (2026-01-15). Nessuna patch successiva (notizie Steam controllate fino a ottobre 2026).",
   "changes": [
     {
-      "it": "Prima ricerca completa: tier list, malus, passivi delle armi, armi e build per tutti i 10 personaggi, pensata per il gioco in solitaria.",
-      "en": "First full research: tier lists, curses, weapon passives, weapons and builds for all 10 characters, focused on solo play."
+      "it": "Nessuna nuova patch dopo la 1.03.5: i dati (data/) non sono cambiati. Le modifiche vengono da guide e video usciti tra aprile e ottobre 2026.",
+      "en": "No new patch after 1.03.5: game data (data/) unchanged. Changes come from guides and videos published April–October 2026."
     },
     {
-      "it": "Voti degli effetti allineati alla patch 1.03.2: indeboliti \"Successive Attacks Boost Attack Power\" e gli effetti degli archi; potenziati Guardiano, Predone, Giustiziere e Becchina.",
-      "en": "Effect ratings aligned with patch 1.03.2: \"Successive Attacks Boost Attack Power\" and bow effects nerfed; Guardian, Raider, Executor and Undertaker buffed."
+      "it": "Erudito: \"Continuous damage... threaded\" scende da S ad A (solo 15 danni/s) e \"Prevent slowing...\" da A a B; aggiunte le armi Ripple per build senza reliquia della destrezza.",
+      "en": "Scholar: \"Continuous damage... threaded\" drops S→A (only 15 dmg/s) and \"Prevent slowing...\" A→B; Ripple weapons added for builds without the Dex relic."
     },
     {
-      "it": "Dalla 1.03.2 funziona una sola copia di The Will of the Balancers: le build con due copie non valgono più.",
-      "en": "Since 1.03.2 only one copy of The Will of the Balancers activates: double-Balancers builds no longer work."
+      "it": "Rediviva: nuova build Lancia del fulmine per la Notte profonda (voto 4), \"Improved Godslayer Incantations\" da S ad A; affidabilità da bassa a media.",
+      "en": "Revenant: new Lightning Spear Deep of Night build (rated 4), \"Improved Godslayer Incantations\" S→A; confidence low→medium."
+    },
+    {
+      "it": "Saliti di voto: vitalità/resistenza del Giustiziere e vitalità/forza della Duchessa (profonde, B→A), recupero PV parando (3→4), cristalliani, Culto del drago, armi colossali (4), \"Status Ailment Gauges Slowly Increase Attack Power\" (4, build Night of Dregs + Seppuku del Selvaggio).",
+      "en": "Raised: Executor Vigor/Endurance and Duchess Vigor/Strength deep effects (B→A), HP recovery on guard (3→4), Crystalian, Dragon Cult, colossal weapons (4), \"Status Ailment Gauges Slowly Increase Attack Power\" (4, Wylder Night of Dregs + Seppuku build)."
+    },
+    {
+      "it": "Occhio di ferro: Arco nero e Arco serpente in S, Arco ad arpa scende ad A. Nuove build per Selvaggio, Duchessa, Giustiziere e Becchina; regole di cumulabilità ampliate.",
+      "en": "Ironeye: Black Bow and Serpent Bow in S, Harp Bow down to A. New builds for Wylder, Duchess, Executor and Undertaker; stacking rules expanded."
     }
   ],
   "gaps": [
     {
-      "it": "Reddit non era raggiungibile; dei video YouTube sono stati letti solo i titoli; TikTok e Shorts non erano raggiungibili.",
-      "en": "Reddit was not reachable; only YouTube video titles were read; TikTok and Shorts were not reachable."
+      "it": "Reddit, Mobalytics e GameFAQs non raggiungibili (403); dei video YouTube letti solo titoli e descrizioni; TikTok non leggibile (solo JavaScript).",
+      "en": "Reddit, Mobalytics and GameFAQs unreachable (403); only YouTube titles and descriptions read; TikTok not readable (JavaScript only)."
     },
     {
-      "it": "Pochi guide aggiornate dopo la 1.03.2 per Occhio di ferro e Rediviva: affidabilità più bassa.",
-      "en": "Few post-1.03.2 guides for Ironeye and Revenant: lower confidence."
+      "it": "Poche guide scritte nuove dopo aprile 2026; alcune tier list (nightreignwiki.com, nightreign.club) citano patch inesistenti (1.03.4, 1.04): usate solo come confronto. La build Night of Dregs + Seppuku del Selvaggio ha una sola fonte (un video YouTube che non è stato possibile ritrovare in una seconda verifica): da considerare sperimentale.",
+      "en": "Few new written guides after April 2026; some tier lists (nightreignwiki.com, nightreign.club) cite non-existent patches (1.03.4, 1.04): used only for comparison. Wylder's Night of Dregs + Seppuku build has a single source (a YouTube video that could not be found again on re-check): treat as experimental."
+    },
+    {
+      "it": "Le fonti non concordano sul livello in solitaria di Guardiano (A/B), Erudito (B/C) e Becchina (A/C).",
+      "en": "Sources disagree on solo tier for Guardian (A/B), Scholar (B/C) and Undertaker (A/C)."
     }
   ],
   "sources": [
@@ -65,6 +77,33 @@
     {"title": "Steam guide: Ultimate Scholar Guide (DoN)", "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3656744685"},
     {"title": "Steam guide: The Huge Recluse Guide", "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3530117501"},
     {"title": "Steam: Best raider DoN relic effects", "url": "https://steamcommunity.com/app/2622380/discussions/0/603042108906064761/"},
-    {"title": "Steam: Duchess for deep of night", "url": "https://steamcommunity.com/app/2622380/discussions/0/685243980153147988/"}
+    {"title": "Steam: Duchess for deep of night", "url": "https://steamcommunity.com/app/2622380/discussions/0/685243980153147988/"},
+    {"title": "Steam News: Nightreign (nessuna patch dopo 1.03.5)", "url": "https://store.steampowered.com/news/app/2622380"},
+    {"title": "MP1st: Hotfix 1.03.5", "url": "https://mp1st.com/title-updates-and-patches/elden-ring-nightreign-hotfix-1-03-5-march-31"},
+    {"title": "Eldenpedia: Patch Notes", "url": "https://eldenring.wiki.gg/wiki/Nightreign:Patch_Notes"},
+    {"title": "wiki.gg: The Night of Dregs", "url": "https://eldenring.wiki.gg/wiki/Nightreign:The_Night_of_Dregs"},
+    {"title": "Switchblade Gaming: Weapon tier list 2026", "url": "https://www.switchbladegaming.com/elden-ring-nightreign/weapon-tier-list-5/"},
+    {"title": "Switchblade Gaming: Ironeye weapons", "url": "https://www.switchbladegaming.com/elden-ring-nightreign/ironeye-weapons/"},
+    {"title": "Switchblade Gaming: Raider guide", "url": "https://www.switchbladegaming.com/elden-ring-nightreign/raider-guide/"},
+    {"title": "Howtoplayhub: Best Relics (2026-09)", "url": "https://howtoplayhub.com/elden-ring-nightreign/best-relics"},
+    {"title": "timesaver.gg: Nightfarers ranked (2026-09)", "url": "https://timesaver.gg/blog/best-nightfarers-elden-ring-nightreign-ranked"},
+    {"title": "NightreignWiki.com: Relics & Builds", "url": "https://nightreignwiki.com/guides/relics-and-builds/"},
+    {"title": "Fextralife: Recluse", "url": "https://eldenringnightreign.wiki.fextralife.com/Recluse"},
+    {"title": "Fextralife: Executor", "url": "https://eldenringnightreign.wiki.fextralife.com/Executor"},
+    {"title": "Fextralife: Scholar", "url": "https://eldenringnightreign.wiki.fextralife.com/Scholar"},
+    {"title": "Fextralife: Undertaker", "url": "https://eldenringnightreign.wiki.fextralife.com/Undertaker"},
+    {"title": "GameRant: Scholar build", "url": "https://gamerant.com/elden-ring-nightreign-best-scholar-build-weapons-relics-passives/"},
+    {"title": "GameRant: Undertaker builds", "url": "https://gamerant.com/elden-ring-nightreign-forsaken-hollow-best-undertaker-build/"},
+    {"title": "Steam guide: Maximizing Arcane: Scholar", "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3619327433"},
+    {"title": "Steam guide: THE Relic Calculator", "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3727381976"},
+    {"title": "Steam: Executor Build Priorities (2026-04)", "url": "https://steamcommunity.com/app/2622380/discussions/0/805722696534172619/"},
+    {"title": "Steam: Executor in deep of night", "url": "https://steamcommunity.com/app/2622380/discussions/0/804592995637891662/"},
+    {"title": "Steam: What's the meta?", "url": "https://steamcommunity.com/app/2622380/discussions/0/766311764554039279/"},
+    {"title": "Steam: Ironeye weapons (2026-10)", "url": "https://steamcommunity.com/app/2622380/discussions/0/574929704291852314/"},
+    {"title": "Steam: Patch 1.03.2 discussion", "url": "https://steamcommunity.com/app/2622380/discussions/0/734782866781661043/"},
+    {"title": "YouTube: AquaZ, This Duchess Build Works For Every Situation (2026-06)", "url": "https://www.youtube.com/watch?v=gV1FbBLiuFU"},
+    {"title": "YouTube: EliteCarlosN, Revenant DPS BEAST in Deep of Night (2026-02)", "url": "https://www.youtube.com/watch?v=VX-UvfXjCwE"},
+    {"title": "YouTube: Guardian Depth 5 solo (2026-10)", "url": "https://www.youtube.com/watch?v=k4FIbTKbf6Y"},
+    {"title": "alfizari: Nightreign Save Editor (tabelle reliquie)", "url": "https://github.com/alfizari/Elden-Ring-Nightreign-Save-Editor"}
   ]
 }
