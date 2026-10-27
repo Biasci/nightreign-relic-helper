@@ -28,6 +28,7 @@ def read_meta(folder):
 def current_dir():
     """La cartella più aggiornata tra quella inclusa nell'app e quella scaricata."""
     bundled, downloaded = read_meta(BUNDLED_RESEARCH), read_meta(DOWNLOADED_RESEARCH)
+    # A pari data vince la copia scaricata: è arrivata dopo la versione inclusa nell'app.
     if downloaded and all((DOWNLOADED_RESEARCH / f).exists() for f in FILES) \
             and downloaded.get("updated", "") >= (bundled or {}).get("updated", ""):
         return DOWNLOADED_RESEARCH
@@ -64,7 +65,8 @@ def check_for_update():
     """Scarica i dati nuovi se ci sono. Restituisce la data dei nuovi dati, oppure None."""
     remote = json.loads(fetch("meta.json"))
     local = read_meta(current_dir()) or {}
-    if remote.get("updated", "") <= local.get("updated", ""):
+    # Più ricerche nello stesso giorno hanno la stessa data: conta anche se il contenuto è cambiato.
+    if remote.get("updated", "") < local.get("updated", "") or remote == local:
         return None
 
     with tempfile.TemporaryDirectory() as tmp:
