@@ -84,7 +84,7 @@ async function init() {
     setSync("noSaves", "error");
     return;
   }
-  for (const s of saves) saveSel.add(new Option(`${s.name} — ${timeOf(s.mtime)}`, s.path));
+  fillSaves(saves);
   // Il più recente è il primo: è quello con cui hai giocato per ultimo.
   state.path = saves[0].path;
   saveSel.addEventListener("change", () => { state.path = saveSel.value; loadRelics(); });
@@ -93,11 +93,14 @@ async function init() {
   setInterval(poll, POLL_MS);
 }
 
-async function loadRelics() {
+async function loadRelics(force = false) {
   setSync("reading");
   try {
     const solo = state.junk.solo ? 1 : 0;
-    const { mtime, relics } = await api(`/api/relics?path=${encodeURIComponent(state.path)}&solo=${solo}`);
+    const { mtime, relics } = await api(
+      `/api/relics?path=${encodeURIComponent(state.path)}&solo=${solo}${force ? "&force=1" : ""}`);
+    // Il gioco ha salvato: l'eventuale avviso "non ha ancora salvato" non serve più.
+    if (mtime !== state.mtime) $("#notice").hidden = true;
     state.mtime = mtime;
     state.relics = relics;
     state.byUid = new Map(relics.map((r) => [r.uid, r]));
@@ -106,6 +109,32 @@ async function loadRelics() {
   } catch (err) {
     setSync(err.message, "error");
   }
+}
+
+function fillSaves(saves) {
+  const saveSel = $("#save");
+  saveSel.replaceChildren(...saves.map((s) => new Option(`${s.name} — ${timeOf(s.mtime)}`, s.path)));
+  if (state.path) saveSel.value = state.path;
+}
+
+// Tasto Aggiorna: ricerca di nuovo i salvataggi e rilegge quello scelto anche se sembra invariato.
+async function refresh() {
+  const before = state.mtime;
+  try {
+    const { saves } = await api("/api/saves");
+    state.saves = saves;
+    if (!saves.length) return setSync("noSaves", "error");
+    if (!saves.some((s) => s.path === state.path)) state.path = saves[0].path;
+    fillSaves(saves);
+  } catch (err) {
+    return setSync(err.message, "error");
+  }
+  await loadRelics(true);
+  if (state.sync.cls === "error") return;
+  setSync("refreshed", "live", timeOf(state.mtime));
+  const notice = $("#notice");
+  notice.hidden = state.mtime !== before;
+  if (!notice.hidden) notice.textContent = T().notSavedYet(timeOf(state.mtime));
 }
 
 // Se il gioco salva, il file cambia: lo rileggiamo da soli.
@@ -304,6 +333,11 @@ $("#solo").addEventListener("change", (e) => {
   loadRelics();
 });
 $("#showMore").addEventListener("click", () => { state.shown += PAGE; render(); });
+$("#refresh").addEventListener("click", async () => {
+  const btn = $("#refresh");
+  btn.disabled = true;
+  try { await refresh(); } finally { btn.disabled = false; }
+});
 
 // Si parte quando anche characters.js è caricato.
 document.addEventListener("DOMContentLoaded", () => init().catch((err) => setSync(err.message, "error")));

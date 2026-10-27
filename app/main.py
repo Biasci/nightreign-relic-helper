@@ -48,10 +48,10 @@ def allowed_save(path):
     return path in {s["path"] for s in saves_info()}
 
 
-def load(path):
+def load(path, force=False):
     mtime = Path(path).stat().st_mtime
     hit = cache.get(path)
-    if hit and hit[0] == mtime:
+    if hit and hit[0] == mtime and not force:
         return hit
     cache[path] = (mtime, [asdict(r) for r in read_save(path, game)])
     return cache[path]
@@ -95,7 +95,7 @@ class Handler(SimpleHTTPRequestHandler):
             return self.send_json({"mtime": Path(path).stat().st_mtime})
         if url.path == "/api/relics":
             try:
-                mtime, relics = load(path)
+                mtime, relics = load(path, force=query.get("force") == "1")
             except Exception as exc:  # il gioco potrebbe star scrivendo il file proprio ora
                 return self.send_json({"error": f"Lettura non riuscita: {exc}"}, 503)
             try:

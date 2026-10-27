@@ -41,6 +41,8 @@ h1 { margin: 0; font: 600 20px/1.2 Georgia, "Times New Roman", serif; color: var
 
 .top-right { display: flex; gap: 14px; align-items: center; flex-wrap: wrap; }
 .save-pick { display: flex; gap: 8px; align-items: center; color: var(--muted); }
+.refresh { display: inline-flex; align-items: center; gap: 6px; border-color: #6b5530; color: var(--gold); }
+.refresh:hover:not(:disabled) { background: #2a2416; }
 .lang { display: flex; border: 1px solid var(--line); border-radius: 6px; overflow: hidden; }
 .lang button { border: 0; border-radius: 0; padding: 5px 10px; background: var(--panel-2); color: var(--muted); font-size: 12.5px; }
 .lang button.on { background: #3c3418; color: var(--gold); }
