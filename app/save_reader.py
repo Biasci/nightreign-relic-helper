@@ -44,6 +44,8 @@ class Relic:
     deep: bool
     effects: list = field(default_factory=list)
     order: int = 0  # posizione nell'inventario (più alto = più recente)
+    slot: int = 0  # posizione nella griglia del gioco (normali e profonde contano a parte)
+    slot_color: int = 0  # posizione con il filtro per colore attivo nel gioco
     unknown: bool = False
 
 
@@ -130,7 +132,16 @@ def parse_relics(data: bytes, game: GameData):
             relic.unknown |= eid not in game.effects
             relic.effects.append(effect)
         relics[uid] = relic
-    return sorted(relics.values(), key=lambda r: r.order, reverse=True)
+
+    # Il gioco mostra prima le più recenti, normali e profonde in schermate separate.
+    ordered = sorted(relics.values(), key=lambda r: (r.deep, -r.order))
+    counters = {}
+    for r in ordered:
+        r.slot = counters.get(r.deep, 0)
+        r.slot_color = counters.get((r.deep, r.color), 0)
+        counters[r.deep] = r.slot + 1
+        counters[(r.deep, r.color)] = r.slot_color + 1
+    return ordered
 
 
 def read_save(path, game: GameData):

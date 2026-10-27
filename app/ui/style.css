@@ -15,6 +15,8 @@
 }
 
 * { box-sizing: border-box; }
+/* Le sezioni con display: flex/grid altrimenti ignorerebbero l'attributo hidden. */
+[hidden] { display: none !important; }
 
 body {
   margin: 0;
@@ -169,6 +171,15 @@ code { background: var(--panel-2); border-radius: 4px; padding: 0 4px; font-size
   .char-view, .banner { margin-left: 16px; margin-right: 16px; padding-left: 0; padding-right: 0; }
   .char-grid { grid-template-columns: 1fr; }
 }
+
+.grid h2.section {
+  grid-column: 1 / -1; margin: 10px 0 0; font: 600 15px/1.3 Georgia, serif; color: var(--gold);
+  border-bottom: 1px solid var(--line); padding-bottom: 4px;
+}
+.grid h2.section:first-child { margin-top: 0; }
+.relic .pos { font-size: 11px; color: var(--muted); margin-bottom: 2px; letter-spacing: .02em; }
+.relic li.off { opacity: .4; }
+.badge.score-badge { color: var(--gold); border-color: #6b5530; background: #2a2416; }
 
 .more { text-align: center; padding-bottom: 24px; }
 .empty { grid-column: 1 / -1; color: var(--muted); text-align: center; padding: 40px 0; }

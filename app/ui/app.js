@@ -131,9 +131,11 @@ function matches(relic) {
   if (f.kind === "normal" && relic.deep) return false;
   if (f.kind === "deep" && !relic.deep) return false;
   if (f.character) {
-    // Scarta le reliquie con effetti riservati ad altri personaggi.
-    const usable = relic.effects.some((e) => !e.characters.length || e.characters.includes(f.character));
-    const foreign = relic.effects.some((e) => e.characters.length && !e.characters.includes(f.character));
+    // Serve almeno un effetto che vale per il personaggio, e nessun effetto esclusivo di un altro
+    // personaggio. Gli effetti limitati a più personaggi (es. cambio abilità dell'arma) non escludono:
+    // per chi non può usarli semplicemente non si attivano.
+    const usable = relic.effects.some((e) => appliesTo(e, f.character));
+    const foreign = relic.effects.some((e) => e.characters.length === 1 && e.characters[0] !== f.character);
     if (!usable || foreign) return false;
   }
   if (f.text) {
@@ -158,12 +160,23 @@ function highlight(text) {
   return html.replace(/^(\[[^\]]+\])/, '<span class="who">$1</span>');
 }
 
+const appliesTo = (effect, character) => !effect.characters.length || effect.characters.includes(character);
+
 function effectList(relic, withScores) {
+  const who = state.filters.character;
   return relic.effects.map((e, i) => {
     const score = withScores ? `<span class="score s${relic.effect_scores[i]}">${relic.effect_scores[i]}</span>` : "";
     const curse = e.curse ? `<span class="curse">${highlight(nm(e.curse))}</span>` : "";
-    return `<li>${score}${highlight(nm(e))}${curse}</li>`;
+    // Con un personaggio selezionato, gli effetti che non valgono per lui sono attenuati.
+    const off = who && !appliesTo(e, who) ? ` class="off" title="${esc(T().notFor(charName(who)))}"` : "";
+    return `<li${off}>${score}${highlight(nm(e))}${curse}</li>`;
   }).join("");
+}
+
+// Posizione nella griglia del gioco: 8 reliquie per riga, più recenti per prime.
+function gridPos(relic) {
+  const i = state.filters.color === "all" ? relic.slot : relic.slot_color;
+  return T().gridPos(Math.floor(i / 8) + 1, (i % 8) + 1);
 }
 
 function reasonOf(relic, verdict) {
@@ -183,12 +196,15 @@ function reasonOf(relic, verdict) {
 function relicCard(r) {
   const t = T();
   const verdict = state.tab === "junk" ? verdictOf(r) : null;
+  const who = state.filters.character;
   const badges = [
+    who ? `<span class="badge score-badge" title="${esc(t.scoreFor(charName(who)))}">${r.scores[who]}</span>` : "",
     r.deep ? `<span class="badge">${t.deep}</span>` : "",
     verdict ? `<span class="badge junk ${verdict.kind}">${t.verdict[verdict.kind]}</span>` : "",
   ].join("");
   return `
     <article class="relic ${r.color}${r.deep ? " deep" : ""}">
+      <div class="pos" title="${esc(t.gridHelp)}">${gridPos(r)}</div>
       <h3><span>${highlight(nm(r))}</span><span class="badges">${badges}</span></h3>
       <ul>${effectList(r, state.tab === "junk")}</ul>
       ${verdict ? `<div class="reason">${reasonOf(r, verdict)}</div>` : ""}
@@ -209,9 +225,6 @@ function render() {
     $("#nDominated").textContent = count("dominated");
     $("#nWeak").textContent = count("weak");
     list = state.junk.kind === "all" ? junk : junk.filter((r) => verdictOf(r).kind === state.junk.kind);
-    // Prima le più sicure da buttare, poi le meno utili.
-    const rank = { duplicate: 0, dominated: 1, weak: 2 };
-    list.sort((a, b) => rank[verdictOf(a).kind] - rank[verdictOf(b).kind] || a.best - b.best);
     summary = t.junkSummary(junk.length, total) + (list.length !== junk.length ? t.shownCount(list.length) : "");
   } else {
     const deep = state.relics.filter((r) => r.deep).length;
@@ -219,9 +232,14 @@ function render() {
   }
 
   $("#summary").textContent = total ? summary : "";
-  $("#list").innerHTML = list.length
-    ? list.slice(0, state.shown).map(relicCard).join("")
-    : total ? `<p class="empty">${t.empty}</p>` : "";
+  // L'elenco arriva già nell'ordine del gioco: prima le normali, poi le profonde.
+  let lastDeep = null;
+  const cards = list.slice(0, state.shown).map((r) => {
+    const head = r.deep !== lastDeep ? `<h2 class="section">${r.deep ? t.sectionDeep : t.sectionNormal}</h2>` : "";
+    lastDeep = r.deep;
+    return head + relicCard(r);
+  });
+  $("#list").innerHTML = list.length ? cards.join("") : total ? `<p class="empty">${t.empty}</p>` : "";
   $("#more").hidden = list.length <= state.shown;
 }
 
