@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Nightreign Relic Helper</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <div class="brand">
+      <h1>Nightreign Relic Helper</h1>
+      <span id="sync" class="sync"></span>
+      <span id="researchInfo" class="sync"></span>
+    </div>
+    <div class="top-right">
+      <label class="save-pick">
+        <span data-i18n="save"></span>
+        <select id="save"></select>
+      </label>
+      <div class="lang" id="lang">
+        <button data-lang="it">IT</button>
+        <button data-lang="en">EN</button>
+      </div>
+    </div>
+  </header>
+
+  <nav class="tabs">
+    <button class="tab active" data-tab="relics" data-i18n="tabRelics"></button>
+    <button class="tab" data-tab="junk" data-i18n="tabJunk"></button>
+    <button class="tab" disabled data-i18n="tabBuilds" data-i18n-title="soon"></button>
+    <button class="tab" data-tab="characters" data-i18n="tabCharacters"></button>
+  </nav>
+
+  <div id="updateBanner" class="banner" hidden></div>
+
+  <section id="charView" class="char-view" hidden>
+    <div class="char-picker" id="charPicker"></div>
+    <div id="charBody"></div>
+  </section>
+
+  <section class="junk-bar" id="junkBar" hidden>
+    <div class="chips" id="kinds">
+      <button class="chip on" data-kind="all"><span data-i18n="kindAll"></span></button>
+      <button class="chip" data-kind="duplicate"><span data-i18n="kindDuplicates"></span> <b id="nDuplicate"></b></button>
+      <button class="chip" data-kind="dominated"><span data-i18n="kindDominated"></span> <b id="nDominated"></b></button>
+      <button class="chip" data-kind="weak"><span data-i18n="kindWeak"></span> <b id="nWeak"></b></button>
+    </div>
+    <label class="threshold" data-i18n-title="thresholdHelp">
+      <span data-i18n="threshold"></span> <input id="threshold" type="range" min="0" max="10" value="5"> <b id="thresholdValue">5</b>
+    </label>
+    <label class="solo"><input id="solo" type="checkbox" checked> <span data-i18n="solo"></span></label>
+    <p class="hint" data-i18n-html="junkHint"></p>
+  </section>
+
+  <section class="filters" id="filters">
+    <input id="search" type="search" data-i18n-placeholder="search">
+    <div class="chips" id="colors">
+      <button class="chip on" data-color="all" data-i18n="allColors"></button>
+      <button class="chip red" data-color="red" data-i18n="red"></button>
+      <button class="chip blue" data-color="blue" data-i18n="blue"></button>
+      <button class="chip yellow" data-color="yellow" data-i18n="yellow"></button>
+      <button class="chip green" data-color="green" data-i18n="green"></button>
+    </div>
+    <select id="kind">
+      <option value="all" data-i18n="kindBoth"></option>
+      <option value="normal" data-i18n="kindNormal"></option>
+      <option value="deep" data-i18n="kindDeep"></option>
+    </select>
+    <select id="character">
+      <option value="" data-i18n="allCharacters"></option>
+    </select>
+  </section>
+
+  <p id="summary" class="summary"></p>
+  <main id="list" class="grid"></main>
+  <p id="more" class="more" hidden><button id="showMore" data-i18n="showMore"></button></p>
+
+  <script src="i18n.js"></script>
+  <script src="app.js"></script>
+  <script src="characters.js"></script>
+</body>
+</html>

@@ -1,0 +1,751 @@
+{
+  "characters": {
+    "Wylder": {
+      "confidence": "high",
+      "summary": {
+        "it": "Tra i migliori in solitaria (tier S): Sesto senso blocca un colpo letale per ogni luogo di grazia. Gioca da spadone a due mani con due rampini.",
+        "en": "One of the best solo picks (S tier): Sixth Sense blocks one lethal hit per Site of Grace. Plays as a two-handed greatsword bruiser with two Claw Shots."
+      },
+      "relic_effects": [
+        {"tier": "S", "effect": "[Wylder] +1 additional Character Skill use", "why": {"it": "Due rampini: mobilità, sbilanciamento e schivate extra.", "en": "Two Claw Shots: mobility, stagger and extra dodges."}},
+        {"tier": "S", "effect": "Character Skill Cooldown Reduction +3", "why": {"it": "Rampino disponibile molto più spesso.", "en": "Claw Shot available far more often."}},
+        {"tier": "S", "effect": "Physical Attack Up +2", "why": {"it": "Il bonus di danno fisico più alto sulle reliquie normali.", "en": "The biggest physical damage bonus on normal relics."}},
+        {"tier": "S", "effect": "Partial HP Restoration upon Post-Damage Attacks", "why": {"it": "Recuperi PV contrattaccando: meno ampolle consumate.", "en": "Recover HP by hitting back: fewer flasks used."}},
+        {"tier": "A", "effect": "[Wylder] Standard attacks enhanced with fiery follow-ups when using Character Skill (greatsword only)", "why": {"it": "+12 fuoco per 20 s e un fendente rotante gratis. Solo con gli spadoni.", "en": "+12 fire for 20 s and a free spin slash. Greatswords only."}},
+        {"tier": "A", "effect": "[Wylder] Art gauge greatly filled when ability is activated", "why": {"it": "Sesto senso riempie il 18% dell'arte suprema.", "en": "Sixth Sense fills 18% of the Ultimate Art gauge."}},
+        {"tier": "A", "effect": "[Wylder] Art activation spreads fire in area", "why": {"it": "Dalla 1.03.2 le bruciature caricano anche l'indicatore dell'arte.", "en": "Since 1.03.2 the burn also charges the Art gauge."}},
+        {"tier": "A", "effect": "Improved Greatsword Attack Power", "why": {"it": "+9% con la sua arma ideale.", "en": "+9% with his ideal weapon."}},
+        {"tier": "A", "effect": "Improved Critical Hits", "why": {"it": "+18% sui critici, si somma con se stesso.", "en": "+18% on criticals, stacks with itself."}},
+        {"tier": "A", "effect": "Improved Stance-Breaking when Two-Handing", "why": {"it": "Gioca a due mani: sbilancia prima i boss.", "en": "He two-hands: breaks boss stance sooner."}},
+        {"tier": "A", "effect": "Vigor +3", "why": {"it": "Più PV in solitaria.", "en": "More HP solo."}},
+        {"tier": "A", "effect": "Strength +3", "why": {"it": "Forza è la sua statistica principale.", "en": "Strength is his main stat."}},
+        {"tier": "B", "effect": "Fire Attack Power Up +2", "why": {"it": "Si abbina ai colpi di fuoco dello spadone.", "en": "Pairs with the greatsword fire follow-ups."}},
+        {"tier": "B", "effect": "Ultimate Art Auto Charge +3", "why": {"it": "Arte suprema più frequente.", "en": "More frequent Ultimate Art."}},
+        {"tier": "C", "effect": "Improved Bow Attack Power", "why": {"it": "Indebolito e fuori dal suo stile.", "en": "Nerfed and off-style for him."}}
+      ],
+      "deep_effects": [
+        {"tier": "S", "effect": "Attack power increased for each Night Invader defeated", "why": {"it": "Danno che cresce durante la spedizione, si moltiplica a ogni uccisione.", "en": "Damage that grows during the run, multiplies with each kill."}},
+        {"tier": "S", "effect": "Attack power increased for each evergaol prisoner defeated", "why": {"it": "+5% per prigioniero, su tutto il danno.", "en": "+5% per prisoner, on all damage."}},
+        {"tier": "S", "effect": "Physical Attack Up +4", "why": {"it": "+12% danno fisico.", "en": "+12% physical damage."}},
+        {"tier": "A", "effect": "[Wylder] Character Skill inflicts Blood Loss", "why": {"it": "Il rampino accumula sanguinamento: base della build emorragia.", "en": "Claw Shot builds bleed: the core of the bleed build."}},
+        {"tier": "A", "effect": "Increased Maximum HP", "why": {"it": "+10% PV, la difesa preferita dalla community.", "en": "+10% HP, the community's favourite defence."}},
+        {"tier": "A", "effect": "Arcane increased for each great enemy defeated at a Ruin", "why": {"it": "Più arcano: più accumulo di stato.", "en": "More Arcane: more status buildup."}},
+        {"tier": "B", "effect": "Fire Attack Power Up +4", "why": {"it": "Solo con la build dei colpi di fuoco.", "en": "Only with the fire follow-up build."}},
+        {"tier": "C", "effect": "[Wylder] Improved Mind, Reduced Vigor", "why": {"it": "-5 vitalità: debole in solitaria.", "en": "-5 Vigor: weak solo."}}
+      ],
+      "curses": {
+        "harmless": [
+          {"curse": "Reduced Intelligence and Dexterity", "why": {"it": "Non usa intelligenza; la destrezza persa si recupera con un +2.", "en": "He doesn't use Int; the Dex loss is offset by a +2."}},
+          {"curse": "Less Likely to Be Targeted", "why": {"it": "In solitaria i nemici attaccano comunque te.", "en": "Solo, enemies target you anyway."}},
+          {"curse": "Near Death Reduces Max HP", "why": {"it": "In solitaria quasi irrilevante.", "en": "Nearly irrelevant solo."}}
+        ],
+        "avoid": [
+          {"curse": "Reduced Strength and Intelligence", "why": {"it": "Taglia la forza, la sua statistica principale.", "en": "Cuts Strength, his main stat."}},
+          {"curse": "Reduced Faith and Strength", "why": {"it": "Taglia la forza.", "en": "Cuts Strength."}},
+          {"curse": "Reduced Damage Negation After Evading", "why": {"it": "Rotola spesso.", "en": "He rolls a lot."}},
+          {"curse": "Lower Attack When Below Max HP", "why": {"it": "Da mischia prende spesso danni leggeri.", "en": "As melee he often takes chip damage."}},
+          {"curse": "Taking Damage Causes Frost Buildup", "why": {"it": "Il malus più odiato dai giocatori.", "en": "The players' most hated curse."}}
+        ]
+      },
+      "weapon_passives": [
+        {"tier": "S", "passive": {"it": "Potenza d'attacco migliorata impugnando a due mani", "en": "Improved Attack Power when Two-Handing"}, "why": {"it": "Il passivo più consigliato per lui.", "en": "The most recommended passive for him."}},
+        {"tier": "S", "passive": {"it": "Riduzione danni migliorata a PV pieni", "en": "Improved Damage Negation at Full HP"}, "why": {"it": "Protegge dai colpi che uccidono in un colpo.", "en": "Protects against one-shots."}},
+        {"tier": "S", "passive": {"it": "Gli attacchi consecutivi riducono i danni", "en": "Successive Attacks Negate Damage"}, "why": {"it": "Ottimo per chi resta in mischia.", "en": "Great for staying in melee."}},
+        {"tier": "A", "passive": {"it": "Potenza attacco affinità migliorata", "en": "Improved Affinity Attack Power"}, "why": {"it": "Più danno elementale.", "en": "More elemental damage."}},
+        {"tier": "A", "passive": {"it": "Sbilanciamento migliorato a due mani", "en": "Improved Stance-Breaking when Two-Handing"}, "why": {"it": "Boss a terra più spesso.", "en": "Bosses staggered more often."}},
+        {"tier": "A", "passive": {"it": "Potenza attacco abilità migliorata", "en": "Improved Skill Attack Power"}, "why": {"it": "Più danno con le abilità delle armi.", "en": "More damage from weapon skills."}}
+      ],
+      "weapons": [
+        {"tier": "S", "name": {"it": "Spadoni: Flamberge, Spadone biforcuto, Spada di Milos, Spadone di Ordovis, Lama nera del gargoyle", "en": "Greatswords: Flamberge, Forked Greatsword, Sword of Milos, Ordovis's Greatsword, Gargoyle's Blackblade"}, "why": {"it": "Il suo moveset migliore e attivano il bonus fuoco della reliquia.", "en": "His best moveset and they enable the relic fire bonus."}},
+        {"tier": "A", "name": {"it": "Attizzatoio della morte", "en": "Death's Poker"}, "why": {"it": "Assideramento ottimo in solitaria.", "en": "Great frost in solo play."}},
+        {"tier": "A", "name": {"it": "Lama blasfema", "en": "Blasphemous Blade"}, "why": {"it": "Cura a ogni colpo andato a segno.", "en": "Heals on hit."}},
+        {"tier": "A", "name": {"it": "Spade colossali (es. Spadone dell'astroflagello, Spadone innestato)", "en": "Colossal swords (e.g. Starscourge Greatsword, Grafted Blade Greatsword)"}, "why": {"it": "Danno vicino a quello del Predone.", "en": "Damage close to Raider's."}},
+        {"tier": "B", "name": {"it": "Alabarde e asce", "en": "Halberds and axes"}, "why": {"it": "Buone se non usi la reliquia degli spadoni.", "en": "Fine if you skip the greatsword relic."}}
+      ],
+      "builds": [
+        {
+          "name": {"it": "Spadone in solitaria", "en": "Solo greatsword bruiser"},
+          "vessel": {"it": "Calice del Selvaggio (o un calice con 2 slot rossi)", "en": "Wylder's Chalice (or any vessel with 2 red slots)"},
+          "normal": ["[Wylder] +1 additional Character Skill use", "Physical Attack Up +2", "Partial HP Restoration upon Post-Damage Attacks"],
+          "deep": ["Attack power increased for each Night Invader defeated", "Physical Attack Up +4", "Increased Maximum HP"],
+          "notes": {"it": "La build più sicura per giocare da solo.", "en": "The safest build for solo play."}
+        },
+        {
+          "name": {"it": "Rampino emorragico", "en": "Bleed Claw Shot"},
+          "vessel": {"it": "Qualsiasi calice con slot liberi", "en": "Any vessel with free slots"},
+          "normal": ["[Wylder] Standard attacks enhanced with fiery follow-ups when using Character Skill (greatsword only)", "Starting armament inflicts blood loss", "Character Skill Cooldown Reduction +3"],
+          "deep": ["[Wylder] Character Skill inflicts Blood Loss", "Arcane increased for each great enemy defeated at a Ruin", "Physical Attack Up +4"],
+          "notes": {"it": "Ogni rampino accumula sanguinamento sui boss.", "en": "Every Claw Shot builds bleed on bosses."}
+        }
+      ]
+    },
+
+    "Guardian": {
+      "confidence": "medium",
+      "summary": {
+        "it": "Tier B in solitaria ma con i PV più alti del gioco. Potenziato nella 1.03.2: gioca di parata e contrattacco con alabarda e scudo.",
+        "en": "B tier solo but with the highest HP in the game. Buffed in 1.03.2: plays guard-and-counter with halberd and shield."
+      },
+      "relic_effects": [
+        {"tier": "S", "effect": "Improved Guard Counters", "why": {"it": "Il contrattacco dopo la parata è il suo danno principale.", "en": "Guard counters are his main damage."}},
+        {"tier": "S", "effect": "Guard counter is given a boost based on current HP", "why": {"it": "Scala con i suoi PV altissimi.", "en": "Scales with his huge HP."}},
+        {"tier": "S", "effect": "[Guardian] Successful guards send out shockwaves while ability is active", "why": {"it": "Onde d'urto da 100 danni base, potenziate nella 1.03.2.", "en": "100 base damage shockwaves, buffed in 1.03.2."}},
+        {"tier": "S", "effect": "HP Recovery From Successful Guarding", "why": {"it": "Ti curi parando; potenziato nella 1.03.2.", "en": "Heal while guarding; buffed in 1.03.2."}},
+        {"tier": "A", "effect": "Character Skill Cooldown Reduction +3", "why": {"it": "Turbine più spesso.", "en": "Whirlwind more often."}},
+        {"tier": "A", "effect": "[Guardian] Increased duration for Character Skill", "why": {"it": "Turbine più lungo e più forte.", "en": "Longer, stronger Whirlwind."}},
+        {"tier": "A", "effect": "Successful guarding fills more of the Art gauge", "why": {"it": "Arte suprema più spesso parando.", "en": "More Ultimate Art by guarding."}},
+        {"tier": "A", "effect": "[Guardian] Creates whirlwind when charging halberd attacks", "why": {"it": "Danno extra con l'alabarda.", "en": "Extra halberd damage."}},
+        {"tier": "A", "effect": "HP Restoration upon Thrusting Counterattack", "why": {"it": "2,5% PV per contrattacco in affondo.", "en": "2.5% HP per thrusting counter."}},
+        {"tier": "A", "effect": "Strength +3", "why": {"it": "Statistica principale.", "en": "Main stat."}},
+        {"tier": "B", "effect": "Physical Attack Up +2", "why": {"it": "Danno generico.", "en": "Generic damage."}},
+        {"tier": "B", "effect": "Endurance +3", "why": {"it": "Più vigore per parare.", "en": "More stamina for guarding."}},
+        {"tier": "C", "effect": "Draw enemy attention while guarding", "why": {"it": "Inutile in solitaria.", "en": "Useless solo."}},
+        {"tier": "C", "effect": "[Guardian] Slowly restores nearby allies' HP while Art is active", "why": {"it": "Cura solo gli alleati.", "en": "Heals allies only."}}
+      ],
+      "deep_effects": [
+        {"tier": "S", "effect": "Improved Guard Counters +2", "why": {"it": "+29% sui contrattacchi.", "en": "+29% on guard counters."}},
+        {"tier": "A", "effect": "Successful guarding fills more of the Art gauge +1", "why": {"it": "1,5% di arte per parata.", "en": "1.5% gauge per block."}},
+        {"tier": "A", "effect": "Improved Affinity Damage Negation +2", "why": {"it": "Meglio della difesa fisica: lo scudo copre già il fisico.", "en": "Better than physical: the shield already covers physical."}},
+        {"tier": "A", "effect": "Increased Maximum HP", "why": {"it": "Più PV anche per il contrattacco basato sui PV.", "en": "More HP, also for the HP-based counter."}},
+        {"tier": "A", "effect": "Max HP increased for each great enemy defeated at a Great Church.", "why": {"it": "+5% PV per boss della chiesa.", "en": "+5% HP per church boss."}},
+        {"tier": "B", "effect": "[Guardian] Character Skill Boosts Damage Negation of Nearby Allies", "why": {"it": "Vale anche per te: +12% per 30 s.", "en": "Also applies to you: +12% for 30 s."}},
+        {"tier": "B", "effect": "[Guardian] Improved Strength and Dexterity, Reduced Vigor", "why": {"it": "+9 forza, +19 destrezza: ha PV da sacrificare.", "en": "+9 Str, +19 Dex: he has HP to spare."}}
+      ],
+      "curses": {
+        "harmless": [
+          {"curse": "Reduced Damage Negation After Evading", "why": {"it": "Para invece di rotolare.", "en": "He blocks instead of rolling."}},
+          {"curse": "Repeated Evasions Lower Damage Negation", "why": {"it": "Rotola poco.", "en": "He rarely rolls."}},
+          {"curse": "Reduced Intelligence and Dexterity", "why": {"it": "Statistiche che non usa.", "en": "Stats he doesn't use."}}
+        ],
+        "avoid": [
+          {"curse": "Lower Stamina Impairs Dmg Negation", "why": {"it": "Parare consuma vigore.", "en": "Guarding drains stamina."}},
+          {"curse": "Reduced Maximum Stamina", "why": {"it": "Meno parate.", "en": "Fewer blocks."}},
+          {"curse": "Impaired Affinity Damage Negation", "why": {"it": "Lo scudo non copre gli elementi.", "en": "The shield doesn't cover elements."}}
+        ]
+      },
+      "weapon_passives": [
+        {"tier": "S", "passive": {"it": "Subire danni aumenta la riduzione danni", "en": "Taking Damage Boosts Damage Negation"}, "why": {"it": "Perfetto per un tank.", "en": "Perfect for a tank."}},
+        {"tier": "S", "passive": {"it": "Capacità di parata migliorata", "en": "Improved Guarding Ability"}, "why": {"it": "Parate più solide.", "en": "Sturdier guards."}},
+        {"tier": "S", "passive": {"it": "La parata efficace aumenta la riduzione danni", "en": "Successful Guarding Ups Dmg Negation"}, "why": {"it": "Difesa che sale parando.", "en": "Defence rises as you guard."}},
+        {"tier": "S", "passive": {"it": "Contrattacchi in difesa migliorati", "en": "Improved Guard Counters"}, "why": {"it": "Il suo danno principale.", "en": "His main damage."}},
+        {"tier": "A", "passive": {"it": "La parata efficace aumenta la stabilità", "en": "Successful Guarding Ups Poise"}, "why": {"it": "Meno interruzioni.", "en": "Fewer interruptions."}},
+        {"tier": "B", "passive": {"it": "Ripristino PV con attacchi di alabarda", "en": "HP Restoration upon Halberd Attacks"}, "why": {"it": "Cura di base, da sostituire più avanti.", "en": "Basic healing, replace later."}}
+      ],
+      "weapons": [
+        {"tier": "S", "name": {"it": "Alabarde: Stendardo del comandante, Alabarda a mezzaluna ondulata, Alabarda del drago, Alabarda del gargoyle", "en": "Halberds: Commander's Standard, Ripple Crescent Halberd, Dragon Halberd, Gargoyle's Halberd"}, "why": {"it": "Il suo moveset; contrattacchi potenziati.", "en": "His moveset; buffed guard counters."}},
+        {"tier": "S", "name": {"it": "Scudi grandi con alta parata (es. Scudo medusa)", "en": "High Guard Boost greatshields (e.g. Jellyfish Shield)"}, "why": {"it": "Base dello stile parata e contrattacco.", "en": "Core of the guard-and-counter style."}},
+        {"tier": "A", "name": {"it": "Lance pesanti (Lancia sacra di Mohgwyn), Ascia deformata", "en": "Great spears (Mohgwyn's Sacred Spear), Warped Axe"}, "why": {"it": "Ottimi contrattacchi e portata.", "en": "Great counters and reach."}},
+        {"tier": "B", "name": {"it": "Martelli e flagelli", "en": "Hammers and flails"}, "why": {"it": "Contrattacchi forti.", "en": "Strong guard counters."}}
+      ],
+      "builds": [
+        {
+          "name": {"it": "Tank da contrattacco", "en": "Counter tank"},
+          "vessel": {"it": "Calice del Guardiano", "en": "Guardian's Chalice"},
+          "normal": ["Guard counter is given a boost based on current HP", "[Guardian] Successful guards send out shockwaves while ability is active", "HP Recovery From Successful Guarding"],
+          "deep": ["Improved Guard Counters +2", "Improved Affinity Damage Negation +2", "Increased Maximum HP"],
+          "notes": {"it": "Para tutto, curati parando e punisci con i contrattacchi.", "en": "Block everything, heal by guarding and punish with counters."}
+        },
+        {
+          "name": {"it": "Turbine", "en": "Whirlwind"},
+          "vessel": {"it": "Calice del Guardiano", "en": "Guardian's Chalice"},
+          "normal": ["[Guardian] Increased duration for Character Skill", "Character Skill Cooldown Reduction +3", "[Guardian] Creates whirlwind when charging halberd attacks"],
+          "deep": ["Physical Attack Up +4", "Increased Maximum HP", "Improved Guard Counters +2"],
+          "notes": {"it": "Più aggressiva, basata sull'abilità.", "en": "More aggressive, skill-based."}
+        }
+      ]
+    },
+
+    "Ironeye": {
+      "confidence": "medium",
+      "summary": {
+        "it": "Tier S in solitaria: combatte a distanza con l'arco e il punto debole. Gli effetti degli archi sono stati indeboliti nella 1.03.2; poche guide aggiornate.",
+        "en": "S tier solo: fights at range with the bow and weak point. Bow effects were nerfed in 1.03.2; few updated guides."
+      },
+      "relic_effects": [
+        {"tier": "S", "effect": "[Ironeye] +1 additional Character Skill use", "why": {"it": "Due Marchi, utili anche come schivata.", "en": "Two Markings, also usable as a dodge."}},
+        {"tier": "S", "effect": "[Ironeye] Extends duration of weak point", "why": {"it": "Punto debole da 17,5 a 22 secondi.", "en": "Weak point from 17.5 to 22 seconds."}},
+        {"tier": "S", "effect": "Dexterity +3", "why": {"it": "Destrezza è la sua statistica principale.", "en": "Dexterity is his main stat."}},
+        {"tier": "S", "effect": "Character Skill Cooldown Reduction +3", "why": {"it": "Marchi più frequenti.", "en": "More frequent Markings."}},
+        {"tier": "A", "effect": "[Ironeye] Art Charge Activation Adds Poison Effect", "why": {"it": "300 di veleno con l'arte caricata.", "en": "300 poison on a full charge."}},
+        {"tier": "A", "effect": "Attack power up when facing poison-afflicted enemy", "why": {"it": "Sinergia con il veleno.", "en": "Synergy with poison."}},
+        {"tier": "A", "effect": "Improved Initial Standard Attack", "why": {"it": "Ogni primo colpo più forte.", "en": "Every first hit stronger."}},
+        {"tier": "A", "effect": "[Ironeye] Boosts thrusting counterattacks after executing Art", "why": {"it": "+20% per 30 s: ogni freccia conta come affondo.", "en": "+20% for 30 s: every arrow counts as a thrust."}},
+        {"tier": "A", "effect": "Changes compatible armament's skill to Rain of Arrows at start of expedition", "why": {"it": "Ottimo con veleno o assideramento sull'arma iniziale.", "en": "Great with poison or frost on the starting weapon."}},
+        {"tier": "A", "effect": "Physical Attack Up +2", "why": {"it": "Danno generico.", "en": "Generic damage."}},
+        {"tier": "B", "effect": "Improved Bow Attack Power", "why": {"it": "Indebolito, ma resta utile solo a lui.", "en": "Nerfed, but still only useful on him."}},
+        {"tier": "B", "effect": "HP Restoration upon Thrusting Counterattack", "why": {"it": "Funziona anche con le frecce.", "en": "Works with arrows too."}},
+        {"tier": "B", "effect": "Stamina Recovery upon Landing Attacks", "why": {"it": "Più vigore per tirare.", "en": "More stamina for shooting."}},
+        {"tier": "C", "effect": "Partial HP Restoration upon Post-Damage Attacks", "why": {"it": "Dubbio che funzioni con gli archi.", "en": "Disputed whether bows trigger it."}}
+      ],
+      "deep_effects": [
+        {"tier": "S", "effect": "[Ironeye] Character Skill Inflicts Heavy Poison Damage on Poisoned Enemies", "why": {"it": "Considerato un \"must-have\" per la build veleno.", "en": "Called a must-have for the poison build."}},
+        {"tier": "A", "effect": "Arcane increased for each great enemy defeated at a Ruin", "why": {"it": "Più accumulo di veleno.", "en": "More poison buildup."}},
+        {"tier": "A", "effect": "Physical Attack Up +4", "why": {"it": "+12% danno fisico.", "en": "+12% physical damage."}},
+        {"tier": "A", "effect": "Attack power up when facing poison-afflicted enemy +2", "why": {"it": "+20% contro nemici avvelenati.", "en": "+20% against poisoned enemies."}},
+        {"tier": "A", "effect": "Increased Maximum HP", "why": {"it": "È fragile.", "en": "He's fragile."}},
+        {"tier": "B", "effect": "[Ironeye] Improved Arcane, Reduced Dexterity", "why": {"it": "+26% accumulo di stato per circa -6% danno con l'arco.", "en": "About +26% status buildup for about -6% bow damage."}}
+      ],
+      "curses": {
+        "harmless": [
+          {"curse": "Taking Damage Causes Poison Buildup", "why": {"it": "A distanza vieni colpito poco.", "en": "At range you rarely get hit."}},
+          {"curse": "Reduced Strength and Intelligence", "why": {"it": "Statistiche che non usa.", "en": "Stats he doesn't use."}},
+          {"curse": "Reduced Faith and Strength", "why": {"it": "Statistiche che non usa.", "en": "Stats he doesn't use."}}
+        ],
+        "avoid": [
+          {"curse": "Reduced Intelligence and Dexterity", "why": {"it": "Taglia la destrezza.", "en": "Cuts Dexterity."}},
+          {"curse": "Reduced Dexterity and Faith", "why": {"it": "Taglia la destrezza.", "en": "Cuts Dexterity."}},
+          {"curse": "Reduced Damage Negation After Evading", "why": {"it": "Rotola spesso.", "en": "He rolls a lot."}},
+          {"curse": "Lower Attack When Below Max HP", "why": {"it": "Meno danno appena prendi un colpo.", "en": "Less damage after any hit."}}
+        ]
+      },
+      "weapon_passives": [
+        {"tier": "S", "passive": {"it": "Attacchi a distanza migliorati", "en": "Improved Ranged Weapon Attacks"}, "why": {"it": "Più danno con l'arco.", "en": "More bow damage."}},
+        {"tier": "S", "passive": {"it": "Potenza d'attacco migliorata a PV pieni", "en": "Improved Attack Power at Full HP"}, "why": {"it": "A distanza resti quasi sempre a PV pieni.", "en": "At range you're almost always at full HP."}},
+        {"tier": "S", "passive": {"it": "Gli attacchi infliggono veleno", "en": "Attacks Inflict Poison"}, "why": {"it": "Sinergia con la reliquia profonda del veleno.", "en": "Synergy with the deep poison relic."}},
+        {"tier": "A", "passive": {"it": "Calo del danno dei proiettili ridotto", "en": "Projectile Damage Drop-Off Reduced"}, "why": {"it": "Danno pieno anche da lontano.", "en": "Full damage at long range."}},
+        {"tier": "A", "passive": {"it": "Gli attacchi infliggono sonno", "en": "Attacks Inflict Sleep"}, "why": {"it": "Controllo dei nemici.", "en": "Crowd control."}},
+        {"tier": "B", "passive": {"it": "Ripristino PV con attacchi di arco", "en": "HP Restoration upon Bow Attacks"}, "why": {"it": "Cura di base.", "en": "Basic healing."}}
+      ],
+      "weapons": [
+        {"tier": "S", "name": {"it": "Arco ad arpa e archi con Raffica", "en": "Harp Bow and any bow with Barrage"}, "why": {"it": "Velocità di fuoco altissima.", "en": "Very fast fire rate."}},
+        {"tier": "A", "name": {"it": "Arco di corno, arco di Occhio di ferro, archi con stato o affinità", "en": "Horn Bow, Ironeye's Bow, status or affinity bows"}, "why": {"it": "Danno elementale o di stato.", "en": "Elemental or status damage."}},
+        {"tier": "A", "name": {"it": "Lama della fiamma nera", "en": "Black Flame Blade"}, "why": {"it": "Ottima arma di riserva.", "en": "Strong backup weapon."}},
+        {"tier": "B", "name": {"it": "Arma da mischia a destrezza (spade perforanti, pugnali)", "en": "Dex melee backup (thrusting swords, daggers)"}, "why": {"it": "Per quando i nemici si avvicinano. Balestre, baliste e archi grandi perdono il suo moveset.", "en": "For when enemies close in. Crossbows, ballistas and greatbows lose his moveset."}}
+      ],
+      "builds": [
+        {
+          "name": {"it": "Marchio velenoso", "en": "Poison Marking"},
+          "vessel": {"it": "Calice di Occhio di ferro", "en": "Ironeye's Chalice"},
+          "normal": ["[Ironeye] +1 additional Character Skill use", "[Ironeye] Art Charge Activation Adds Poison Effect", "Starting armament inflicts poison"],
+          "deep": ["[Ironeye] Character Skill Inflicts Heavy Poison Damage on Poisoned Enemies", "Arcane increased for each great enemy defeated at a Ruin", "Physical Attack Up +4"],
+          "notes": {"it": "Avvelena e poi colpisci col Marchio: la build di riferimento in Notte profonda.", "en": "Poison, then hit with Marking: the reference Deep of Night build."}
+        },
+        {
+          "name": {"it": "Critici sul punto debole", "en": "Weak-point crit"},
+          "vessel": {"it": "Calice di Occhio di ferro", "en": "Ironeye's Chalice"},
+          "normal": ["[Ironeye] Extends duration of weak point", "Improved Initial Standard Attack", "Character Skill Cooldown Reduction +3"],
+          "deep": ["Attack power increased for each evergaol prisoner defeated", "Physical Attack Up +4", "Increased Maximum HP"],
+          "notes": {"it": "Più danno puro, meno dipendente dal veleno.", "en": "More raw damage, less reliant on poison."}
+        }
+      ]
+    },
+
+    "Duchess": {
+      "confidence": "medium",
+      "summary": {
+        "it": "Tier B in solitaria per i PV bassi, tier S in gruppo. Gioca con pugnali doppi e Riproposizione (Restage) per raddoppiare il danno.",
+        "en": "B tier solo because of low HP, S tier in trios. Plays dual daggers and uses Restage to replay damage."
+      },
+      "relic_effects": [
+        {"tier": "S", "effect": "[Duchess] Improved Character Skill Attack Power", "why": {"it": "Riproposizione al 60%: il suo moltiplicatore principale. Non si cumula con se stesso.", "en": "Restage at 60%: her main multiplier. Doesn't stack with itself."}},
+        {"tier": "S", "effect": "Character Skill Cooldown Reduction +3", "why": {"it": "Riproposizione molto più spesso.", "en": "Restage much more often."}},
+        {"tier": "S", "effect": "Attack power increased for each Night Invader defeated", "why": {"it": "Danno che cresce durante la spedizione.", "en": "Damage that grows during the run."}},
+        {"tier": "A", "effect": "[Duchess] Reprise events upon nearby enemies by landing the final blow of a chain attack with dagger", "why": {"it": "Una Riproposizione gratis al 36-39%.", "en": "A free 36-39% Restage."}},
+        {"tier": "A", "effect": "Improved Dagger Attack Power", "why": {"it": "+9% con la sua arma.", "en": "+9% with her weapon."}},
+        {"tier": "A", "effect": "Starting armament inflicts blood loss", "why": {"it": "Lo stato si accumula in fretta coi pugnali.", "en": "Status builds fast with daggers."}},
+        {"tier": "A", "effect": "Improved Critical Hits", "why": {"it": "Ottima con le pugnalate alle spalle.", "en": "Great with backstabs."}},
+        {"tier": "A", "effect": "Magic Attack Power Up +2", "why": {"it": "Per le build con bastone o armi magiche.", "en": "For staff or magic weapon builds."}},
+        {"tier": "A", "effect": "Vigor +3", "why": {"it": "Compensa i PV bassi.", "en": "Offsets her low HP."}},
+        {"tier": "A", "effect": "Defeating enemies fills more of the Art gauge", "why": {"it": "Finale usabile spesso.", "en": "Frequent Finale."}},
+        {"tier": "B", "effect": "[Duchess] Defeating enemies while Art is active ups attack power", "why": {"it": "+15% per uccisione: utile con boss e servitori.", "en": "+15% per kill: good on bosses with adds."}},
+        {"tier": "B", "effect": "[Duchess] Become difficult to spot and silence footsteps after landing critical from behind", "why": {"it": "Situazionale.", "en": "Situational."}},
+        {"tier": "B", "effect": "Ultimate Art Auto Charge +3", "why": {"it": "Conta poco per lei.", "en": "Matters little for her."}}
+      ],
+      "deep_effects": [
+        {"tier": "S", "effect": "[Duchess] Use Character Skill for Brief Invulnerability", "why": {"it": "0,4 s di invulnerabilità a ogni Riproposizione.", "en": "0.4 s of invulnerability on each Restage."}},
+        {"tier": "A", "effect": "Physical Attack Up +4", "why": {"it": "+12% danno fisico.", "en": "+12% physical damage."}},
+        {"tier": "A", "effect": "Partial HP Restoration upon Post-Damage Attacks +2", "why": {"it": "Recupero PV forte coi colpi rapidi.", "en": "Strong HP recovery with fast hits."}},
+        {"tier": "A", "effect": "Increased Maximum HP", "why": {"it": "Ne ha bisogno in solitaria.", "en": "She needs it solo."}},
+        {"tier": "B", "effect": "Improved Sorceries +2", "why": {"it": "Solo con il bastone.", "en": "Staff builds only."}},
+        {"tier": "B", "effect": "[Duchess] Improved Vigor and Strength, Reduced Mind", "why": {"it": "+24 forza: buona per la mischia.", "en": "+24 Str: good for melee."}}
+      ],
+      "curses": {
+        "harmless": [
+          {"curse": "Reduced Faith and Strength", "why": {"it": "Statistiche secondarie per lei.", "en": "Secondary stats for her."}},
+          {"curse": "Less Likely to Be Targeted", "why": {"it": "In solitaria irrilevante.", "en": "Irrelevant solo."}}
+        ],
+        "avoid": [
+          {"curse": "Reduced Damage Negation After Evading", "why": {"it": "Rotola continuamente.", "en": "She rolls constantly."}},
+          {"curse": "Repeated Evasions Lower Damage Negation", "why": {"it": "Rotola continuamente.", "en": "She rolls constantly."}},
+          {"curse": "Reduced Intelligence and Dexterity", "why": {"it": "Le sue due statistiche principali.", "en": "Both her main stats."}},
+          {"curse": "Reduced Maximum HP", "why": {"it": "Ha già pochi PV.", "en": "She already has low HP."}}
+        ]
+      },
+      "weapon_passives": [
+        {"tier": "S", "passive": {"it": "Potenza attacco abilità migliorata", "en": "Improved Skill Attack Power"}, "why": {"it": "Più danno dalle abilità.", "en": "More skill damage."}},
+        {"tier": "S", "passive": {"it": "Attacco aumentato impugnando due armamenti", "en": "Attack Up when Wielding Two Armaments"}, "why": {"it": "Pugnali doppi.", "en": "Dual daggers."}},
+        {"tier": "S", "passive": {"it": "Riduzione danni migliorata a PV pieni", "en": "Improved Damage Negation at Full HP"}, "why": {"it": "Protegge dai colpi letali.", "en": "Protects against one-shots."}},
+        {"tier": "A", "passive": {"it": "Sbilanciamento migliorato usando due armamenti", "en": "Improved Stance-Breaking when Wielding Two Armaments"}, "why": {"it": "Boss a terra più spesso.", "en": "Bosses staggered more often."}},
+        {"tier": "A", "passive": {"it": "Ripristino PV con attacchi di pugnale", "en": "HP Restoration upon Dagger Attacks"}, "why": {"it": "I pugnali colpiscono spesso.", "en": "Daggers hit often."}}
+      ],
+      "weapons": [
+        {"tier": "S", "name": {"it": "Pugnali doppi: Reduvia, Pugnale insanguinato, Kris di pietra di luce", "en": "Dual daggers: Reduvia, Bloodstained Dagger, Glintstone Kris"}, "why": {"it": "Sanguinamento più Riproposizione; il Kris ha spesso il danno più alto.", "en": "Bleed plus Restage; the Kris often has the highest damage."}},
+        {"tier": "A", "name": {"it": "Coltello nero, Lama della chiamata", "en": "Black Knife, Blade of Calling"}, "why": {"it": "Buoni pugnali alternativi.", "en": "Good alternative daggers."}},
+        {"tier": "A", "name": {"it": "Ala di Astel, Eclisse solare, Spada della notte e della fiamma", "en": "Wing of Astel, Solar Eclipse, Sword of Night and Flame"}, "why": {"it": "Ottime armi a intelligenza.", "en": "Great Int weapons."}},
+        {"tier": "B", "name": {"it": "Bastoni, Falce aureolata", "en": "Staves, Halo Scythe"}, "why": {"it": "Per le varianti magiche.", "en": "For magic variants."}}
+      ],
+      "builds": [
+        {
+          "name": {"it": "Pugnali emorragici con Riproposizione", "en": "Bleed dagger Restage"},
+          "vessel": {"it": "Calice della Duchessa", "en": "Duchess's Chalice"},
+          "normal": ["[Duchess] Improved Character Skill Attack Power", "[Duchess] Reprise events upon nearby enemies by landing the final blow of a chain attack with dagger", "Character Skill Cooldown Reduction +3"],
+          "deep": ["[Duchess] Use Character Skill for Brief Invulnerability", "Physical Attack Up +4", "Partial HP Restoration upon Post-Damage Attacks +2"],
+          "notes": {"it": "Danno altissimo, ma fragile.", "en": "Very high damage, but fragile."}
+        },
+        {
+          "name": {"it": "Variante sicura per la solitaria", "en": "Solo-safe variant"},
+          "vessel": {"it": "Calice della Duchessa", "en": "Duchess's Chalice"},
+          "normal": ["[Duchess] Improved Character Skill Attack Power", "Vigor +3", "Attack power increased for each Night Invader defeated"],
+          "deep": ["[Duchess] Use Character Skill for Brief Invulnerability", "Increased Maximum HP", "Physical Attack Up +4"],
+          "notes": {"it": "Meno danno, molti più PV.", "en": "Less damage, much more HP."}
+        }
+      ]
+    },
+
+    "Raider": {
+      "confidence": "medium",
+      "summary": {
+        "it": "Tier A in solitaria, potenziato nella 1.03.2 (armi pesanti più rapide, Totem più grande). Incassa colpi e risponde con armi colossali.",
+        "en": "A tier solo, buffed in 1.03.2 (faster heavy weapons, bigger Totem). Tanks hits and answers with colossal weapons."
+      },
+      "relic_effects": [
+        {"tier": "S", "effect": "[Raider] Damage taken while using Character Skill improves attack power and stamina", "why": {"it": "+10% danno e +20% vigore per 20 s.", "en": "+10% damage and +20% stamina for 20 s."}},
+        {"tier": "S", "effect": "Improved Stance-Breaking when Two-Handing", "why": {"it": "Sbilancia i boss con le armi pesanti.", "en": "Breaks bosses with heavy weapons."}},
+        {"tier": "S", "effect": "Partial HP Restoration upon Post-Damage Attacks", "why": {"it": "Prende colpi di proposito: recupera rispondendo.", "en": "He takes hits on purpose: recovers by hitting back."}},
+        {"tier": "A", "effect": "Taking attacks improves attack power", "why": {"it": "+15% per 10 s dopo un colpo subito.", "en": "+15% for 10 s after being hit."}},
+        {"tier": "A", "effect": "Character Skill Cooldown Reduction +3", "why": {"it": "Più abilità, più bonus.", "en": "More skill uses, more buffs."}},
+        {"tier": "A", "effect": "Physical Attack Up +2", "why": {"it": "Danno generico.", "en": "Generic damage."}},
+        {"tier": "A", "effect": "Strength +3", "why": {"it": "Statistica principale.", "en": "Main stat."}},
+        {"tier": "A", "effect": "Improved Great Hammer Attack Power", "why": {"it": "Con le sue armi ideali.", "en": "With his ideal weapons."}},
+        {"tier": "B", "effect": "[Raider] Duration of Ultimate Art extended", "why": {"it": "Totem da 20 a 30 secondi.", "en": "Totem from 20 to 30 seconds."}},
+        {"tier": "B", "effect": "Improved Poise Near Totem Stela", "why": {"it": "Potenziato nella 1.03.2.", "en": "Buffed in 1.03.2."}},
+        {"tier": "B", "effect": "Defeating enemies near Totem Stela restores HP", "why": {"it": "Potenziato nella 1.03.2.", "en": "Buffed in 1.03.2."}},
+        {"tier": "B", "effect": "Improved Initial Standard Attack", "why": {"it": "Da evitare se usi molto gli attacchi caricati.", "en": "Skip it if you use charged heavies."}}
+      ],
+      "deep_effects": [
+        {"tier": "S", "effect": "Physical Attack Up +4", "why": {"it": "+12% danno fisico.", "en": "+12% physical damage."}},
+        {"tier": "A", "effect": "Increased Maximum HP", "why": {"it": "Incassa molti colpi.", "en": "He soaks many hits."}},
+        {"tier": "A", "effect": "[Raider] Hit With Character Skill to Reduce Enemy Attack Power", "why": {"it": "-13% danno nemico per 13 s.", "en": "-13% enemy damage for 13 s."}},
+        {"tier": "A", "effect": "Arcane increased for each great enemy defeated at a Ruin", "why": {"it": "Con armi a marcescenza o sanguinamento.", "en": "With rot or bleed weapons."}},
+        {"tier": "A", "effect": "Max HP increased for each great enemy defeated at a Great Church.", "why": {"it": "PV che crescono nella spedizione.", "en": "HP that grows during the run."}},
+        {"tier": "B", "effect": "Improved Physical Damage Negation +2", "why": {"it": "Più resistente.", "en": "Tankier."}},
+        {"tier": "B", "effect": "[Raider] Improved Arcane, Reduced Vigor", "why": {"it": "+17 arcano: ottimo con l'Ascia putrida.", "en": "+17 Arcane: great with the Rotten Greataxe."}}
+      ],
+      "curses": {
+        "harmless": [
+          {"curse": "Reduced Intelligence and Dexterity", "why": {"it": "Statistiche che non usa.", "en": "Stats he doesn't use."}},
+          {"curse": "Reduced Damage Negation After Evading", "why": {"it": "Rotola poco: incassa.", "en": "He rarely rolls: he tanks."}},
+          {"curse": "Less Likely to Be Targeted", "why": {"it": "In solitaria irrilevante.", "en": "Irrelevant solo."}}
+        ],
+        "avoid": [
+          {"curse": "Reduced Strength and Intelligence", "why": {"it": "Taglia la forza.", "en": "Cuts Strength."}},
+          {"curse": "Reduced Faith and Strength", "why": {"it": "Taglia la forza.", "en": "Cuts Strength."}},
+          {"curse": "Lower Attack When Below Max HP", "why": {"it": "Prende colpi di proposito.", "en": "He takes hits on purpose."}},
+          {"curse": "Taking Damage Causes Rot Buildup", "why": {"it": "Viene colpito spesso.", "en": "He gets hit often."}}
+        ]
+      },
+      "weapon_passives": [
+        {"tier": "S", "passive": {"it": "Subire danni aumenta la riduzione danni", "en": "Taking Damage Boosts Damage Negation"}, "why": {"it": "Il passivo migliore per lui.", "en": "His best passive."}},
+        {"tier": "S", "passive": {"it": "Potenza d'attacco migliorata impugnando a due mani", "en": "Improved Attack Power when Two-Handing"}, "why": {"it": "Usa armi a due mani.", "en": "He two-hands."}},
+        {"tier": "S", "passive": {"it": "Sbilanciamento migliorato a due mani", "en": "Improved Stance-Breaking when Two-Handing"}, "why": {"it": "Boss a terra più spesso.", "en": "Bosses staggered more often."}},
+        {"tier": "A", "passive": {"it": "Attacco aumentato impugnando due armamenti", "en": "Attack Up when Wielding Two Armaments"}, "why": {"it": "Serve lo stesso tipo di arma in entrambe le mani.", "en": "Needs the same weapon type in both hands."}},
+        {"tier": "A", "passive": {"it": "Subire danni ripristina PA", "en": "Taking Damage Restores FP"}, "why": {"it": "Abilità delle armi gratis.", "en": "Free weapon skills."}}
+      ],
+      "weapons": [
+        {"tier": "S", "name": {"it": "Ascia putrida", "en": "Rotten Greataxe"}, "why": {"it": "La marcescenza scarlatta scioglie le barre di vita dei boss.", "en": "Scarlet rot melts boss health bars."}},
+        {"tier": "S", "name": {"it": "Asce pesanti, martelli pesanti e armi colossali", "en": "Greataxes, great hammers and colossal weapons"}, "why": {"it": "Più rapide dalla 1.03.2.", "en": "Faster since 1.03.2."}},
+        {"tier": "A", "name": {"it": "Alabarda del golem, Pastorale infernale del prelato", "en": "Golem's Halberd, Prelate's Inferno Crozier"}, "why": {"it": "Danno e sbilanciamento enormi.", "en": "Huge damage and stagger."}},
+        {"tier": "A", "name": {"it": "Pugni", "en": "Fists"}, "why": {"it": "Mobilità e sbilanciamento.", "en": "Mobility and stagger."}}
+      ],
+      "builds": [
+        {
+          "name": {"it": "Tank che contrattacca", "en": "Retaliate tank"},
+          "vessel": {"it": "Calice del Predone", "en": "Raider's Chalice"},
+          "normal": ["[Raider] Damage taken while using Character Skill improves attack power and stamina", "Improved Stance-Breaking when Two-Handing", "Partial HP Restoration upon Post-Damage Attacks"],
+          "deep": ["Physical Attack Up +4", "[Raider] Hit With Character Skill to Reduce Enemy Attack Power", "Increased Maximum HP"],
+          "notes": {"it": "Incassa con l'abilità attiva e rispondi più forte.", "en": "Tank with the skill active and hit back harder."}
+        },
+        {
+          "name": {"it": "Ascia putrida", "en": "Rot greataxe"},
+          "vessel": {"it": "Calice del Predone", "en": "Raider's Chalice"},
+          "normal": ["[Raider] Damage taken while using Character Skill improves attack power and stamina", "Improved Stance-Breaking when Two-Handing", "Strength +3"],
+          "deep": ["Arcane increased for each great enemy defeated at a Ruin", "Attack power up when facing scarlet rot-afflicted enemy +2", "Physical Attack Up +4"],
+          "notes": {"it": "Da usare quando trovi l'Ascia putrida.", "en": "Use it when you find the Rotten Greataxe."}
+        }
+      ]
+    },
+
+    "Revenant": {
+      "confidence": "low",
+      "summary": {
+        "it": "Tier C in solitaria: dipende dalla famiglia evocata. Nella 1.03.2 gli spiriti scalano con la profondità in Notte profonda, ma mancano guide aggiornate.",
+        "en": "C tier solo: relies on her summoned family. In 1.03.2 spirits scale with depth in Deep of Night, but updated guides are missing."
+      },
+      "relic_effects": [
+        {"tier": "S", "effect": "[Revenant] Power up while fighting alongside family", "why": {"it": "Helen cura, Frederick +10% danno, Sebastian +20% difesa: funziona da sola.", "en": "Helen heals, Frederick +10% damage, Sebastian +20% negation: works solo."}},
+        {"tier": "S", "effect": "[Revenant] Strengthens family and allies when Ultimate Art is activated", "why": {"it": "+25% alla famiglia per 30 s.", "en": "+25% to the family for 30 s."}},
+        {"tier": "S", "effect": "Improved Godslayer Incantations", "why": {"it": "+12% sugli incantesimi della tua scuola (vale anche per le altre scuole).", "en": "+12% on your school's incantations (other schools work too)."}},
+        {"tier": "A", "effect": "[Revenant] Trigger ghostflame explosion during Ultimate Art activation", "why": {"it": "Danno extra con l'arte suprema.", "en": "Extra damage with the Ultimate Art."}},
+        {"tier": "A", "effect": "Faith +3", "why": {"it": "Fede è la sua statistica principale.", "en": "Faith is her main stat."}},
+        {"tier": "A", "effect": "Holy Attack Power Up +2", "why": {"it": "Per incantesimi sacri.", "en": "For holy incantations."}},
+        {"tier": "A", "effect": "Ultimate Art Auto Charge +3", "why": {"it": "Famiglia potenziata più spesso.", "en": "Family buffed more often."}},
+        {"tier": "A", "effect": "Max FP increased for each Sorcerer's Rise unlocked", "why": {"it": "Risolve i suoi problemi di PA.", "en": "Fixes her FP problems."}},
+        {"tier": "A", "effect": "FP Restoration upon Successive Attacks", "why": {"it": "Non ha rigenerazione di PA.", "en": "She has no FP regen."}},
+        {"tier": "B", "effect": "Wraith Calling Bell in possession at start of expedition", "why": {"it": "Aiuto extra a inizio partita.", "en": "Extra help early."}},
+        {"tier": "B", "effect": "Attack power increased for each evergaol prisoner defeated", "why": {"it": "Danno che cresce durante la spedizione.", "en": "Damage that grows during the run."}},
+        {"tier": "C", "effect": "[Revenant] Expend own HP to fully heal nearby allies when activating Art", "why": {"it": "In solitaria è solo un costo.", "en": "Pure cost solo."}}
+      ],
+      "deep_effects": [
+        {"tier": "S", "effect": "[Revenant] Increased Max FP upon Ability Activation", "why": {"it": "Fino a +51% PA.", "en": "Up to +51% FP."}},
+        {"tier": "A", "effect": "Improved Incantations +2", "why": {"it": "Più danno con tutti gli incantesimi.", "en": "More damage with all incantations."}},
+        {"tier": "A", "effect": "Improved Affinity Attack Power +2", "why": {"it": "Vale per qualsiasi elemento.", "en": "Works with any element."}},
+        {"tier": "A", "effect": "Increased Maximum HP", "why": {"it": "Ha pochi PV.", "en": "She has low HP."}},
+        {"tier": "B", "effect": "Increased Maximum FP", "why": {"it": "Più incantesimi.", "en": "More spells."}},
+        {"tier": "B", "effect": "[Revenant] Improved Vigor and Endurance, Reduced Mind", "why": {"it": "Più sopravvivenza se i PA sono coperti.", "en": "More survival if FP is covered."}}
+      ],
+      "curses": {
+        "harmless": [
+          {"curse": "Reduced Strength and Intelligence", "why": {"it": "Statistiche che non usa.", "en": "Stats she doesn't use."}},
+          {"curse": "Reduced Intelligence and Dexterity", "why": {"it": "Statistiche che non usa.", "en": "Stats she doesn't use."}}
+        ],
+        "avoid": [
+          {"curse": "Reduced Dexterity and Faith", "why": {"it": "Taglia la fede.", "en": "Cuts Faith."}},
+          {"curse": "Reduced Faith and Strength", "why": {"it": "Taglia la fede.", "en": "Cuts Faith."}},
+          {"curse": "Ultimate Art Charging Impaired", "why": {"it": "Il suo kit ruota attorno all'arte suprema.", "en": "Her kit revolves around the Ultimate Art."}},
+          {"curse": "Reduced Maximum HP", "why": {"it": "Ha già pochi PV.", "en": "She already has low HP."}}
+        ]
+      },
+      "weapon_passives": [
+        {"tier": "S", "passive": {"it": "Incantesimi migliorati", "en": "Improved Incantations"}, "why": {"it": "Il suo danno principale.", "en": "Her main damage."}},
+        {"tier": "S", "passive": {"it": "Incantesimi caricati migliorati", "en": "Improved Charged Incantation"}, "why": {"it": "Più danno caricando.", "en": "More damage when charging."}},
+        {"tier": "S", "passive": {"it": "PA massimi aumentati", "en": "Increased Maximum FP"}, "why": {"it": "Più incantesimi.", "en": "More spells."}},
+        {"tier": "A", "passive": {"it": "Potenza d'attacco migliorata a PV pieni", "en": "Improved Attack Power at Full HP"}, "why": {"it": "Gioca a distanza.", "en": "She plays at range."}},
+        {"tier": "A", "passive": {"it": "Costo PA degli incantesimi ridotto", "en": "Reduced Spell FP Cost"}, "why": {"it": "Meno problemi di PA.", "en": "Fewer FP issues."}}
+      ],
+      "weapons": [
+        {"tier": "S", "name": {"it": "Sigilli sacri: Sigillo dell'ammazzadei, Sigillo di pietrisco, Sigillo dell'Ordine aureo, Sigillo artigliato", "en": "Sacred seals: Godslayer's Seal, Gravel Stone Seal, Golden Order Seal, Clawmark Seal"}, "why": {"it": "Fiamma nera, lancia del fulmine e incantesimi forti.", "en": "Black Flame, Lightning Spear and strong incantations."}},
+        {"tier": "A", "name": {"it": "Artigli maledetti della Rediviva", "en": "Revenant's Cursed Claws"}, "why": {"it": "Arma iniziale buona fino a metà partita.", "en": "Starter, good until midgame."}},
+        {"tier": "A", "name": {"it": "Falce aureolata, Spada codificata", "en": "Halo Scythe, Coded Sword"}, "why": {"it": "Armi a fede.", "en": "Faith weapons."}}
+      ],
+      "builds": [
+        {
+          "name": {"it": "Evocatrice della famiglia", "en": "Family summoner"},
+          "vessel": {"it": "Calice della Rediviva", "en": "Revenant's Chalice"},
+          "normal": ["[Revenant] Power up while fighting alongside family", "[Revenant] Strengthens family and allies when Ultimate Art is activated", "FP Restoration upon Successive Attacks"],
+          "deep": ["[Revenant] Increased Max FP upon Ability Activation", "Increased Maximum HP", "Improved Incantations +2"],
+          "notes": {"it": "Lascia combattere la famiglia e sostienila.", "en": "Let the family fight and support them."}
+        },
+        {
+          "name": {"it": "Incantatrice", "en": "Incant caster"},
+          "vessel": {"it": "Calice della Rediviva", "en": "Revenant's Chalice"},
+          "normal": ["Improved Godslayer Incantations", "Max FP increased for each Sorcerer's Rise unlocked", "Faith +3"],
+          "deep": ["Improved Incantations +2", "Improved Affinity Attack Power +2", "Increased Maximum HP"],
+          "notes": {"it": "Più danno diretto, serve un buon sigillo.", "en": "More direct damage, needs a good seal."}
+        }
+      ]
+    },
+
+    "Recluse": {
+      "confidence": "medium",
+      "summary": {
+        "it": "Tier B in solitaria: fragile, vive di stregonerie e residui di affinità. Nessuna modifica diretta nella 1.03.2.",
+        "en": "B tier solo: fragile, lives on sorceries and affinity residue. No direct change in 1.03.2."
+      },
+      "relic_effects": [
+        {"tier": "S", "effect": "Improved Glintblade Sorcery", "why": {"it": "+12% sulla scuola che usi (anche Cristalliane, Invisibilità ecc.).", "en": "+12% on the school you use (Crystalian, Invisibility, etc. too)."}},
+        {"tier": "S", "effect": "Magic Attack Power Up +2", "why": {"it": "Il suo danno è quasi tutto magico.", "en": "Her damage is almost all magic."}},
+        {"tier": "S", "effect": "[Recluse] Activating Ultimate Art raises Max HP", "why": {"it": "+50% PV per 30 s: risolve la sua fragilità.", "en": "+50% HP for 30 s: fixes her fragility."}},
+        {"tier": "S", "effect": "Max FP increased for each Sorcerer's Rise unlocked", "why": {"it": "Più PA per lanciare.", "en": "More FP to cast."}},
+        {"tier": "A", "effect": "[Recluse] Collecting affinity residue activates Terra Magica", "why": {"it": "+15% magia nel sigillo.", "en": "+15% magic in the sigil."}},
+        {"tier": "A", "effect": "[Recluse] Suffer blood loss and increase attack power upon Art activation", "why": {"it": "+16% per 30 s al costo del 20% dei PV.", "en": "+16% for 30 s for 20% HP."}},
+        {"tier": "A", "effect": "Intelligence +3", "why": {"it": "Statistica principale.", "en": "Main stat."}},
+        {"tier": "A", "effect": "Ultimate Art Auto Charge +3", "why": {"it": "Arte suprema (e PV extra) più spesso.", "en": "Ultimate Art (and extra HP) more often."}},
+        {"tier": "A", "effect": "Defeating enemies fills more of the Art gauge", "why": {"it": "Idem.", "en": "Same."}},
+        {"tier": "A", "effect": "Attack power increased for each evergaol prisoner defeated", "why": {"it": "Vale anche per le stregonerie.", "en": "Applies to sorceries too."}},
+        {"tier": "B", "effect": "Mind +3", "why": {"it": "Più PA.", "en": "More FP."}},
+        {"tier": "B", "effect": "Improved Dragon Cult Incantations", "why": {"it": "Solo per le build con incantesimi del drago.", "en": "Only for dragon incantation builds."}}
+      ],
+      "deep_effects": [
+        {"tier": "S", "effect": "Improved Sorceries +2", "why": {"it": "Più danno con tutte le stregonerie.", "en": "More damage with all sorceries."}},
+        {"tier": "S", "effect": "Magic Attack Power Up +4", "why": {"it": "+12% magia.", "en": "+12% magic."}},
+        {"tier": "A", "effect": "Improved Affinity Attack Power +2", "why": {"it": "La scelta più sicura: vale per bastoni e sigilli.", "en": "The safest pick: works for staves and seals."}},
+        {"tier": "A", "effect": "Increased Maximum HP", "why": {"it": "È fragile.", "en": "She's fragile."}},
+        {"tier": "A", "effect": "Increased Maximum FP", "why": {"it": "Più lanci.", "en": "More casts."}},
+        {"tier": "B", "effect": "[Recluse] Collect Affinity Residues to Negate Affinity", "why": {"it": "+20% difesa dall'affinità raccolta.", "en": "+20% negation of the collected affinity."}},
+        {"tier": "B", "effect": "Dormant Power Helps Discover Sacred Seals", "why": {"it": "Garantisce sigilli per i cocktail.", "en": "Guarantees seals for cocktails."}}
+      ],
+      "curses": {
+        "harmless": [
+          {"curse": "Reduced Faith and Strength", "why": {"it": "La forza non conta; la fede solo se usi sigilli.", "en": "Strength doesn't matter; Faith only with seals."}},
+          {"curse": "Less Likely to Be Targeted", "why": {"it": "In solitaria irrilevante.", "en": "Irrelevant solo."}}
+        ],
+        "avoid": [
+          {"curse": "Reduced Strength and Intelligence", "why": {"it": "Taglia l'intelligenza.", "en": "Cuts Intelligence."}},
+          {"curse": "Reduced Intelligence and Dexterity", "why": {"it": "Taglia l'intelligenza.", "en": "Cuts Intelligence."}},
+          {"curse": "Reduced Maximum HP", "why": {"it": "Ha già pochi PV.", "en": "She already has low HP."}},
+          {"curse": "Impaired Affinity Damage Negation", "why": {"it": "Già debole agli elementi.", "en": "Already weak to elements."}}
+        ]
+      },
+      "weapon_passives": [
+        {"tier": "S", "passive": {"it": "Stregonerie migliorate", "en": "Improved Sorceries"}, "why": {"it": "Il suo danno principale.", "en": "Her main damage."}},
+        {"tier": "S", "passive": {"it": "Velocità di lancio migliorata", "en": "Improved Spell Casting Speed"}, "why": {"it": "Con due copie arriva al massimo.", "en": "Two copies reach the cap."}},
+        {"tier": "S", "passive": {"it": "Costo PA degli incantesimi ridotto", "en": "Reduced Spell FP Cost"}, "why": {"it": "Più lanci.", "en": "More casts."}},
+        {"tier": "A", "passive": {"it": "Stregonerie caricate migliorate", "en": "Improved Charged Sorceries"}, "why": {"it": "Più danno caricando.", "en": "More damage when charging."}},
+        {"tier": "A", "passive": {"it": "Durata degli incantesimi estesa", "en": "Extended Spell Duration"}, "why": {"it": "Buff e magie più lunghi.", "en": "Longer buffs and spells."}}
+      ],
+      "weapons": [
+        {"tier": "S", "name": {"it": "Bastone albinauro", "en": "Albinauric Staff"}, "why": {"it": "Il bastone migliore per lei.", "en": "Her best staff."}},
+        {"tier": "S", "name": {"it": "Stregonerie: Glaive di Lansseax, Fiamma nera, Cometa azzurra, Arco grande di Loretta, Decadimento di Ekzykes", "en": "Spells: Lansseax's Glaive, Black Flame, Comet Azur, Loretta's Greatbow, Ekzykes's Decay"}, "why": {"it": "Le più forti per gruppi e boss.", "en": "The strongest for groups and bosses."}},
+        {"tier": "A", "name": {"it": "Sigillo artigliato e altri sigilli per i cocktail", "en": "Clawmark Seal and other seals for cocktails"}, "why": {"it": "Varietà di elementi.", "en": "Element variety."}},
+        {"tier": "B", "name": {"it": "Un'arma da mischia o un arco", "en": "A melee weapon or bow"}, "why": {"it": "Per risparmiare PA.", "en": "To save FP."}}
+      ],
+      "builds": [
+        {
+          "name": {"it": "Stregonerie in solitaria", "en": "Solo sorcery DPS"},
+          "vessel": {"it": "Calice della Reclusa", "en": "Recluse's Chalice"},
+          "normal": ["Improved Glintblade Sorcery", "Magic Attack Power Up +2", "[Recluse] Activating Ultimate Art raises Max HP"],
+          "deep": ["Improved Sorceries +2", "Magic Attack Power Up +4", "Increased Maximum HP"],
+          "notes": {"it": "Sostituisci la scuola con quella delle stregonerie che usi.", "en": "Swap the school for the sorceries you use."}
+        },
+        {
+          "name": {"it": "Cocktail", "en": "Cocktail"},
+          "vessel": {"it": "Calice della Reclusa", "en": "Recluse's Chalice"},
+          "normal": ["[Recluse] Collecting affinity residue activates Terra Magica", "Max FP increased for each Sorcerer's Rise unlocked", "Intelligence +3"],
+          "deep": ["Improved Affinity Attack Power +2", "Dormant Power Helps Discover Sacred Seals", "Increased Maximum FP"],
+          "notes": {"it": "Mescola elementi diversi per i residui.", "en": "Mix elements for residues."}
+        }
+      ]
+    },
+
+    "Executor": {
+      "confidence": "high",
+      "summary": {
+        "it": "Tier S in solitaria e il più potenziato dalla 1.03.2 (Spada maledetta e forma bestiale). Gioca di deviazioni con le katane.",
+        "en": "S tier solo and the biggest 1.03.2 winner (Cursed Sword and beast form). Plays deflects with katanas."
+      },
+      "relic_effects": [
+        {"tier": "S", "effect": "[Executor] Roaring restores HP while Art is active", "why": {"it": "15% dei PV a ogni ruggito.", "en": "15% HP per roar."}},
+        {"tier": "S", "effect": "[Executor] While Character Skill is active, unlocking use of cursed sword restores HP", "why": {"it": "5% PV + 100, potenziato nella 1.03.2.", "en": "5% HP + 100, buffed in 1.03.2."}},
+        {"tier": "S", "effect": "Attack power increased for each evergaol prisoner defeated", "why": {"it": "Danno che cresce durante la spedizione.", "en": "Damage that grows during the run."}},
+        {"tier": "S", "effect": "Starting armament inflicts blood loss", "why": {"it": "Sanguinamento fin dall'inizio.", "en": "Bleed from the start."}},
+        {"tier": "A", "effect": "[Executor] Character Skill Boosts Attack but Lowers Damage Negation While Attacking", "why": {"it": "+35% danno ma -40% difesa: rischioso in solitaria.", "en": "+35% damage but -40% negation: risky solo."}},
+        {"tier": "A", "effect": "Dexterity +3", "why": {"it": "Statistica principale.", "en": "Main stat."}},
+        {"tier": "A", "effect": "Arcane +3", "why": {"it": "Più accumulo di stato.", "en": "More status buildup."}},
+        {"tier": "A", "effect": "HP Recovery From Successful Guarding", "why": {"it": "Le deviazioni contano come parate.", "en": "Deflects count as guards."}},
+        {"tier": "A", "effect": "Changes compatible armament's skill to Seppuku at start of expedition", "why": {"it": "Attiva subito il suo passivo.", "en": "Instantly triggers his passive."}},
+        {"tier": "A", "effect": "Partial HP Restoration upon Post-Damage Attacks", "why": {"it": "Recupero PV in mischia.", "en": "Melee HP recovery."}},
+        {"tier": "B", "effect": "[Executor] Slowly Restore HP upon Ability Activation", "why": {"it": "Si cumula con i recuperi dagli stati.", "en": "Stacks with status recoveries."}},
+        {"tier": "B", "effect": "Improved Katana Attack Power", "why": {"it": "Non vale per la Spada maledetta.", "en": "Doesn't apply to the Cursed Sword."}},
+        {"tier": "B", "effect": "Stamina Recovery upon Landing Attacks", "why": {"it": "Più vigore per deviare.", "en": "More stamina to deflect."}}
+      ],
+      "deep_effects": [
+        {"tier": "S", "effect": "Attack power increased for each Night Invader defeated", "why": {"it": "Prima scelta in Notte profonda.", "en": "Top Deep of Night pick."}},
+        {"tier": "S", "effect": "Partial HP Restoration upon Post-Damage Attacks +2", "why": {"it": "Sopravvivenza in mischia.", "en": "Melee survival."}},
+        {"tier": "A", "effect": "Physical Attack Up +4", "why": {"it": "+12% danno fisico.", "en": "+12% physical damage."}},
+        {"tier": "A", "effect": "Attack power up when facing frostbite-afflicted enemy +2", "why": {"it": "Con le armi ad assideramento.", "en": "With frost weapons."}},
+        {"tier": "A", "effect": "Arcane increased for each great enemy defeated at a Ruin", "why": {"it": "Più sanguinamento.", "en": "More bleed."}},
+        {"tier": "A", "effect": "Increased Maximum HP", "why": {"it": "Margine di errore.", "en": "Room for error."}},
+        {"tier": "B", "effect": "Max stamina increased for each great enemy defeated at a Great Encampment", "why": {"it": "Più deviazioni.", "en": "More deflects."}},
+        {"tier": "B", "effect": "[Executor] Improved Dexterity and Arcane, Reduced Vigor", "why": {"it": "Scelta offensiva: circa -140 PV.", "en": "Offensive pick: about -140 HP."}},
+        {"tier": "B", "effect": "[Executor] Improved Vigor and Endurance, Reduced Arcane", "why": {"it": "Scelta sicura in solitaria.", "en": "Safe solo pick."}}
+      ],
+      "curses": {
+        "harmless": [
+          {"curse": "Reduced Damage Negation After Evading", "why": {"it": "Devia invece di rotolare.", "en": "He deflects instead of rolling."}},
+          {"curse": "Reduced Strength and Intelligence", "why": {"it": "Statistiche che non usa.", "en": "Stats he doesn't use."}},
+          {"curse": "Reduced Faith and Strength", "why": {"it": "Statistiche che non usa.", "en": "Stats he doesn't use."}}
+        ],
+        "avoid": [
+          {"curse": "Reduced Dexterity and Faith", "why": {"it": "Taglia la destrezza.", "en": "Cuts Dexterity."}},
+          {"curse": "Reduced Intelligence and Dexterity", "why": {"it": "Taglia la destrezza.", "en": "Cuts Dexterity."}},
+          {"curse": "Reduced Vigor and Arcane", "why": {"it": "Taglia l'arcano.", "en": "Cuts Arcane."}},
+          {"curse": "Lower Stamina Impairs Dmg Negation", "why": {"it": "Deviare consuma vigore.", "en": "Deflecting costs stamina."}}
+        ]
+      },
+      "weapon_passives": [
+        {"tier": "S", "passive": {"it": "Potenza attacco abilità migliorata", "en": "Improved Skill Attack Power"}, "why": {"it": "Dalla 1.03.2 potenzia anche la Spada maledetta.", "en": "Since 1.03.2 it also boosts the Cursed Sword."}},
+        {"tier": "S", "passive": {"it": "Attacco aumentato impugnando due armamenti", "en": "Attack Up when Wielding Two Armaments"}, "why": {"it": "Katane doppie.", "en": "Dual katanas."}},
+        {"tier": "S", "passive": {"it": "La parata efficace aumenta la riduzione danni", "en": "Successful Guarding Ups Dmg Negation"}, "why": {"it": "Le deviazioni contano.", "en": "Deflects count."}},
+        {"tier": "A", "passive": {"it": "Potenza attacco in mischia migliorata", "en": "Improved Melee Attack Power"}, "why": {"it": "Danno generico.", "en": "Generic damage."}},
+        {"tier": "A", "passive": {"it": "Contrattacchi in difesa migliorati", "en": "Improved Guard Counters"}, "why": {"it": "Contrattacchi dopo le deviazioni.", "en": "Counters after deflects."}}
+      ],
+      "weapons": [
+        {"tier": "S", "name": {"it": "Fiumi di sangue", "en": "Rivers of Blood"}, "why": {"it": "Sanguinamento enorme; debole contro chi non sanguina.", "en": "Huge bleed; weak against non-bleeders."}},
+        {"tier": "S", "name": {"it": "Nagakiba e 3 o più katane", "en": "Nagakiba and 3+ katanas"}, "why": {"it": "Portata e qualsiasi elemento.", "en": "Reach and any element."}},
+        {"tier": "A", "name": {"it": "Velo lunare, Mano di Malenia, Bouquet di Varre", "en": "Moonveil, Hand of Malenia, Varre's Bouquet"}, "why": {"it": "Ottime alternative.", "en": "Great alternatives."}},
+        {"tier": "B", "name": {"it": "Arco del serpente (secondaria)", "en": "Serpent Bow (secondary)"}, "why": {"it": "Veleno a distanza.", "en": "Ranged poison."}}
+      ],
+      "builds": [
+        {
+          "name": {"it": "Deviazioni ed emorragia", "en": "Deflect and bleed"},
+          "vessel": {"it": "Calice del Giustiziere", "en": "Executor's Chalice"},
+          "normal": ["[Executor] While Character Skill is active, unlocking use of cursed sword restores HP", "Starting armament inflicts blood loss", "HP Recovery From Successful Guarding"],
+          "deep": ["Attack power increased for each evergaol prisoner defeated", "[Executor] Roaring restores HP while Art is active", "Partial HP Restoration upon Post-Damage Attacks +2"],
+          "notes": {"it": "La build più sicura per la solitaria.", "en": "The safest solo build."}
+        },
+        {
+          "name": {"it": "Cannone di vetro", "en": "Glass cannon"},
+          "vessel": {"it": "Calice del Giustiziere", "en": "Executor's Chalice"},
+          "normal": ["[Executor] Character Skill Boosts Attack but Lowers Damage Negation While Attacking", "Dexterity +3", "Physical Attack Up +2"],
+          "deep": ["Physical Attack Up +4", "[Executor] Improved Dexterity and Arcane, Reduced Vigor", "Attack power increased for each Night Invader defeated"],
+          "notes": {"it": "Rischiosa oltre la profondità 3. Dalla 1.03.2 vale una sola Volontà degli Equilibratori.", "en": "Risky past Depth 3. Since 1.03.2 only one Will of the Balancers activates."}
+        }
+      ]
+    },
+
+    "Scholar": {
+      "confidence": "low",
+      "summary": {
+        "it": "Tier C in solitaria: è un personaggio di supporto. Da solo funziona con build a vasi o stati, ed è più lento.",
+        "en": "C tier solo: he's a support character. Solo he works with pot or status builds, but slower."
+      },
+      "relic_effects": [
+        {"tier": "S", "effect": "[Scholar] Continuous damage inflicted on targets threaded by Ultimate Art", "why": {"it": "Danno nel tempo sui nemici collegati.", "en": "Damage over time on linked enemies."}},
+        {"tier": "S", "effect": "Attack power increased for each Night Invader defeated", "why": {"it": "Danno che cresce durante la spedizione.", "en": "Damage that grows during the run."}},
+        {"tier": "S", "effect": "Improved Throwing Pot Damage", "why": {"it": "La sua borsa raddoppia i vasi: fonte di danno principale.", "en": "His bag doubles pots: a main damage source."}},
+        {"tier": "A", "effect": "[Scholar] Prevent slowing of Character Skill progress", "why": {"it": "Analisi più fluida.", "en": "Smoother Analyze."}},
+        {"tier": "A", "effect": "[Scholar] Reduced FP consumption when using Character Skill on self", "why": {"it": "Abilità meno costosa.", "en": "Cheaper skill."}},
+        {"tier": "A", "effect": "Defeating enemies fills more of the Art gauge", "why": {"it": "Arte suprema più spesso.", "en": "More Ultimate Art."}},
+        {"tier": "A", "effect": "Ultimate Art Auto Charge +3", "why": {"it": "Idem.", "en": "Same."}},
+        {"tier": "A", "effect": "Character Skill Cooldown Reduction +3", "why": {"it": "Abilità più frequente.", "en": "More frequent skill."}},
+        {"tier": "A", "effect": "Small Pouch in possession at start of expedition", "why": {"it": "Più spazio per gli oggetti, che lui raddoppia.", "en": "More item space, which he doubles."}},
+        {"tier": "B", "effect": "Wraith Calling Bell in possession at start of expedition", "why": {"it": "Aiuto a inizio partita.", "en": "Early help."}},
+        {"tier": "B", "effect": "[Scholar] Earn runes for each additional specimen acquired with Character Skill", "why": {"it": "Più rune.", "en": "More runes."}},
+        {"tier": "C", "effect": "[Scholar] Allies targeted by Character Skill gain boosted attack", "why": {"it": "Ottimo in gruppo, inutile da solo.", "en": "Great in trios, useless solo."}},
+        {"tier": "C", "effect": "Items confer effect to all nearby allies", "why": {"it": "Inutile da solo.", "en": "Useless solo."}}
+      ],
+      "deep_effects": [
+        {"tier": "S", "effect": "[Scholar] Improved Endurance and Dexterity, Reduced Intelligence and Arcane", "why": {"it": "+40 destrezza: lo trasforma in un combattente vero.", "en": "+40 Dex: turns him into a real fighter."}},
+        {"tier": "A", "effect": "Arcane increased for each great enemy defeated at a Ruin", "why": {"it": "Più accumulo di stato.", "en": "More status buildup."}},
+        {"tier": "A", "effect": "Physical Attack Up +4", "why": {"it": "+12% danno fisico.", "en": "+12% physical damage."}},
+        {"tier": "A", "effect": "Increased Maximum HP", "why": {"it": "Ha pochi PV.", "en": "He has low HP."}},
+        {"tier": "B", "effect": "Improved Throwing Pot Damage +1", "why": {"it": "Più danno dai vasi.", "en": "More pot damage."}}
+      ],
+      "curses": {
+        "harmless": [
+          {"curse": "Reduced Strength and Intelligence", "why": {"it": "Statistiche secondarie.", "en": "Secondary stats."}},
+          {"curse": "Reduced Faith and Strength", "why": {"it": "Statistiche secondarie.", "en": "Secondary stats."}}
+        ],
+        "avoid": [
+          {"curse": "Reduced Vigor and Arcane", "why": {"it": "Arcano è la sua statistica migliore.", "en": "Arcane is his best stat."}},
+          {"curse": "Ultimate Art Charging Impaired", "why": {"it": "La comunione è il suo cuore.", "en": "Communion is his core."}},
+          {"curse": "Reduced Maximum HP", "why": {"it": "Ha già pochi PV.", "en": "He already has low HP."}}
+        ]
+      },
+      "weapon_passives": [
+        {"tier": "S", "passive": {"it": "Attacco aumentato impugnando due armamenti", "en": "Attack Up when Wielding Two Armaments"}, "why": {"it": "Stocchi doppi.", "en": "Dual rapiers."}},
+        {"tier": "S", "passive": {"it": "Riduzione danni migliorata a PV pieni", "en": "Improved Damage Negation at Full HP"}, "why": {"it": "Protegge dai colpi letali.", "en": "Protects against one-shots."}},
+        {"tier": "S", "passive": {"it": "PV massimi aumentati", "en": "Increased Maximum HP"}, "why": {"it": "Ha pochi PV.", "en": "He has low HP."}},
+        {"tier": "A", "passive": {"it": "Sanguinamento nelle vicinanze aumenta la potenza d'attacco", "en": "Blood Loss in Vicinity Increases Attack Power"}, "why": {"it": "Ottimo con le armi a sanguinamento.", "en": "Great with bleed weapons."}},
+        {"tier": "A", "passive": {"it": "Vasi da lancio migliorati", "en": "Improved Throwing Pots"}, "why": {"it": "Sinergia con la sua borsa.", "en": "Synergy with his bag."}}
+      ],
+      "weapons": [
+        {"tier": "S", "name": {"it": "Spade perforanti di stato: Stocco a sperone, Ago congelato, Lama ad asta di Eleonora, Fiumi di sangue", "en": "Status thrusting swords: Antspur Rapier, Frozen Needle, Eleonora's Poleblade, Rivers of Blood"}, "why": {"it": "Stati e arcano.", "en": "Status and Arcane."}},
+        {"tier": "S", "name": {"it": "Con la reliquia della destrezza: Falce aureolata, Candelabro frusta di magma, Kris di pietra di luce", "en": "With the Dex deep relic: Halo Scythe, Magma Whip Candlestick, Glintstone Kris"}, "why": {"it": "Le scelte della guida Steam per Notte profonda.", "en": "The Steam Deep of Night guide's picks."}},
+        {"tier": "A", "name": {"it": "Reduvia, Lama della chiamata, Ala di Astel, Lama di magma, Lama ondulata", "en": "Reduvia, Blade of Calling, Wing of Astel, Magma Blade, Ripple Blade"}, "why": {"it": "Buone alternative.", "en": "Good alternatives."}},
+        {"tier": "B", "name": {"it": "Spada perforante dell'Erudito (iniziale)", "en": "Scholar's Thrusting Sword (starter)"}, "why": {"it": "Da sostituire presto.", "en": "Replace early."}}
+      ],
+      "builds": [
+        {
+          "name": {"it": "Combattente a stati e vasi", "en": "Status and pot fighter"},
+          "vessel": {"it": "Calice dell'Erudito", "en": "Scholar's Chalice"},
+          "normal": ["[Scholar] Continuous damage inflicted on targets threaded by Ultimate Art", "Improved Throwing Pot Damage", "[Scholar] Prevent slowing of Character Skill progress"],
+          "deep": ["[Scholar] Improved Endurance and Dexterity, Reduced Intelligence and Arcane", "Increased Maximum HP", "Physical Attack Up +4"],
+          "notes": {"it": "La build consigliata per giocarlo da solo.", "en": "The recommended build for solo play."}
+        }
+      ]
+    },
+
+    "Undertaker": {
+      "confidence": "medium",
+      "summary": {
+        "it": "Tier A in solitaria (le fonti non concordano), potenziata nella 1.03.2. Gioca con martelli e un ciclo di arte suprema; il passivo Confluenza non funziona da sola.",
+        "en": "A tier solo (sources disagree), buffed in 1.03.2. Plays hammers and an Ultimate Art loop; her Confluence passive doesn't work solo."
+      },
+      "relic_effects": [
+        {"tier": "S", "effect": "[Undertaker] Activating Ultimate Art increases attack power", "why": {"it": "Il cuore del suo ciclo di danno.", "en": "The core of her damage loop."}},
+        {"tier": "S", "effect": "[Undertaker] Attack power increased by landing the final blow of a chain attack", "why": {"it": "Premia il quarto colpo leggero; potenziato nella 1.03.2.", "en": "Rewards the fourth light hit; buffed in 1.03.2."}},
+        {"tier": "S", "effect": "Partial HP Restoration upon Post-Damage Attacks", "why": {"it": "Con Trance incassa e recupera.", "en": "With Trance she tanks and recovers."}},
+        {"tier": "S", "effect": "Ultimate Art Auto Charge +3", "why": {"it": "Arte suprema più frequente.", "en": "More frequent Ultimate Art."}},
+        {"tier": "A", "effect": "[Undertaker] Physical attacks boosted while assist effect from incantation is active for self", "why": {"it": "Serve un sigillo e un buff come Voto aureo.", "en": "Needs a seal and a buff like Golden Vow."}},
+        {"tier": "A", "effect": "Character Skill Cooldown Reduction +3", "why": {"it": "Trance più spesso.", "en": "More Trance."}},
+        {"tier": "A", "effect": "Defeating enemies fills more of the Art gauge", "why": {"it": "Arte suprema più spesso.", "en": "More Ultimate Art."}},
+        {"tier": "A", "effect": "Physical Attack Up +2", "why": {"it": "Danno generico.", "en": "Generic damage."}},
+        {"tier": "A", "effect": "Strength +3", "why": {"it": "Statistica principale.", "en": "Main stat."}},
+        {"tier": "A", "effect": "Improved Critical Hits", "why": {"it": "Più danno sui critici.", "en": "More critical damage."}},
+        {"tier": "B", "effect": "Improved Initial Standard Attack", "why": {"it": "Primo colpo più forte.", "en": "Stronger first hit."}},
+        {"tier": "B", "effect": "Taking attacks improves attack power", "why": {"it": "Si abbina a Trance.", "en": "Pairs with Trance."}},
+        {"tier": "C", "effect": "[Undertaker] Contact with allies restores their HP while Ultimate Art is activated", "why": {"it": "Inutile da sola.", "en": "Useless solo."}}
+      ],
+      "deep_effects": [
+        {"tier": "S", "effect": "[Undertaker] Executing Art readies Character Skill", "why": {"it": "Trance pronta subito dopo l'arte.", "en": "Trance ready right after the Art."}},
+        {"tier": "A", "effect": "Physical Attack Up +4", "why": {"it": "+12% danno fisico.", "en": "+12% physical damage."}},
+        {"tier": "A", "effect": "Increased Maximum HP", "why": {"it": "Più margine.", "en": "More margin."}},
+        {"tier": "A", "effect": "Partial HP Restoration upon Post-Damage Attacks +2", "why": {"it": "Più recupero.", "en": "More recovery."}},
+        {"tier": "A", "effect": "Improved Physical Damage Negation +2", "why": {"it": "Più resistente.", "en": "Tankier."}},
+        {"tier": "B", "effect": "[Undertaker] Improved Dexterity, Reduced Vigor and Faith", "why": {"it": "Apre spade curve, lame gemelle e pugni.", "en": "Opens curved swords, twinblades and fists."}}
+      ],
+      "curses": {
+        "harmless": [
+          {"curse": "Reduced Intelligence and Dexterity", "why": {"it": "Statistiche che non usa (salvo con la reliquia della destrezza).", "en": "Stats she doesn't use (unless on the Dex relic)."}},
+          {"curse": "Less Likely to Be Targeted", "why": {"it": "In solitaria irrilevante.", "en": "Irrelevant solo."}}
+        ],
+        "avoid": [
+          {"curse": "Reduced Faith and Strength", "why": {"it": "Taglia la forza.", "en": "Cuts Strength."}},
+          {"curse": "Reduced Strength and Intelligence", "why": {"it": "Taglia la forza.", "en": "Cuts Strength."}},
+          {"curse": "Ultimate Art Charging Impaired", "why": {"it": "Il suo kit ruota attorno all'arte suprema.", "en": "Her kit revolves around the Ultimate Art."}}
+        ]
+      },
+      "weapon_passives": [
+        {"tier": "S", "passive": {"it": "Attacco aumentato impugnando due armamenti", "en": "Attack Up when Wielding Two Armaments"}, "why": {"it": "Martelli doppi: attacchi in salto fortissimi.", "en": "Powerstanced hammers: very strong jump attacks."}},
+        {"tier": "S", "passive": {"it": "Gli attacchi consecutivi riducono i danni", "en": "Successive Attacks Negate Damage"}, "why": {"it": "Resta in mischia.", "en": "She stays in melee."}},
+        {"tier": "S", "passive": {"it": "Riduzione danni migliorata a PV pieni", "en": "Improved Damage Negation at Full HP"}, "why": {"it": "Protegge dai colpi letali.", "en": "Protects against one-shots."}},
+        {"tier": "A", "passive": {"it": "Sbilanciamento migliorato usando due armamenti", "en": "Improved Stance-Breaking when Wielding Two Armaments"}, "why": {"it": "Boss a terra più spesso.", "en": "Bosses staggered more often."}},
+        {"tier": "A", "passive": {"it": "Potenza attacco abilità migliorata", "en": "Improved Skill Attack Power"}, "why": {"it": "Più danno dalle abilità.", "en": "More skill damage."}}
+      ],
+      "weapons": [
+        {"tier": "S", "name": {"it": "Martello di Marika", "en": "Marika's Hammer"}, "why": {"it": "Forza e fede: considerato il migliore in assoluto.", "en": "Strength and Faith: called the best overall."}},
+        {"tier": "S", "name": {"it": "Martelli in doppia impugnatura", "en": "Powerstanced hammers"}, "why": {"it": "Il suo moveset è fatto per i martelli.", "en": "Her moveset is built for hammers."}},
+        {"tier": "A", "name": {"it": "Corno dell'inviato e Grande corno dell'inviato, Martello pesante bestiale", "en": "Envoy's Horn and Envoy's Greathorn, Beastclaw Greathammer"}, "why": {"it": "Danno sacro e potenza.", "en": "Holy damage and power."}},
+        {"tier": "A", "name": {"it": "Martello della Becchina (iniziale)", "en": "Undertaker's Hammer (starter)"}, "why": {"it": "Colpo devoto cura.", "en": "Prayerful Strike heals."}},
+        {"tier": "B", "name": {"it": "Pugni o spade curve con la reliquia della destrezza", "en": "Fists or curved swords with the Dex deep relic"}, "why": {"it": "Variante più rapida.", "en": "Faster variant."}}
+      ],
+      "builds": [
+        {
+          "name": {"it": "Martello e ciclo di arte suprema", "en": "Hammer and Ultimate Art loop"},
+          "vessel": {"it": "Urna della Becchina", "en": "Undertaker's Urn"},
+          "normal": ["[Undertaker] Activating Ultimate Art increases attack power", "[Undertaker] Attack power increased by landing the final blow of a chain attack", "Partial HP Restoration upon Post-Damage Attacks"],
+          "deep": ["[Undertaker] Executing Art readies Character Skill", "Physical Attack Up +4", "Increased Maximum HP"],
+          "notes": {"it": "La build meta per giocarla da sola.", "en": "The meta build for solo play."}
+        },
+        {
+          "name": {"it": "Ibrida con incantesimi di supporto", "en": "Incant-buff hybrid"},
+          "vessel": {"it": "Urna della Becchina", "en": "Undertaker's Urn"},
+          "normal": ["[Undertaker] Physical attacks boosted while assist effect from incantation is active for self", "Physical Attack Up +2", "Strength +3"],
+          "deep": ["Physical Attack Up +4", "Increased Maximum HP", "Partial HP Restoration upon Post-Damage Attacks +2"],
+          "notes": {"it": "Usa Voto aureo da un sigillo prima di attaccare.", "en": "Cast Golden Vow from a seal before attacking."}
+        }
+      ]
+    }
+  },
+  "general": {
+    "solo_useless": [
+      "Flask Also Heals Allies",
+      "Items confer effect to all nearby allies",
+      "Defeating enemies restores HP for allies but not for self",
+      "Raised stamina recovery for nearby allies, but not for self",
+      "[Scholar] Allies targeted by Character Skill gain boosted attack",
+      "[Guardian] Slowly restores nearby allies' HP while Art is active",
+      "[Undertaker] Contact with allies restores their HP while Ultimate Art is activated",
+      "[Revenant] Expend own HP to fully heal nearby allies when activating Art",
+      "Draw enemy attention while guarding"
+    ],
+    "stacking": [
+      {"it": "Sulla stessa reliquia: un effetto non può comparire due volte, un solo effetto del personaggio, un solo effetto di \"potenza d'attacco\" e una sola scuola di magia.", "en": "On one relic: no duplicate effect, only one character effect, one \"attack power\" effect and one magic school."},
+      {"it": "Tra reliquie diverse: gli effetti \"non cumulabili\" non si sommano con una copia identica, ma livelli diversi (+1 e +2) sì.", "en": "Across relics: \"non-stacking\" effects don't stack with an identical copy, but different tiers (+1 and +2) do."},
+      {"it": "Si sommano: attacco fisico, attacco elementale, bonus per tipo d'arma, scuole di magia, critici, primo colpo, ricarica abilità, PV massimi profondi, difese.", "en": "These stack: physical attack, elemental attack, weapon-type bonuses, magic schools, criticals, initial attack, skill cooldown, deep max HP, negation."},
+      {"it": "Non si sommano con se stessi: bonus con 3+ armi, subire attacchi migliora l'attacco, effetti dei luoghi (chiesa, rovine, accampamento, forte), tutti gli effetti dei personaggi.", "en": "These don't stack with themselves: 3+ weapon bonuses, taking attacks improves attack, location effects (church, ruin, encampment, fort), all character effects."},
+      {"it": "I malus si sommano tutti contro di te.", "en": "All curses stack against you."}
+    ]
+  }
+}

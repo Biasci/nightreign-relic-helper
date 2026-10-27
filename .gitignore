@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+build/
+dist/
+*.spec
+# I salvataggi non devono mai finire nel repository.
+*.sl2
+*.co2
+*.bak
+.claude/

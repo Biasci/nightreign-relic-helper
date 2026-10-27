@@ -1,0 +1,70 @@
+{
+  "updated": "2026-10-27",
+  "game_version": "1.03.5 (hotfix 2026-03-31); ultimo bilanciamento 1.03.2 (2026-01-15)",
+  "changes": [
+    {
+      "it": "Prima ricerca completa: tier list, malus, passivi delle armi, armi e build per tutti i 10 personaggi, pensata per il gioco in solitaria.",
+      "en": "First full research: tier lists, curses, weapon passives, weapons and builds for all 10 characters, focused on solo play."
+    },
+    {
+      "it": "Voti degli effetti allineati alla patch 1.03.2: indeboliti \"Successive Attacks Boost Attack Power\" e gli effetti degli archi; potenziati Guardiano, Predone, Giustiziere e Becchina.",
+      "en": "Effect ratings aligned with patch 1.03.2: \"Successive Attacks Boost Attack Power\" and bow effects nerfed; Guardian, Raider, Executor and Undertaker buffed."
+    },
+    {
+      "it": "Dalla 1.03.2 funziona una sola copia di The Will of the Balancers: le build con due copie non valgono più.",
+      "en": "Since 1.03.2 only one copy of The Will of the Balancers activates: double-Balancers builds no longer work."
+    }
+  ],
+  "gaps": [
+    {
+      "it": "Reddit non era raggiungibile; dei video YouTube sono stati letti solo i titoli; TikTok e Shorts non erano raggiungibili.",
+      "en": "Reddit was not reachable; only YouTube video titles were read; TikTok and Shorts were not reachable."
+    },
+    {
+      "it": "Pochi guide aggiornate dopo la 1.03.2 per Occhio di ferro e Rediviva: affidabilità più bassa.",
+      "en": "Few post-1.03.2 guides for Ironeye and Revenant: lower confidence."
+    }
+  ],
+  "sources": [
+    {"title": "Bandai Namco: patch notes 1.03.2", "url": "https://en.bandainamcoent.eu/elden-ring/news/elden-ring-nightreign-patch-notes-version-1032"},
+    {"title": "Fextralife: Patch Notes", "url": "https://eldenringnightreign.wiki.fextralife.com/Patch_Notes"},
+    {"title": "Fextralife: Relic Effects", "url": "https://eldenringnightreign.wiki.fextralife.com/Relic+Effects"},
+    {"title": "Fextralife: Depths Relics", "url": "https://eldenringnightreign.wiki.fextralife.com/Depths+Relics"},
+    {"title": "Eldenpedia (wiki.gg): Nightreign Relics", "url": "https://eldenring.wiki.gg/wiki/Nightreign:Relics"},
+    {"title": "wiki.gg: Wylder", "url": "https://eldenring.wiki.gg/wiki/Nightreign:Wylder"},
+    {"title": "wiki.gg: Guardian", "url": "https://eldenring.wiki.gg/wiki/Nightreign:Guardian"},
+    {"title": "wiki.gg: Ironeye", "url": "https://eldenring.wiki.gg/wiki/Nightreign:Ironeye"},
+    {"title": "wiki.gg: Duchess", "url": "https://eldenring.wiki.gg/wiki/Nightreign:Duchess"},
+    {"title": "wiki.gg: Raider", "url": "https://eldenring.wiki.gg/wiki/Nightreign:Raider"},
+    {"title": "wiki.gg: Revenant", "url": "https://eldenring.wiki.gg/wiki/Nightreign:Revenant"},
+    {"title": "wiki.gg: Recluse", "url": "https://eldenring.wiki.gg/wiki/Nightreign:Recluse"},
+    {"title": "wiki.gg: Executor", "url": "https://eldenring.wiki.gg/wiki/Nightreign:Executor"},
+    {"title": "wiki.gg: Scholar", "url": "https://eldenring.wiki.gg/wiki/Nightreign:Scholar"},
+    {"title": "wiki.gg: Undertaker", "url": "https://eldenring.wiki.gg/wiki/Nightreign:Undertaker"},
+    {"title": "Switchblade Gaming: Relics tier list (1.03.2)", "url": "https://www.switchbladegaming.com/elden-ring-nightreign/best-relics-tier-list/"},
+    {"title": "Switchblade Gaming: Best Builds 2026", "url": "https://www.switchbladegaming.com/elden-ring-nightreign/best-builds-2026/"},
+    {"title": "Switchblade Gaming: Solo guide", "url": "https://www.switchbladegaming.com/elden-ring-nightreign/solo-guide-2/"},
+    {"title": "AOEAH: Deep of Night relics tier list", "url": "https://www.aoeah.com/news/4150--elden-ring-nightreign-deep-of-night-best-relics-tier-list--spreadsheet"},
+    {"title": "Game8: Best Relics", "url": "https://game8.co/games/Elden-Ring-Nightreign/archives/524268"},
+    {"title": "Game8: Best Builds for All Classes", "url": "https://game8.co/games/Elden-Ring-Nightreign/archives/525373"},
+    {"title": "Game8: Best Weapons for Each Class", "url": "https://game8.co/games/Elden-Ring-Nightreign/archives/525855"},
+    {"title": "NightreignWiki.com: Tier list 2026", "url": "https://nightreignwiki.com/characters/tier-list/"},
+    {"title": "OfZenAndComputing: Tier list", "url": "https://www.ofzenandcomputing.com/nightreign-tier-list/"},
+    {"title": "LootBar: Undertaker builds", "url": "https://lootbar.gg/blog/en/strongest-undertaker-builds-in-elden-ring-nightreign.html"},
+    {"title": "Timesaver.gg: Scholar guide", "url": "https://timesaver.gg/blog/elden-ring-nightreign-scholar-guide"},
+    {"title": "Method.gg: Executor guide", "url": "https://www.method.gg/nightreign/executor-guide-elden-ring-nightreign"},
+    {"title": "Shacknews: Best weapons ranked", "url": "https://www.shacknews.com/article/145695/best-weapons-elden-ring-nightreign-ranked"},
+    {"title": "EIP Gaming: Ironeye relics", "url": "https://eip.gg/nightreign/guides/ironeye-best-relics/"},
+    {"title": "KeenGamer: Undertaker build", "url": "https://www.keengamer.com/articles/guides/elden-ring-nightreign-dlc-best-undertaker-build/"},
+    {"title": "Steam: Relic God Roll Best builds (Base & DoN)", "url": "https://steamcommunity.com/app/2622380/discussions/0/603041689184276820/"},
+    {"title": "Steam: Which Depth Relics to Keep and Sell?", "url": "https://steamcommunity.com/app/2622380/discussions/0/572641938359119908/"},
+    {"title": "Steam: Do relic stack?", "url": "https://steamcommunity.com/app/2622380/discussions/0/500576192248687493/"},
+    {"title": "Steam: DoN relic Damage Negation vs Max HP", "url": "https://steamcommunity.com/app/2622380/discussions/0/603043051218363118/"},
+    {"title": "Steam guide: Executor's Best Relic Effects for DoN", "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3616955828"},
+    {"title": "Steam guide: Weapon Passives Guide", "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3782041123"},
+    {"title": "Steam guide: Ultimate Scholar Guide (DoN)", "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3656744685"},
+    {"title": "Steam guide: The Huge Recluse Guide", "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3530117501"},
+    {"title": "Steam: Best raider DoN relic effects", "url": "https://steamcommunity.com/app/2622380/discussions/0/603042108906064761/"},
+    {"title": "Steam: Duchess for deep of night", "url": "https://steamcommunity.com/app/2622380/discussions/0/685243980153147988/"}
+  ]
+}

@@ -1,0 +1,5945 @@
+{
+ "1": {
+  "name_it": "Antique",
+  "name_en": "Antique",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "2": {
+  "name_it": "Antique",
+  "name_en": "Antique",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "3": {
+  "name_it": "Antique",
+  "name_en": "Antique",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "4": {
+  "name_it": "Antique",
+  "name_en": "Antique",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "5": {
+  "name_it": "Antique",
+  "name_en": "Antique",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "6": {
+  "name_it": "Antique",
+  "name_en": "Antique",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "10": {
+  "name_it": "Buio",
+  "name_en": "Murk",
+  "color": "red",
+  "deep": false,
+  "slots": 0
+ },
+ "11": {
+  "name_it": "Sigillo sovrano",
+  "name_en": "Sovereign Sigil",
+  "color": "red",
+  "deep": false,
+  "slots": 0
+ },
+ "20": {
+  "name_it": "Pietra piatta superba",
+  "name_en": "Scenic Flatstone",
+  "color": "red",
+  "deep": false,
+  "slots": 0
+ },
+ "100": {
+  "name_it": "Scena ardente delicata",
+  "name_en": "Delicate Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "101": {
+  "name_it": "Scena ardente raffinata",
+  "name_en": "Polished Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "102": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "103": {
+  "name_it": "Scena ardente delicata",
+  "name_en": "Delicate Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "104": {
+  "name_it": "Scena ardente raffinata",
+  "name_en": "Polished Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "105": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "106": {
+  "name_it": "Scena ardente delicata",
+  "name_en": "Delicate Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "107": {
+  "name_it": "Scena ardente raffinata",
+  "name_en": "Polished Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "108": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "109": {
+  "name_it": "Scena piovosa delicata",
+  "name_en": "Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 1
+ },
+ "110": {
+  "name_it": "Scena piovosa raffinata",
+  "name_en": "Polished Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "111": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "112": {
+  "name_it": "Scena piovosa delicata",
+  "name_en": "Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 1
+ },
+ "113": {
+  "name_it": "Scena piovosa raffinata",
+  "name_en": "Polished Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "114": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "115": {
+  "name_it": "Scena piovosa delicata",
+  "name_en": "Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 1
+ },
+ "116": {
+  "name_it": "Scena piovosa raffinata",
+  "name_en": "Polished Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "117": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "118": {
+  "name_it": "Scena luminosa delicata",
+  "name_en": "Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 1
+ },
+ "119": {
+  "name_it": "Scena luminosa raffinata",
+  "name_en": "Polished Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 2
+ },
+ "120": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "121": {
+  "name_it": "Scena luminosa delicata",
+  "name_en": "Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 1
+ },
+ "122": {
+  "name_it": "Scena luminosa raffinata",
+  "name_en": "Polished Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 2
+ },
+ "123": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "124": {
+  "name_it": "Scena luminosa delicata",
+  "name_en": "Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 1
+ },
+ "125": {
+  "name_it": "Scena luminosa raffinata",
+  "name_en": "Polished Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 2
+ },
+ "126": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "127": {
+  "name_it": "Scena tranquilla delicata",
+  "name_en": "Delicate Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 1
+ },
+ "128": {
+  "name_it": "Scena tranquilla raffinata",
+  "name_en": "Polished Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "129": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "130": {
+  "name_it": "Scena tranquilla delicata",
+  "name_en": "Delicate Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 1
+ },
+ "131": {
+  "name_it": "Scena tranquilla raffinata",
+  "name_en": "Polished Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "132": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "133": {
+  "name_it": "Scena tranquilla delicata",
+  "name_en": "Delicate Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 1
+ },
+ "134": {
+  "name_it": "Scena tranquilla raffinata",
+  "name_en": "Polished Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "135": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "200": {
+  "name_it": "Scena ardente delicata",
+  "name_en": "Delicate Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "201": {
+  "name_it": "Scena ardente raffinata",
+  "name_en": "Polished Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "202": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "203": {
+  "name_it": "Scena ardente delicata",
+  "name_en": "Delicate Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "204": {
+  "name_it": "Scena ardente raffinata",
+  "name_en": "Polished Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "205": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "206": {
+  "name_it": "Scena ardente delicata",
+  "name_en": "Delicate Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "207": {
+  "name_it": "Scena ardente raffinata",
+  "name_en": "Polished Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "208": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "209": {
+  "name_it": "Scena piovosa delicata",
+  "name_en": "Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 1
+ },
+ "210": {
+  "name_it": "Scena piovosa raffinata",
+  "name_en": "Polished Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "211": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "212": {
+  "name_it": "Scena piovosa delicata",
+  "name_en": "Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 1
+ },
+ "213": {
+  "name_it": "Scena piovosa raffinata",
+  "name_en": "Polished Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "214": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "215": {
+  "name_it": "Scena piovosa delicata",
+  "name_en": "Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 1
+ },
+ "216": {
+  "name_it": "Scena piovosa raffinata",
+  "name_en": "Polished Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "217": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "218": {
+  "name_it": "Scena luminosa delicata",
+  "name_en": "Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 1
+ },
+ "219": {
+  "name_it": "Scena luminosa raffinata",
+  "name_en": "Polished Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 2
+ },
+ "220": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "221": {
+  "name_it": "Scena luminosa delicata",
+  "name_en": "Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 1
+ },
+ "222": {
+  "name_it": "Scena luminosa raffinata",
+  "name_en": "Polished Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 2
+ },
+ "223": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "224": {
+  "name_it": "Scena luminosa delicata",
+  "name_en": "Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 1
+ },
+ "225": {
+  "name_it": "Scena luminosa raffinata",
+  "name_en": "Polished Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 2
+ },
+ "226": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "227": {
+  "name_it": "Scena tranquilla delicata",
+  "name_en": "Delicate Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 1
+ },
+ "228": {
+  "name_it": "Scena tranquilla raffinata",
+  "name_en": "Polished Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "229": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "230": {
+  "name_it": "Scena tranquilla delicata",
+  "name_en": "Delicate Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 1
+ },
+ "231": {
+  "name_it": "Scena tranquilla raffinata",
+  "name_en": "Polished Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "232": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "233": {
+  "name_it": "Scena tranquilla delicata",
+  "name_en": "Delicate Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 1
+ },
+ "234": {
+  "name_it": "Scena tranquilla raffinata",
+  "name_en": "Polished Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "235": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "1000": {
+  "name_it": "Scena ardente delicata",
+  "name_en": "Delicate Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "1010": {
+  "name_it": "Scena piovosa delicata",
+  "name_en": "Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 1
+ },
+ "1020": {
+  "name_it": "Scena luminosa delicata",
+  "name_en": "Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 1
+ },
+ "1030": {
+  "name_it": "Scena tranquilla delicata",
+  "name_en": "Delicate Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 1
+ },
+ "1040": {
+  "name_it": "Scena ardente raffinata",
+  "name_en": "Polished Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "1050": {
+  "name_it": "Scena luminosa delicata",
+  "name_en": "Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 1
+ },
+ "1060": {
+  "name_it": "Scena tranquilla raffinata",
+  "name_en": "Polished Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "1070": {
+  "name_it": "Scena piovosa raffinata",
+  "name_en": "Polished Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "1080": {
+  "name_it": "Scena ardente raffinata",
+  "name_en": "Polished Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "1090": {
+  "name_it": "Scena tranquilla raffinata",
+  "name_en": "Polished Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "1100": {
+  "name_it": "Scena tranquilla raffinata",
+  "name_en": "Polished Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "1110": {
+  "name_it": "Scena ardente raffinata",
+  "name_en": "Polished Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "1120": {
+  "name_it": "Scena ardente raffinata",
+  "name_en": "Polished Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "1130": {
+  "name_it": "Scena tranquilla raffinata",
+  "name_en": "Polished Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "1140": {
+  "name_it": "Scena luminosa raffinata",
+  "name_en": "Polished Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 2
+ },
+ "1150": {
+  "name_it": "Scena luminosa raffinata",
+  "name_en": "Polished Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 2
+ },
+ "1160": {
+  "name_it": "Scena piovosa raffinata",
+  "name_en": "Polished Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "1170": {
+  "name_it": "Scena piovosa raffinata",
+  "name_en": "Polished Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "1180": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "1190": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "1200": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "1210": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "1220": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "1230": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "1240": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "1250": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "1260": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "1270": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "1300": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "1310": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "1400": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "1410": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "1420": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "1430": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "1440": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "1450": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "1460": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "1470": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "1480": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "1490": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "1500": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "1510": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "1520": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "1600": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "1610": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "1620": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "1630": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "1640": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "1650": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "1660": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "1670": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "1680": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "1690": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "1700": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "1710": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "1720": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "1730": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "1740": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "1750": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "1800": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "1820": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "1830": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "1850": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "1860": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "1870": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "1880": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "1890": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "1900": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "1920": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "2000": {
+  "name_it": "Notte della belva",
+  "name_en": "Night of the Beast",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "2001": {
+  "name_it": "Notte oscura della bestia",
+  "name_en": "Dark Night of the Beast",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "2010": {
+  "name_it": "Notte del barone",
+  "name_en": "Night of the Baron",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "2011": {
+  "name_it": "Notte oscura del barone",
+  "name_en": "Dark Night of the Baron",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "2020": {
+  "name_it": "Notte del sapere",
+  "name_en": "Night of the Wise",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "2021": {
+  "name_it": "Notte oscura del sapere",
+  "name_en": "Dark Night of the Wise",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "2030": {
+  "name_it": "Notte del pensiero",
+  "name_en": "Night of the Fathom",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "2031": {
+  "name_it": "Notte oscura del pensiero",
+  "name_en": "Dark Night of the Fathom",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "2040": {
+  "name_it": "Notte del demone",
+  "name_en": "Night of the Demon",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "2041": {
+  "name_it": "Notte oscura del demone",
+  "name_en": "Dark Night of the Demon",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "2050": {
+  "name_it": "Notte del campione",
+  "name_en": "Night of the Champion",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "2051": {
+  "name_it": "Notte oscura del campione",
+  "name_en": "Dark Night of the Champion",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "2060": {
+  "name_it": "Notte del miasma",
+  "name_en": "Night of the Miasma",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "2061": {
+  "name_it": "Notte oscura del miasma",
+  "name_en": "Dark Night of the Miasma",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "2070": {
+  "name_it": "Volontà delle Stabilizzatrici",
+  "name_en": "The Will of the Balancers",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "2071": {
+  "name_it": "Volontà di stabilità",
+  "name_en": "The Will of Balance",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "2080": {
+  "name_it": "Notte della feccia",
+  "name_en": "The Night of Dregs",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "2100": {
+  "name_it": "Notte del signore",
+  "name_en": "Night of the Lord",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "10000": {
+  "name_it": "Vecchio orologio da tasca",
+  "name_en": "Old Pocketwatch",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "10001": {
+  "name_it": "Cornice sporca",
+  "name_en": "Besmirched Frame",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "10002": {
+  "name_it": "Feticcio del Presagio implacabile",
+  "name_en": "Fell Omen Fetish",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "11000": {
+  "name_it": "Cote di ardesia",
+  "name_en": "Slate Whetstone",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "11001": {
+  "name_it": "Orecchino del Selvaggio",
+  "name_en": "The Wylder's Earring",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "11002": {
+  "name_it": "Lacrima d'argento",
+  "name_en": "Silver Tear",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "11003": {
+  "name_it": "Scena ardente delicata",
+  "name_en": "Delicate Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "11004": {
+  "name_it": "Scena ardente delicata",
+  "name_en": "Delicate Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "12000": {
+  "name_it": "Terzo volume",
+  "name_en": "Third Volume",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "12001": {
+  "name_it": "Asta di pietra",
+  "name_en": "Stone Stake",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "12002": {
+  "name_it": "Fermaglio della strega",
+  "name_en": "Witch's Brooch",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "12003": {
+  "name_it": "Fermaglio della strega incrinato",
+  "name_en": "Cracked Witch's Brooch",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "12004": {
+  "name_it": "Scena luminosa delicata",
+  "name_en": "Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 1
+ },
+ "12005": {
+  "name_it": "Scena piovosa delicata",
+  "name_en": "Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 1
+ },
+ "12006": {
+  "name_it": "Scena piovosa delicata",
+  "name_en": "Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 1
+ },
+ "12007": {
+  "name_it": "Scena tranquilla delicata",
+  "name_en": "Delicate Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 1
+ },
+ "13001": {
+  "name_it": "Sigillo di cera danneggiato",
+  "name_en": "Cracked Sealing Wax",
+  "color": "yellow",
+  "deep": false,
+  "slots": 2
+ },
+ "13002": {
+  "name_it": "Lama dell'Ordine",
+  "name_en": "Edge of Order",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "14000": {
+  "name_it": "Rugiada d'oro",
+  "name_en": "Golden Dew",
+  "color": "yellow",
+  "deep": false,
+  "slots": 2
+ },
+ "14001": {
+  "name_it": "Medaglia della corona",
+  "name_en": "Crown Medal",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "14002": {
+  "name_it": "Moneta di ferro benedetta",
+  "name_en": "Blessed Iron Coin",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "15000": {
+  "name_it": "Corda intrecciata lacera",
+  "name_en": "Torn Braided Cord",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "15002": {
+  "name_it": "Collana dell'Artiglio nero",
+  "name_en": "Black Claw Necklace",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "16001": {
+  "name_it": "Pennello piccolo da trucco",
+  "name_en": "Small Makeup Brush",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "16002": {
+  "name_it": "Vecchio ritratto",
+  "name_en": "Old Portrait",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "17001": {
+  "name_it": "Vestigia della notte",
+  "name_en": "Vestige of Night",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "17002": {
+  "name_it": "Pietra ossea",
+  "name_en": "Bone-Like Stone",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "18000": {
+  "name_it": "Fiori benedetti",
+  "name_en": "Blessed Flowers",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "18002": {
+  "name_it": "Germoglio d'oro",
+  "name_en": "Golden Sprout",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "19000": {
+  "name_it": "Lacrima catartica",
+  "name_en": "Cleansing Tear",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "19001": {
+  "name_it": "Messaggio \"A chi mi succederà\"",
+  "name_en": "Note \"My Dear Successor\"",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "19050": {
+  "name_it": "Astuccio per monocolo in cuoio",
+  "name_en": "Leather Monocle Case",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "19051": {
+  "name_it": "Collana di vetro",
+  "name_en": "Glass Necklace",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "20000": {
+  "name_it": "Scena ardente delicata",
+  "name_en": "Delicate Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "20001": {
+  "name_it": "Scena ardente raffinata",
+  "name_en": "Polished Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "20002": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "20003": {
+  "name_it": "Scena ardente delicata",
+  "name_en": "Delicate Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "20004": {
+  "name_it": "Scena ardente raffinata",
+  "name_en": "Polished Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "20005": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "20006": {
+  "name_it": "Scena ardente delicata",
+  "name_en": "Delicate Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "20007": {
+  "name_it": "Scena ardente raffinata",
+  "name_en": "Polished Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "20008": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "20009": {
+  "name_it": "Scena piovosa delicata",
+  "name_en": "Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 1
+ },
+ "20010": {
+  "name_it": "Scena piovosa raffinata",
+  "name_en": "Polished Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "20011": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "20012": {
+  "name_it": "Scena piovosa delicata",
+  "name_en": "Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 1
+ },
+ "20013": {
+  "name_it": "Scena piovosa raffinata",
+  "name_en": "Polished Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "20014": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "20015": {
+  "name_it": "Scena piovosa delicata",
+  "name_en": "Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 1
+ },
+ "20016": {
+  "name_it": "Scena piovosa raffinata",
+  "name_en": "Polished Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "20017": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "20018": {
+  "name_it": "Scena luminosa delicata",
+  "name_en": "Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 1
+ },
+ "20019": {
+  "name_it": "Scena luminosa raffinata",
+  "name_en": "Polished Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 2
+ },
+ "20020": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "20021": {
+  "name_it": "Scena luminosa delicata",
+  "name_en": "Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 1
+ },
+ "20022": {
+  "name_it": "Scena luminosa raffinata",
+  "name_en": "Polished Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 2
+ },
+ "20023": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "20024": {
+  "name_it": "Scena luminosa delicata",
+  "name_en": "Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 1
+ },
+ "20025": {
+  "name_it": "Scena luminosa raffinata",
+  "name_en": "Polished Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 2
+ },
+ "20026": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "20027": {
+  "name_it": "Scena tranquilla delicata",
+  "name_en": "Delicate Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 1
+ },
+ "20028": {
+  "name_it": "Scena tranquilla raffinata",
+  "name_en": "Polished Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "20029": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "20030": {
+  "name_it": "Scena tranquilla delicata",
+  "name_en": "Delicate Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 1
+ },
+ "20031": {
+  "name_it": "Scena tranquilla raffinata",
+  "name_en": "Polished Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "20032": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "20033": {
+  "name_it": "Scena tranquilla delicata",
+  "name_en": "Delicate Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 1
+ },
+ "20034": {
+  "name_it": "Scena tranquilla raffinata",
+  "name_en": "Polished Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "20035": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "30000": {
+  "name_it": "Scena ardente delicata profonda",
+  "name_en": "Deep Delicate Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "30001": {
+  "name_it": "Scena ardente raffinata profonda",
+  "name_en": "Deep Polished Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "30002": {
+  "name_it": "Scena ardente magnifica profonda",
+  "name_en": "Deep Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "30003": {
+  "name_it": "Scena ardente delicata profonda",
+  "name_en": "Deep Delicate Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "30004": {
+  "name_it": "Scena ardente raffinata profonda",
+  "name_en": "Deep Polished Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "30005": {
+  "name_it": "Scena ardente magnifica profonda",
+  "name_en": "Deep Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "30006": {
+  "name_it": "Scena ardente delicata profonda",
+  "name_en": "Deep Delicate Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "30007": {
+  "name_it": "Scena ardente raffinata profonda",
+  "name_en": "Deep Polished Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "30008": {
+  "name_it": "Scena ardente magnifica profonda",
+  "name_en": "Deep Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "30009": {
+  "name_it": "Scena piovosa delicata profonda",
+  "name_en": "Deep Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 1
+ },
+ "30010": {
+  "name_it": "Scena piovosa raffinata profonda",
+  "name_en": "Deep Polished Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "30011": {
+  "name_it": "Scena piovosa magnifica profonda",
+  "name_en": "Deep Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "30012": {
+  "name_it": "Scena piovosa delicata profonda",
+  "name_en": "Deep Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 1
+ },
+ "30013": {
+  "name_it": "Scena piovosa raffinata profonda",
+  "name_en": "Deep Polished Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "30014": {
+  "name_it": "Scena piovosa magnifica profonda",
+  "name_en": "Deep Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "30015": {
+  "name_it": "Scena piovosa delicata profonda",
+  "name_en": "Deep Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 1
+ },
+ "30016": {
+  "name_it": "Scena piovosa raffinata profonda",
+  "name_en": "Deep Polished Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "30017": {
+  "name_it": "Scena piovosa magnifica profonda",
+  "name_en": "Deep Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "30018": {
+  "name_it": "Scena luminosa delicata profonda",
+  "name_en": "Deep Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 1
+ },
+ "30019": {
+  "name_it": "Scena luminosa raffinata profonda",
+  "name_en": "Deep Polished Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 2
+ },
+ "30020": {
+  "name_it": "Scena luminosa magnifica profonda",
+  "name_en": "Deep Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "30021": {
+  "name_it": "Scena luminosa delicata profonda",
+  "name_en": "Deep Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 1
+ },
+ "30022": {
+  "name_it": "Scena luminosa raffinata profonda",
+  "name_en": "Deep Polished Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 2
+ },
+ "30023": {
+  "name_it": "Scena luminosa magnifica profonda",
+  "name_en": "Deep Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "30024": {
+  "name_it": "Scena luminosa delicata profonda",
+  "name_en": "Deep Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 1
+ },
+ "30025": {
+  "name_it": "Scena luminosa raffinata profonda",
+  "name_en": "Deep Polished Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 2
+ },
+ "30026": {
+  "name_it": "Scena luminosa magnifica profonda",
+  "name_en": "Deep Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "30027": {
+  "name_it": "Scena tranquilla delicata profonda",
+  "name_en": "Deep Delicate Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 1
+ },
+ "30028": {
+  "name_it": "Scena tranquilla raffinata profonda",
+  "name_en": "Deep Polished Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "30029": {
+  "name_it": "Scena tranquilla magnifica profonda",
+  "name_en": "Deep Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "30030": {
+  "name_it": "Scena tranquilla delicata profonda",
+  "name_en": "Deep Delicate Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 1
+ },
+ "30031": {
+  "name_it": "Scena tranquilla raffinata profonda",
+  "name_en": "Deep Polished Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "30032": {
+  "name_it": "Scena tranquilla magnifica profonda",
+  "name_en": "Deep Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "30033": {
+  "name_it": "Scena tranquilla delicata profonda",
+  "name_en": "Deep Delicate Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 1
+ },
+ "30034": {
+  "name_it": "Scena tranquilla raffinata profonda",
+  "name_en": "Deep Polished Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "30035": {
+  "name_it": "Scena tranquilla magnifica profonda",
+  "name_en": "Deep Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "1000000": {
+  "name_it": "Scena ardente delicata",
+  "name_en": "Delicate Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "1000001": {
+  "name_it": "Scena ardente raffinata",
+  "name_en": "Polished Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "1000002": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "1000010": {
+  "name_it": "Scena ardente delicata",
+  "name_en": "Delicate Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "1000011": {
+  "name_it": "Scena ardente raffinata",
+  "name_en": "Polished Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "1000012": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "1000020": {
+  "name_it": "Scena ardente delicata",
+  "name_en": "Delicate Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "1000021": {
+  "name_it": "Scena ardente raffinata",
+  "name_en": "Polished Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "1000022": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "1000100": {
+  "name_it": "Scena piovosa delicata",
+  "name_en": "Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 1
+ },
+ "1000101": {
+  "name_it": "Scena piovosa raffinata",
+  "name_en": "Polished Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "1000102": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "1000110": {
+  "name_it": "Scena piovosa delicata",
+  "name_en": "Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 1
+ },
+ "1000111": {
+  "name_it": "Scena piovosa raffinata",
+  "name_en": "Polished Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "1000112": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "1000120": {
+  "name_it": "Scena piovosa delicata",
+  "name_en": "Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 1
+ },
+ "1000121": {
+  "name_it": "Scena piovosa raffinata",
+  "name_en": "Polished Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "1000122": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "1000200": {
+  "name_it": "Scena luminosa delicata",
+  "name_en": "Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 1
+ },
+ "1000201": {
+  "name_it": "Scena luminosa raffinata",
+  "name_en": "Polished Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 2
+ },
+ "1000202": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "1000210": {
+  "name_it": "Scena luminosa delicata",
+  "name_en": "Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 1
+ },
+ "1000211": {
+  "name_it": "Scena luminosa raffinata",
+  "name_en": "Polished Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 2
+ },
+ "1000212": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "1000220": {
+  "name_it": "Scena luminosa delicata",
+  "name_en": "Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 1
+ },
+ "1000221": {
+  "name_it": "Scena luminosa raffinata",
+  "name_en": "Polished Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 2
+ },
+ "1000222": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "1000300": {
+  "name_it": "Scena tranquilla delicata",
+  "name_en": "Delicate Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 1
+ },
+ "1000301": {
+  "name_it": "Scena tranquilla raffinata",
+  "name_en": "Polished Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "1000302": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "1000310": {
+  "name_it": "Scena tranquilla delicata",
+  "name_en": "Delicate Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 1
+ },
+ "1000311": {
+  "name_it": "Scena tranquilla raffinata",
+  "name_en": "Polished Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "1000312": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "1000320": {
+  "name_it": "Scena tranquilla delicata",
+  "name_en": "Delicate Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 1
+ },
+ "1000321": {
+  "name_it": "Scena tranquilla raffinata",
+  "name_en": "Polished Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "1000322": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "1001000": {
+  "name_it": "Scena ardente delicata",
+  "name_en": "Delicate Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "1001001": {
+  "name_it": "Scena ardente raffinata",
+  "name_en": "Polished Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "1001002": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "1001010": {
+  "name_it": "Scena ardente delicata",
+  "name_en": "Delicate Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "1001011": {
+  "name_it": "Scena ardente raffinata",
+  "name_en": "Polished Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "1001012": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "1001020": {
+  "name_it": "Scena ardente delicata",
+  "name_en": "Delicate Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "1001021": {
+  "name_it": "Scena ardente raffinata",
+  "name_en": "Polished Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "1001022": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "1001100": {
+  "name_it": "Scena piovosa delicata",
+  "name_en": "Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 1
+ },
+ "1001101": {
+  "name_it": "Scena piovosa raffinata",
+  "name_en": "Polished Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "1001102": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "1001110": {
+  "name_it": "Scena piovosa delicata",
+  "name_en": "Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 1
+ },
+ "1001111": {
+  "name_it": "Scena piovosa raffinata",
+  "name_en": "Polished Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "1001112": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "1001120": {
+  "name_it": "Scena piovosa delicata",
+  "name_en": "Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 1
+ },
+ "1001121": {
+  "name_it": "Scena piovosa raffinata",
+  "name_en": "Polished Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "1001122": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "1001200": {
+  "name_it": "Scena luminosa delicata",
+  "name_en": "Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 1
+ },
+ "1001201": {
+  "name_it": "Scena luminosa raffinata",
+  "name_en": "Polished Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 2
+ },
+ "1001202": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "1001210": {
+  "name_it": "Scena luminosa delicata",
+  "name_en": "Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 1
+ },
+ "1001211": {
+  "name_it": "Scena luminosa raffinata",
+  "name_en": "Polished Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 2
+ },
+ "1001212": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "1001220": {
+  "name_it": "Scena luminosa delicata",
+  "name_en": "Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 1
+ },
+ "1001221": {
+  "name_it": "Scena luminosa raffinata",
+  "name_en": "Polished Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 2
+ },
+ "1001222": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "1001300": {
+  "name_it": "Scena tranquilla delicata",
+  "name_en": "Delicate Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 1
+ },
+ "1001301": {
+  "name_it": "Scena tranquilla raffinata",
+  "name_en": "Polished Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "1001302": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "1001310": {
+  "name_it": "Scena tranquilla delicata",
+  "name_en": "Delicate Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 1
+ },
+ "1001311": {
+  "name_it": "Scena tranquilla raffinata",
+  "name_en": "Polished Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "1001312": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "1001320": {
+  "name_it": "Scena tranquilla delicata",
+  "name_en": "Delicate Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 1
+ },
+ "1001321": {
+  "name_it": "Scena tranquilla raffinata",
+  "name_en": "Polished Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "1001322": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "1002000": {
+  "name_it": "Scena ardente delicata",
+  "name_en": "Delicate Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "1002001": {
+  "name_it": "Scena ardente raffinata",
+  "name_en": "Polished Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "1002002": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "1002010": {
+  "name_it": "Scena ardente delicata",
+  "name_en": "Delicate Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "1002011": {
+  "name_it": "Scena ardente raffinata",
+  "name_en": "Polished Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "1002012": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "1002020": {
+  "name_it": "Scena ardente delicata",
+  "name_en": "Delicate Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "1002021": {
+  "name_it": "Scena ardente raffinata",
+  "name_en": "Polished Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "1002022": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "1002100": {
+  "name_it": "Scena piovosa delicata",
+  "name_en": "Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 1
+ },
+ "1002101": {
+  "name_it": "Scena piovosa raffinata",
+  "name_en": "Polished Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "1002102": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "1002110": {
+  "name_it": "Scena piovosa delicata",
+  "name_en": "Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 1
+ },
+ "1002111": {
+  "name_it": "Scena piovosa raffinata",
+  "name_en": "Polished Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "1002112": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "1002120": {
+  "name_it": "Scena piovosa delicata",
+  "name_en": "Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 1
+ },
+ "1002121": {
+  "name_it": "Scena piovosa raffinata",
+  "name_en": "Polished Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "1002122": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "1002200": {
+  "name_it": "Scena luminosa delicata",
+  "name_en": "Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 1
+ },
+ "1002201": {
+  "name_it": "Scena luminosa raffinata",
+  "name_en": "Polished Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 2
+ },
+ "1002202": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "1002210": {
+  "name_it": "Scena luminosa delicata",
+  "name_en": "Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 1
+ },
+ "1002211": {
+  "name_it": "Scena luminosa raffinata",
+  "name_en": "Polished Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 2
+ },
+ "1002212": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "1002220": {
+  "name_it": "Scena luminosa delicata",
+  "name_en": "Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 1
+ },
+ "1002221": {
+  "name_it": "Scena luminosa raffinata",
+  "name_en": "Polished Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 2
+ },
+ "1002222": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "1002300": {
+  "name_it": "Scena tranquilla delicata",
+  "name_en": "Delicate Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 1
+ },
+ "1002301": {
+  "name_it": "Scena tranquilla raffinata",
+  "name_en": "Polished Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "1002302": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "1002310": {
+  "name_it": "Scena tranquilla delicata",
+  "name_en": "Delicate Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 1
+ },
+ "1002311": {
+  "name_it": "Scena tranquilla raffinata",
+  "name_en": "Polished Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "1002312": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "1002320": {
+  "name_it": "Scena tranquilla delicata",
+  "name_en": "Delicate Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 1
+ },
+ "1002321": {
+  "name_it": "Scena tranquilla raffinata",
+  "name_en": "Polished Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "1002322": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "1003000": {
+  "name_it": "Scena ardente delicata",
+  "name_en": "Delicate Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "1003001": {
+  "name_it": "Scena ardente raffinata",
+  "name_en": "Polished Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "1003002": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "1003010": {
+  "name_it": "Scena ardente delicata",
+  "name_en": "Delicate Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "1003011": {
+  "name_it": "Scena ardente raffinata",
+  "name_en": "Polished Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "1003012": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "1003020": {
+  "name_it": "Scena ardente delicata",
+  "name_en": "Delicate Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "1003021": {
+  "name_it": "Scena ardente raffinata",
+  "name_en": "Polished Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "1003022": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "1003100": {
+  "name_it": "Scena piovosa delicata",
+  "name_en": "Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 1
+ },
+ "1003101": {
+  "name_it": "Scena piovosa raffinata",
+  "name_en": "Polished Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "1003102": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "1003110": {
+  "name_it": "Scena piovosa delicata",
+  "name_en": "Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 1
+ },
+ "1003111": {
+  "name_it": "Scena piovosa raffinata",
+  "name_en": "Polished Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "1003112": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "1003120": {
+  "name_it": "Scena piovosa delicata",
+  "name_en": "Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 1
+ },
+ "1003121": {
+  "name_it": "Scena piovosa raffinata",
+  "name_en": "Polished Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "1003122": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "1003200": {
+  "name_it": "Scena luminosa delicata",
+  "name_en": "Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 1
+ },
+ "1003201": {
+  "name_it": "Scena luminosa raffinata",
+  "name_en": "Polished Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 2
+ },
+ "1003202": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "1003210": {
+  "name_it": "Scena luminosa delicata",
+  "name_en": "Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 1
+ },
+ "1003211": {
+  "name_it": "Scena luminosa raffinata",
+  "name_en": "Polished Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 2
+ },
+ "1003212": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "1003220": {
+  "name_it": "Scena luminosa delicata",
+  "name_en": "Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 1
+ },
+ "1003221": {
+  "name_it": "Scena luminosa raffinata",
+  "name_en": "Polished Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 2
+ },
+ "1003222": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "1003300": {
+  "name_it": "Scena tranquilla delicata",
+  "name_en": "Delicate Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 1
+ },
+ "1003301": {
+  "name_it": "Scena tranquilla raffinata",
+  "name_en": "Polished Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "1003302": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "1003310": {
+  "name_it": "Scena tranquilla delicata",
+  "name_en": "Delicate Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 1
+ },
+ "1003311": {
+  "name_it": "Scena tranquilla raffinata",
+  "name_en": "Polished Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "1003312": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "1003320": {
+  "name_it": "Scena tranquilla delicata",
+  "name_en": "Delicate Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 1
+ },
+ "1003321": {
+  "name_it": "Scena tranquilla raffinata",
+  "name_en": "Polished Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "1003322": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "1004000": {
+  "name_it": "Scena ardente delicata",
+  "name_en": "Delicate Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "1004001": {
+  "name_it": "Scena ardente raffinata",
+  "name_en": "Polished Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "1004002": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "1004010": {
+  "name_it": "Scena ardente delicata",
+  "name_en": "Delicate Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "1004011": {
+  "name_it": "Scena ardente raffinata",
+  "name_en": "Polished Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "1004012": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "1004020": {
+  "name_it": "Scena ardente delicata",
+  "name_en": "Delicate Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "1004021": {
+  "name_it": "Scena ardente raffinata",
+  "name_en": "Polished Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "1004022": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "1004100": {
+  "name_it": "Scena piovosa delicata",
+  "name_en": "Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 1
+ },
+ "1004101": {
+  "name_it": "Scena piovosa raffinata",
+  "name_en": "Polished Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "1004102": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "1004110": {
+  "name_it": "Scena piovosa delicata",
+  "name_en": "Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 1
+ },
+ "1004111": {
+  "name_it": "Scena piovosa raffinata",
+  "name_en": "Polished Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "1004112": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "1004120": {
+  "name_it": "Scena piovosa delicata",
+  "name_en": "Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 1
+ },
+ "1004121": {
+  "name_it": "Scena piovosa raffinata",
+  "name_en": "Polished Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "1004122": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "1004200": {
+  "name_it": "Scena luminosa delicata",
+  "name_en": "Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 1
+ },
+ "1004201": {
+  "name_it": "Scena luminosa raffinata",
+  "name_en": "Polished Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 2
+ },
+ "1004202": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "1004210": {
+  "name_it": "Scena luminosa delicata",
+  "name_en": "Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 1
+ },
+ "1004211": {
+  "name_it": "Scena luminosa raffinata",
+  "name_en": "Polished Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 2
+ },
+ "1004212": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "1004220": {
+  "name_it": "Scena luminosa delicata",
+  "name_en": "Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 1
+ },
+ "1004221": {
+  "name_it": "Scena luminosa raffinata",
+  "name_en": "Polished Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 2
+ },
+ "1004222": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "1004300": {
+  "name_it": "Scena tranquilla delicata",
+  "name_en": "Delicate Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 1
+ },
+ "1004301": {
+  "name_it": "Scena tranquilla raffinata",
+  "name_en": "Polished Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "1004302": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "1004310": {
+  "name_it": "Scena tranquilla delicata",
+  "name_en": "Delicate Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 1
+ },
+ "1004311": {
+  "name_it": "Scena tranquilla raffinata",
+  "name_en": "Polished Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "1004312": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "1004320": {
+  "name_it": "Scena tranquilla delicata",
+  "name_en": "Delicate Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 1
+ },
+ "1004321": {
+  "name_it": "Scena tranquilla raffinata",
+  "name_en": "Polished Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "1004322": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "1005000": {
+  "name_it": "Scena ardente delicata",
+  "name_en": "Delicate Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "1005001": {
+  "name_it": "Scena ardente raffinata",
+  "name_en": "Polished Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "1005002": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "1005010": {
+  "name_it": "Scena ardente delicata",
+  "name_en": "Delicate Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "1005011": {
+  "name_it": "Scena ardente raffinata",
+  "name_en": "Polished Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "1005012": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "1005020": {
+  "name_it": "Scena ardente delicata",
+  "name_en": "Delicate Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "1005021": {
+  "name_it": "Scena ardente raffinata",
+  "name_en": "Polished Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "1005022": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "1005100": {
+  "name_it": "Scena piovosa delicata",
+  "name_en": "Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 1
+ },
+ "1005101": {
+  "name_it": "Scena piovosa raffinata",
+  "name_en": "Polished Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "1005102": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "1005110": {
+  "name_it": "Scena piovosa delicata",
+  "name_en": "Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 1
+ },
+ "1005111": {
+  "name_it": "Scena piovosa raffinata",
+  "name_en": "Polished Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "1005112": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "1005120": {
+  "name_it": "Scena piovosa delicata",
+  "name_en": "Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 1
+ },
+ "1005121": {
+  "name_it": "Scena piovosa raffinata",
+  "name_en": "Polished Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "1005122": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "1005200": {
+  "name_it": "Scena luminosa delicata",
+  "name_en": "Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 1
+ },
+ "1005201": {
+  "name_it": "Scena luminosa raffinata",
+  "name_en": "Polished Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 2
+ },
+ "1005202": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "1005210": {
+  "name_it": "Scena luminosa delicata",
+  "name_en": "Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 1
+ },
+ "1005211": {
+  "name_it": "Scena luminosa raffinata",
+  "name_en": "Polished Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 2
+ },
+ "1005212": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "1005220": {
+  "name_it": "Scena luminosa delicata",
+  "name_en": "Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 1
+ },
+ "1005221": {
+  "name_it": "Scena luminosa raffinata",
+  "name_en": "Polished Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 2
+ },
+ "1005222": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "1005300": {
+  "name_it": "Scena tranquilla delicata",
+  "name_en": "Delicate Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 1
+ },
+ "1005301": {
+  "name_it": "Scena tranquilla raffinata",
+  "name_en": "Polished Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "1005302": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "1005310": {
+  "name_it": "Scena tranquilla delicata",
+  "name_en": "Delicate Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 1
+ },
+ "1005311": {
+  "name_it": "Scena tranquilla raffinata",
+  "name_en": "Polished Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "1005312": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "1005320": {
+  "name_it": "Scena tranquilla delicata",
+  "name_en": "Delicate Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 1
+ },
+ "1005321": {
+  "name_it": "Scena tranquilla raffinata",
+  "name_en": "Polished Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "1005322": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "1006000": {
+  "name_it": "Scena ardente delicata",
+  "name_en": "Delicate Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "1006001": {
+  "name_it": "Scena ardente raffinata",
+  "name_en": "Polished Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "1006002": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "1006010": {
+  "name_it": "Scena ardente delicata",
+  "name_en": "Delicate Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "1006011": {
+  "name_it": "Scena ardente raffinata",
+  "name_en": "Polished Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "1006012": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "1006020": {
+  "name_it": "Scena ardente delicata",
+  "name_en": "Delicate Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "1006021": {
+  "name_it": "Scena ardente raffinata",
+  "name_en": "Polished Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "1006022": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "1006100": {
+  "name_it": "Scena piovosa delicata",
+  "name_en": "Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 1
+ },
+ "1006101": {
+  "name_it": "Scena piovosa raffinata",
+  "name_en": "Polished Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "1006102": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "1006110": {
+  "name_it": "Scena piovosa delicata",
+  "name_en": "Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 1
+ },
+ "1006111": {
+  "name_it": "Scena piovosa raffinata",
+  "name_en": "Polished Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "1006112": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "1006120": {
+  "name_it": "Scena piovosa delicata",
+  "name_en": "Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 1
+ },
+ "1006121": {
+  "name_it": "Scena piovosa raffinata",
+  "name_en": "Polished Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "1006122": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "1006200": {
+  "name_it": "Scena luminosa delicata",
+  "name_en": "Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 1
+ },
+ "1006201": {
+  "name_it": "Scena luminosa raffinata",
+  "name_en": "Polished Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 2
+ },
+ "1006202": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "1006210": {
+  "name_it": "Scena luminosa delicata",
+  "name_en": "Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 1
+ },
+ "1006211": {
+  "name_it": "Scena luminosa raffinata",
+  "name_en": "Polished Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 2
+ },
+ "1006212": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "1006220": {
+  "name_it": "Scena luminosa delicata",
+  "name_en": "Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 1
+ },
+ "1006221": {
+  "name_it": "Scena luminosa raffinata",
+  "name_en": "Polished Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 2
+ },
+ "1006222": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "1006300": {
+  "name_it": "Scena tranquilla delicata",
+  "name_en": "Delicate Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 1
+ },
+ "1006301": {
+  "name_it": "Scena tranquilla raffinata",
+  "name_en": "Polished Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "1006302": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "1006310": {
+  "name_it": "Scena tranquilla delicata",
+  "name_en": "Delicate Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 1
+ },
+ "1006311": {
+  "name_it": "Scena tranquilla raffinata",
+  "name_en": "Polished Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "1006312": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "1006320": {
+  "name_it": "Scena tranquilla delicata",
+  "name_en": "Delicate Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 1
+ },
+ "1006321": {
+  "name_it": "Scena tranquilla raffinata",
+  "name_en": "Polished Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "1006322": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "1007000": {
+  "name_it": "Scena ardente delicata",
+  "name_en": "Delicate Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "1007001": {
+  "name_it": "Scena ardente raffinata",
+  "name_en": "Polished Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "1007002": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "1007010": {
+  "name_it": "Scena ardente delicata",
+  "name_en": "Delicate Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "1007011": {
+  "name_it": "Scena ardente raffinata",
+  "name_en": "Polished Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "1007012": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "1007020": {
+  "name_it": "Scena ardente delicata",
+  "name_en": "Delicate Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "1007021": {
+  "name_it": "Scena ardente raffinata",
+  "name_en": "Polished Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "1007022": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "1007100": {
+  "name_it": "Scena piovosa delicata",
+  "name_en": "Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 1
+ },
+ "1007101": {
+  "name_it": "Scena piovosa raffinata",
+  "name_en": "Polished Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "1007102": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "1007110": {
+  "name_it": "Scena piovosa delicata",
+  "name_en": "Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 1
+ },
+ "1007111": {
+  "name_it": "Scena piovosa raffinata",
+  "name_en": "Polished Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "1007112": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "1007120": {
+  "name_it": "Scena piovosa delicata",
+  "name_en": "Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 1
+ },
+ "1007121": {
+  "name_it": "Scena piovosa raffinata",
+  "name_en": "Polished Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "1007122": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "1007200": {
+  "name_it": "Scena luminosa delicata",
+  "name_en": "Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 1
+ },
+ "1007201": {
+  "name_it": "Scena luminosa raffinata",
+  "name_en": "Polished Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 2
+ },
+ "1007202": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "1007210": {
+  "name_it": "Scena luminosa delicata",
+  "name_en": "Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 1
+ },
+ "1007211": {
+  "name_it": "Scena luminosa raffinata",
+  "name_en": "Polished Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 2
+ },
+ "1007212": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "1007220": {
+  "name_it": "Scena luminosa delicata",
+  "name_en": "Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 1
+ },
+ "1007221": {
+  "name_it": "Scena luminosa raffinata",
+  "name_en": "Polished Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 2
+ },
+ "1007222": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "1007300": {
+  "name_it": "Scena tranquilla delicata",
+  "name_en": "Delicate Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 1
+ },
+ "1007301": {
+  "name_it": "Scena tranquilla raffinata",
+  "name_en": "Polished Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "1007302": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "1007310": {
+  "name_it": "Scena tranquilla delicata",
+  "name_en": "Delicate Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 1
+ },
+ "1007311": {
+  "name_it": "Scena tranquilla raffinata",
+  "name_en": "Polished Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "1007312": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "1007320": {
+  "name_it": "Scena tranquilla delicata",
+  "name_en": "Delicate Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 1
+ },
+ "1007321": {
+  "name_it": "Scena tranquilla raffinata",
+  "name_en": "Polished Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "1007322": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "1008000": {
+  "name_it": "Scena ardente delicata",
+  "name_en": "Delicate Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "1008001": {
+  "name_it": "Scena ardente raffinata",
+  "name_en": "Polished Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "1008002": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "1008010": {
+  "name_it": "Scena ardente delicata",
+  "name_en": "Delicate Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "1008011": {
+  "name_it": "Scena ardente raffinata",
+  "name_en": "Polished Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "1008012": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "1008020": {
+  "name_it": "Scena ardente delicata",
+  "name_en": "Delicate Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "1008021": {
+  "name_it": "Scena ardente raffinata",
+  "name_en": "Polished Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "1008022": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "1008100": {
+  "name_it": "Scena piovosa delicata",
+  "name_en": "Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 1
+ },
+ "1008101": {
+  "name_it": "Scena piovosa raffinata",
+  "name_en": "Polished Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "1008102": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "1008110": {
+  "name_it": "Scena piovosa delicata",
+  "name_en": "Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 1
+ },
+ "1008111": {
+  "name_it": "Scena piovosa raffinata",
+  "name_en": "Polished Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "1008112": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "1008120": {
+  "name_it": "Scena piovosa delicata",
+  "name_en": "Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 1
+ },
+ "1008121": {
+  "name_it": "Scena piovosa raffinata",
+  "name_en": "Polished Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "1008122": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "1008200": {
+  "name_it": "Scena luminosa delicata",
+  "name_en": "Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 1
+ },
+ "1008201": {
+  "name_it": "Scena luminosa raffinata",
+  "name_en": "Polished Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 2
+ },
+ "1008202": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "1008210": {
+  "name_it": "Scena luminosa delicata",
+  "name_en": "Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 1
+ },
+ "1008211": {
+  "name_it": "Scena luminosa raffinata",
+  "name_en": "Polished Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 2
+ },
+ "1008212": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "1008220": {
+  "name_it": "Scena luminosa delicata",
+  "name_en": "Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 1
+ },
+ "1008221": {
+  "name_it": "Scena luminosa raffinata",
+  "name_en": "Polished Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 2
+ },
+ "1008222": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "1008300": {
+  "name_it": "Scena tranquilla delicata",
+  "name_en": "Delicate Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 1
+ },
+ "1008301": {
+  "name_it": "Scena tranquilla raffinata",
+  "name_en": "Polished Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "1008302": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "1008310": {
+  "name_it": "Scena tranquilla delicata",
+  "name_en": "Delicate Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 1
+ },
+ "1008311": {
+  "name_it": "Scena tranquilla raffinata",
+  "name_en": "Polished Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "1008312": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "1008320": {
+  "name_it": "Scena tranquilla delicata",
+  "name_en": "Delicate Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 1
+ },
+ "1008321": {
+  "name_it": "Scena tranquilla raffinata",
+  "name_en": "Polished Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "1008322": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "1009000": {
+  "name_it": "Scena ardente delicata",
+  "name_en": "Delicate Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "1009001": {
+  "name_it": "Scena ardente raffinata",
+  "name_en": "Polished Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "1009002": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "1009010": {
+  "name_it": "Scena ardente delicata",
+  "name_en": "Delicate Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "1009011": {
+  "name_it": "Scena ardente raffinata",
+  "name_en": "Polished Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "1009012": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "1009020": {
+  "name_it": "Scena ardente delicata",
+  "name_en": "Delicate Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 1
+ },
+ "1009021": {
+  "name_it": "Scena ardente raffinata",
+  "name_en": "Polished Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 2
+ },
+ "1009022": {
+  "name_it": "Scena ardente magnifica",
+  "name_en": "Grand Burning Scene",
+  "color": "red",
+  "deep": false,
+  "slots": 3
+ },
+ "1009100": {
+  "name_it": "Scena piovosa delicata",
+  "name_en": "Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 1
+ },
+ "1009101": {
+  "name_it": "Scena piovosa raffinata",
+  "name_en": "Polished Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "1009102": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "1009110": {
+  "name_it": "Scena piovosa delicata",
+  "name_en": "Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 1
+ },
+ "1009111": {
+  "name_it": "Scena piovosa raffinata",
+  "name_en": "Polished Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "1009112": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "1009120": {
+  "name_it": "Scena piovosa delicata",
+  "name_en": "Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 1
+ },
+ "1009121": {
+  "name_it": "Scena piovosa raffinata",
+  "name_en": "Polished Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 2
+ },
+ "1009122": {
+  "name_it": "Scena piovosa magnifica",
+  "name_en": "Grand Drizzly Scene",
+  "color": "blue",
+  "deep": false,
+  "slots": 3
+ },
+ "1009200": {
+  "name_it": "Scena luminosa delicata",
+  "name_en": "Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 1
+ },
+ "1009201": {
+  "name_it": "Scena luminosa raffinata",
+  "name_en": "Polished Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 2
+ },
+ "1009202": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "1009210": {
+  "name_it": "Scena luminosa delicata",
+  "name_en": "Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 1
+ },
+ "1009211": {
+  "name_it": "Scena luminosa raffinata",
+  "name_en": "Polished Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 2
+ },
+ "1009212": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "1009220": {
+  "name_it": "Scena luminosa delicata",
+  "name_en": "Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 1
+ },
+ "1009221": {
+  "name_it": "Scena luminosa raffinata",
+  "name_en": "Polished Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 2
+ },
+ "1009222": {
+  "name_it": "Scena luminosa magnifica",
+  "name_en": "Grand Luminous Scene",
+  "color": "yellow",
+  "deep": false,
+  "slots": 3
+ },
+ "1009300": {
+  "name_it": "Scena tranquilla delicata",
+  "name_en": "Delicate Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 1
+ },
+ "1009301": {
+  "name_it": "Scena tranquilla raffinata",
+  "name_en": "Polished Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "1009302": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "1009310": {
+  "name_it": "Scena tranquilla delicata",
+  "name_en": "Delicate Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 1
+ },
+ "1009311": {
+  "name_it": "Scena tranquilla raffinata",
+  "name_en": "Polished Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "1009312": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "1009320": {
+  "name_it": "Scena tranquilla delicata",
+  "name_en": "Delicate Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 1
+ },
+ "1009321": {
+  "name_it": "Scena tranquilla raffinata",
+  "name_en": "Polished Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 2
+ },
+ "1009322": {
+  "name_it": "Scena tranquilla magnifica",
+  "name_en": "Grand Tranquil Scene",
+  "color": "green",
+  "deep": false,
+  "slots": 3
+ },
+ "2000000": {
+  "name_it": "Scena ardente delicata profonda",
+  "name_en": "Deep Delicate Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 1
+ },
+ "2000001": {
+  "name_it": "Scena ardente raffinata profonda",
+  "name_en": "Deep Polished Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 2
+ },
+ "2000002": {
+  "name_it": "Scena ardente magnifica profonda",
+  "name_en": "Deep Grand Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 3
+ },
+ "2000010": {
+  "name_it": "Scena ardente delicata profonda",
+  "name_en": "Deep Delicate Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 1
+ },
+ "2000011": {
+  "name_it": "Scena ardente raffinata profonda",
+  "name_en": "Deep Polished Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 2
+ },
+ "2000012": {
+  "name_it": "Scena ardente magnifica profonda",
+  "name_en": "Deep Grand Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 3
+ },
+ "2000020": {
+  "name_it": "Scena ardente delicata profonda",
+  "name_en": "Deep Delicate Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 1
+ },
+ "2000021": {
+  "name_it": "Scena ardente raffinata profonda",
+  "name_en": "Deep Polished Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 2
+ },
+ "2000022": {
+  "name_it": "Scena ardente magnifica profonda",
+  "name_en": "Deep Grand Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 3
+ },
+ "2000100": {
+  "name_it": "Scena piovosa delicata profonda",
+  "name_en": "Deep Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 1
+ },
+ "2000101": {
+  "name_it": "Scena piovosa raffinata profonda",
+  "name_en": "Deep Polished Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 2
+ },
+ "2000102": {
+  "name_it": "Scena piovosa magnifica profonda",
+  "name_en": "Deep Grand Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 3
+ },
+ "2000110": {
+  "name_it": "Scena piovosa delicata profonda",
+  "name_en": "Deep Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 1
+ },
+ "2000111": {
+  "name_it": "Scena piovosa raffinata profonda",
+  "name_en": "Deep Polished Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 2
+ },
+ "2000112": {
+  "name_it": "Scena piovosa magnifica profonda",
+  "name_en": "Deep Grand Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 3
+ },
+ "2000120": {
+  "name_it": "Scena piovosa delicata profonda",
+  "name_en": "Deep Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 1
+ },
+ "2000121": {
+  "name_it": "Scena piovosa raffinata profonda",
+  "name_en": "Deep Polished Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 2
+ },
+ "2000122": {
+  "name_it": "Scena piovosa magnifica profonda",
+  "name_en": "Deep Grand Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 3
+ },
+ "2000200": {
+  "name_it": "Scena luminosa delicata profonda",
+  "name_en": "Deep Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 1
+ },
+ "2000201": {
+  "name_it": "Scena luminosa raffinata profonda",
+  "name_en": "Deep Polished Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 2
+ },
+ "2000202": {
+  "name_it": "Scena luminosa magnifica profonda",
+  "name_en": "Deep Grand Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 3
+ },
+ "2000210": {
+  "name_it": "Scena luminosa delicata profonda",
+  "name_en": "Deep Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 1
+ },
+ "2000211": {
+  "name_it": "Scena luminosa raffinata profonda",
+  "name_en": "Deep Polished Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 2
+ },
+ "2000212": {
+  "name_it": "Scena luminosa magnifica profonda",
+  "name_en": "Deep Grand Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 3
+ },
+ "2000220": {
+  "name_it": "Scena luminosa delicata profonda",
+  "name_en": "Deep Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 1
+ },
+ "2000221": {
+  "name_it": "Scena luminosa raffinata profonda",
+  "name_en": "Deep Polished Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 2
+ },
+ "2000222": {
+  "name_it": "Scena luminosa magnifica profonda",
+  "name_en": "Deep Grand Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 3
+ },
+ "2000300": {
+  "name_it": "Scena tranquilla delicata profonda",
+  "name_en": "Deep Delicate Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 1
+ },
+ "2000301": {
+  "name_it": "Scena tranquilla raffinata profonda",
+  "name_en": "Deep Polished Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 2
+ },
+ "2000302": {
+  "name_it": "Scena tranquilla magnifica profonda",
+  "name_en": "Deep Grand Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 3
+ },
+ "2000310": {
+  "name_it": "Scena tranquilla delicata profonda",
+  "name_en": "Deep Delicate Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 1
+ },
+ "2000311": {
+  "name_it": "Scena tranquilla raffinata profonda",
+  "name_en": "Deep Polished Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 2
+ },
+ "2000312": {
+  "name_it": "Scena tranquilla magnifica profonda",
+  "name_en": "Deep Grand Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 3
+ },
+ "2000320": {
+  "name_it": "Scena tranquilla delicata profonda",
+  "name_en": "Deep Delicate Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 1
+ },
+ "2000321": {
+  "name_it": "Scena tranquilla raffinata profonda",
+  "name_en": "Deep Polished Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 2
+ },
+ "2000322": {
+  "name_it": "Scena tranquilla magnifica profonda",
+  "name_en": "Deep Grand Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 3
+ },
+ "2001001": {
+  "name_it": "Scena ardente raffinata profonda",
+  "name_en": "Deep Polished Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 2
+ },
+ "2001002": {
+  "name_it": "Scena ardente magnifica profonda",
+  "name_en": "Deep Grand Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 3
+ },
+ "2001011": {
+  "name_it": "Scena ardente raffinata profonda",
+  "name_en": "Deep Polished Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 2
+ },
+ "2001012": {
+  "name_it": "Scena ardente magnifica profonda",
+  "name_en": "Deep Grand Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 3
+ },
+ "2001021": {
+  "name_it": "Scena ardente raffinata profonda",
+  "name_en": "Deep Polished Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 2
+ },
+ "2001022": {
+  "name_it": "Scena ardente magnifica profonda",
+  "name_en": "Deep Grand Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 3
+ },
+ "2001101": {
+  "name_it": "Scena piovosa raffinata profonda",
+  "name_en": "Deep Polished Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 2
+ },
+ "2001102": {
+  "name_it": "Scena piovosa magnifica profonda",
+  "name_en": "Deep Grand Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 3
+ },
+ "2001111": {
+  "name_it": "Scena piovosa raffinata profonda",
+  "name_en": "Deep Polished Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 2
+ },
+ "2001112": {
+  "name_it": "Scena piovosa magnifica profonda",
+  "name_en": "Deep Grand Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 3
+ },
+ "2001121": {
+  "name_it": "Scena piovosa raffinata profonda",
+  "name_en": "Deep Polished Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 2
+ },
+ "2001122": {
+  "name_it": "Scena piovosa magnifica profonda",
+  "name_en": "Deep Grand Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 3
+ },
+ "2001201": {
+  "name_it": "Scena luminosa raffinata profonda",
+  "name_en": "Deep Polished Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 2
+ },
+ "2001202": {
+  "name_it": "Scena luminosa magnifica profonda",
+  "name_en": "Deep Grand Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 3
+ },
+ "2001211": {
+  "name_it": "Scena luminosa raffinata profonda",
+  "name_en": "Deep Polished Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 2
+ },
+ "2001212": {
+  "name_it": "Scena luminosa magnifica profonda",
+  "name_en": "Deep Grand Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 3
+ },
+ "2001221": {
+  "name_it": "Scena luminosa raffinata profonda",
+  "name_en": "Deep Polished Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 2
+ },
+ "2001222": {
+  "name_it": "Scena luminosa magnifica profonda",
+  "name_en": "Deep Grand Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 3
+ },
+ "2001301": {
+  "name_it": "Scena tranquilla raffinata profonda",
+  "name_en": "Deep Polished Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 2
+ },
+ "2001302": {
+  "name_it": "Scena tranquilla magnifica profonda",
+  "name_en": "Deep Grand Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 3
+ },
+ "2001311": {
+  "name_it": "Scena tranquilla raffinata profonda",
+  "name_en": "Deep Polished Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 2
+ },
+ "2001312": {
+  "name_it": "Scena tranquilla magnifica profonda",
+  "name_en": "Deep Grand Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 3
+ },
+ "2001321": {
+  "name_it": "Scena tranquilla raffinata profonda",
+  "name_en": "Deep Polished Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 2
+ },
+ "2001322": {
+  "name_it": "Scena tranquilla magnifica profonda",
+  "name_en": "Deep Grand Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 3
+ },
+ "2002002": {
+  "name_it": "Scena ardente magnifica profonda",
+  "name_en": "Deep Grand Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 3
+ },
+ "2002012": {
+  "name_it": "Scena ardente magnifica profonda",
+  "name_en": "Deep Grand Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 3
+ },
+ "2002022": {
+  "name_it": "Scena ardente magnifica profonda",
+  "name_en": "Deep Grand Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 3
+ },
+ "2002102": {
+  "name_it": "Scena piovosa magnifica profonda",
+  "name_en": "Deep Grand Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 3
+ },
+ "2002112": {
+  "name_it": "Scena piovosa magnifica profonda",
+  "name_en": "Deep Grand Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 3
+ },
+ "2002122": {
+  "name_it": "Scena piovosa magnifica profonda",
+  "name_en": "Deep Grand Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 3
+ },
+ "2002202": {
+  "name_it": "Scena luminosa magnifica profonda",
+  "name_en": "Deep Grand Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 3
+ },
+ "2002212": {
+  "name_it": "Scena luminosa magnifica profonda",
+  "name_en": "Deep Grand Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 3
+ },
+ "2002222": {
+  "name_it": "Scena luminosa magnifica profonda",
+  "name_en": "Deep Grand Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 3
+ },
+ "2002302": {
+  "name_it": "Scena tranquilla magnifica profonda",
+  "name_en": "Deep Grand Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 3
+ },
+ "2002312": {
+  "name_it": "Scena tranquilla magnifica profonda",
+  "name_en": "Deep Grand Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 3
+ },
+ "2002322": {
+  "name_it": "Scena tranquilla magnifica profonda",
+  "name_en": "Deep Grand Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 3
+ },
+ "2003000": {
+  "name_it": "Scena ardente delicata profonda",
+  "name_en": "Deep Delicate Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 1
+ },
+ "2003001": {
+  "name_it": "Scena ardente raffinata profonda",
+  "name_en": "Deep Polished Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 2
+ },
+ "2003002": {
+  "name_it": "Scena ardente magnifica profonda",
+  "name_en": "Deep Grand Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 3
+ },
+ "2003010": {
+  "name_it": "Scena ardente delicata profonda",
+  "name_en": "Deep Delicate Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 1
+ },
+ "2003011": {
+  "name_it": "Scena ardente raffinata profonda",
+  "name_en": "Deep Polished Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 2
+ },
+ "2003012": {
+  "name_it": "Scena ardente magnifica profonda",
+  "name_en": "Deep Grand Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 3
+ },
+ "2003020": {
+  "name_it": "Scena ardente delicata profonda",
+  "name_en": "Deep Delicate Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 1
+ },
+ "2003021": {
+  "name_it": "Scena ardente raffinata profonda",
+  "name_en": "Deep Polished Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 2
+ },
+ "2003022": {
+  "name_it": "Scena ardente magnifica profonda",
+  "name_en": "Deep Grand Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 3
+ },
+ "2003100": {
+  "name_it": "Scena piovosa delicata profonda",
+  "name_en": "Deep Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 1
+ },
+ "2003101": {
+  "name_it": "Scena piovosa raffinata profonda",
+  "name_en": "Deep Polished Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 2
+ },
+ "2003102": {
+  "name_it": "Scena piovosa magnifica profonda",
+  "name_en": "Deep Grand Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 3
+ },
+ "2003110": {
+  "name_it": "Scena piovosa delicata profonda",
+  "name_en": "Deep Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 1
+ },
+ "2003111": {
+  "name_it": "Scena piovosa raffinata profonda",
+  "name_en": "Deep Polished Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 2
+ },
+ "2003112": {
+  "name_it": "Scena piovosa magnifica profonda",
+  "name_en": "Deep Grand Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 3
+ },
+ "2003120": {
+  "name_it": "Scena piovosa delicata profonda",
+  "name_en": "Deep Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 1
+ },
+ "2003121": {
+  "name_it": "Scena piovosa raffinata profonda",
+  "name_en": "Deep Polished Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 2
+ },
+ "2003122": {
+  "name_it": "Scena piovosa magnifica profonda",
+  "name_en": "Deep Grand Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 3
+ },
+ "2003200": {
+  "name_it": "Scena luminosa delicata profonda",
+  "name_en": "Deep Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 1
+ },
+ "2003201": {
+  "name_it": "Scena luminosa raffinata profonda",
+  "name_en": "Deep Polished Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 2
+ },
+ "2003202": {
+  "name_it": "Scena luminosa magnifica profonda",
+  "name_en": "Deep Grand Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 3
+ },
+ "2003210": {
+  "name_it": "Scena luminosa delicata profonda",
+  "name_en": "Deep Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 1
+ },
+ "2003211": {
+  "name_it": "Scena luminosa raffinata profonda",
+  "name_en": "Deep Polished Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 2
+ },
+ "2003212": {
+  "name_it": "Scena luminosa magnifica profonda",
+  "name_en": "Deep Grand Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 3
+ },
+ "2003220": {
+  "name_it": "Scena luminosa delicata profonda",
+  "name_en": "Deep Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 1
+ },
+ "2003221": {
+  "name_it": "Scena luminosa raffinata profonda",
+  "name_en": "Deep Polished Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 2
+ },
+ "2003222": {
+  "name_it": "Scena luminosa magnifica profonda",
+  "name_en": "Deep Grand Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 3
+ },
+ "2003300": {
+  "name_it": "Scena tranquilla delicata profonda",
+  "name_en": "Deep Delicate Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 1
+ },
+ "2003301": {
+  "name_it": "Scena tranquilla raffinata profonda",
+  "name_en": "Deep Polished Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 2
+ },
+ "2003302": {
+  "name_it": "Scena tranquilla magnifica profonda",
+  "name_en": "Deep Grand Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 3
+ },
+ "2003310": {
+  "name_it": "Scena tranquilla delicata profonda",
+  "name_en": "Deep Delicate Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 1
+ },
+ "2003311": {
+  "name_it": "Scena tranquilla raffinata profonda",
+  "name_en": "Deep Polished Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 2
+ },
+ "2003312": {
+  "name_it": "Scena tranquilla magnifica profonda",
+  "name_en": "Deep Grand Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 3
+ },
+ "2003320": {
+  "name_it": "Scena tranquilla delicata profonda",
+  "name_en": "Deep Delicate Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 1
+ },
+ "2003321": {
+  "name_it": "Scena tranquilla raffinata profonda",
+  "name_en": "Deep Polished Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 2
+ },
+ "2003322": {
+  "name_it": "Scena tranquilla magnifica profonda",
+  "name_en": "Deep Grand Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 3
+ },
+ "2010000": {
+  "name_it": "Scena ardente delicata profonda",
+  "name_en": "Deep Delicate Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 1
+ },
+ "2010001": {
+  "name_it": "Scena ardente raffinata profonda",
+  "name_en": "Deep Polished Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 2
+ },
+ "2010002": {
+  "name_it": "Scena ardente magnifica profonda",
+  "name_en": "Deep Grand Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 3
+ },
+ "2010010": {
+  "name_it": "Scena ardente delicata profonda",
+  "name_en": "Deep Delicate Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 1
+ },
+ "2010011": {
+  "name_it": "Scena ardente raffinata profonda",
+  "name_en": "Deep Polished Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 2
+ },
+ "2010012": {
+  "name_it": "Scena ardente magnifica profonda",
+  "name_en": "Deep Grand Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 3
+ },
+ "2010020": {
+  "name_it": "Scena ardente delicata profonda",
+  "name_en": "Deep Delicate Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 1
+ },
+ "2010021": {
+  "name_it": "Scena ardente raffinata profonda",
+  "name_en": "Deep Polished Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 2
+ },
+ "2010022": {
+  "name_it": "Scena ardente magnifica profonda",
+  "name_en": "Deep Grand Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 3
+ },
+ "2010100": {
+  "name_it": "Scena piovosa delicata profonda",
+  "name_en": "Deep Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 1
+ },
+ "2010101": {
+  "name_it": "Scena piovosa raffinata profonda",
+  "name_en": "Deep Polished Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 2
+ },
+ "2010102": {
+  "name_it": "Scena piovosa magnifica profonda",
+  "name_en": "Deep Grand Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 3
+ },
+ "2010110": {
+  "name_it": "Scena piovosa delicata profonda",
+  "name_en": "Deep Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 1
+ },
+ "2010111": {
+  "name_it": "Scena piovosa raffinata profonda",
+  "name_en": "Deep Polished Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 2
+ },
+ "2010112": {
+  "name_it": "Scena piovosa magnifica profonda",
+  "name_en": "Deep Grand Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 3
+ },
+ "2010120": {
+  "name_it": "Scena piovosa delicata profonda",
+  "name_en": "Deep Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 1
+ },
+ "2010121": {
+  "name_it": "Scena piovosa raffinata profonda",
+  "name_en": "Deep Polished Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 2
+ },
+ "2010122": {
+  "name_it": "Scena piovosa magnifica profonda",
+  "name_en": "Deep Grand Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 3
+ },
+ "2010200": {
+  "name_it": "Scena luminosa delicata profonda",
+  "name_en": "Deep Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 1
+ },
+ "2010201": {
+  "name_it": "Scena luminosa raffinata profonda",
+  "name_en": "Deep Polished Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 2
+ },
+ "2010202": {
+  "name_it": "Scena luminosa magnifica profonda",
+  "name_en": "Deep Grand Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 3
+ },
+ "2010210": {
+  "name_it": "Scena luminosa delicata profonda",
+  "name_en": "Deep Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 1
+ },
+ "2010211": {
+  "name_it": "Scena luminosa raffinata profonda",
+  "name_en": "Deep Polished Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 2
+ },
+ "2010212": {
+  "name_it": "Scena luminosa magnifica profonda",
+  "name_en": "Deep Grand Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 3
+ },
+ "2010220": {
+  "name_it": "Scena luminosa delicata profonda",
+  "name_en": "Deep Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 1
+ },
+ "2010221": {
+  "name_it": "Scena luminosa raffinata profonda",
+  "name_en": "Deep Polished Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 2
+ },
+ "2010222": {
+  "name_it": "Scena luminosa magnifica profonda",
+  "name_en": "Deep Grand Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 3
+ },
+ "2010300": {
+  "name_it": "Scena tranquilla delicata profonda",
+  "name_en": "Deep Delicate Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 1
+ },
+ "2010301": {
+  "name_it": "Scena tranquilla raffinata profonda",
+  "name_en": "Deep Polished Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 2
+ },
+ "2010302": {
+  "name_it": "Scena tranquilla magnifica profonda",
+  "name_en": "Deep Grand Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 3
+ },
+ "2010310": {
+  "name_it": "Scena tranquilla delicata profonda",
+  "name_en": "Deep Delicate Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 1
+ },
+ "2010311": {
+  "name_it": "Scena tranquilla raffinata profonda",
+  "name_en": "Deep Polished Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 2
+ },
+ "2010312": {
+  "name_it": "Scena tranquilla magnifica profonda",
+  "name_en": "Deep Grand Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 3
+ },
+ "2010320": {
+  "name_it": "Scena tranquilla delicata profonda",
+  "name_en": "Deep Delicate Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 1
+ },
+ "2010321": {
+  "name_it": "Scena tranquilla raffinata profonda",
+  "name_en": "Deep Polished Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 2
+ },
+ "2010322": {
+  "name_it": "Scena tranquilla magnifica profonda",
+  "name_en": "Deep Grand Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 3
+ },
+ "2011001": {
+  "name_it": "Scena ardente raffinata profonda",
+  "name_en": "Deep Polished Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 2
+ },
+ "2011002": {
+  "name_it": "Scena ardente magnifica profonda",
+  "name_en": "Deep Grand Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 3
+ },
+ "2011011": {
+  "name_it": "Scena ardente raffinata profonda",
+  "name_en": "Deep Polished Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 2
+ },
+ "2011012": {
+  "name_it": "Scena ardente magnifica profonda",
+  "name_en": "Deep Grand Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 3
+ },
+ "2011021": {
+  "name_it": "Scena ardente raffinata profonda",
+  "name_en": "Deep Polished Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 2
+ },
+ "2011022": {
+  "name_it": "Scena ardente magnifica profonda",
+  "name_en": "Deep Grand Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 3
+ },
+ "2011101": {
+  "name_it": "Scena piovosa raffinata profonda",
+  "name_en": "Deep Polished Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 2
+ },
+ "2011102": {
+  "name_it": "Scena piovosa magnifica profonda",
+  "name_en": "Deep Grand Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 3
+ },
+ "2011111": {
+  "name_it": "Scena piovosa raffinata profonda",
+  "name_en": "Deep Polished Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 2
+ },
+ "2011112": {
+  "name_it": "Scena piovosa magnifica profonda",
+  "name_en": "Deep Grand Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 3
+ },
+ "2011121": {
+  "name_it": "Scena piovosa raffinata profonda",
+  "name_en": "Deep Polished Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 2
+ },
+ "2011122": {
+  "name_it": "Scena piovosa magnifica profonda",
+  "name_en": "Deep Grand Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 3
+ },
+ "2011201": {
+  "name_it": "Scena luminosa raffinata profonda",
+  "name_en": "Deep Polished Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 2
+ },
+ "2011202": {
+  "name_it": "Scena luminosa magnifica profonda",
+  "name_en": "Deep Grand Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 3
+ },
+ "2011211": {
+  "name_it": "Scena luminosa raffinata profonda",
+  "name_en": "Deep Polished Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 2
+ },
+ "2011212": {
+  "name_it": "Scena luminosa magnifica profonda",
+  "name_en": "Deep Grand Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 3
+ },
+ "2011221": {
+  "name_it": "Scena luminosa raffinata profonda",
+  "name_en": "Deep Polished Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 2
+ },
+ "2011222": {
+  "name_it": "Scena luminosa magnifica profonda",
+  "name_en": "Deep Grand Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 3
+ },
+ "2011301": {
+  "name_it": "Scena tranquilla raffinata profonda",
+  "name_en": "Deep Polished Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 2
+ },
+ "2011302": {
+  "name_it": "Scena tranquilla magnifica profonda",
+  "name_en": "Deep Grand Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 3
+ },
+ "2011311": {
+  "name_it": "Scena tranquilla raffinata profonda",
+  "name_en": "Deep Polished Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 2
+ },
+ "2011312": {
+  "name_it": "Scena tranquilla magnifica profonda",
+  "name_en": "Deep Grand Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 3
+ },
+ "2011321": {
+  "name_it": "Scena tranquilla raffinata profonda",
+  "name_en": "Deep Polished Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 2
+ },
+ "2011322": {
+  "name_it": "Scena tranquilla magnifica profonda",
+  "name_en": "Deep Grand Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 3
+ },
+ "2012002": {
+  "name_it": "Scena ardente magnifica profonda",
+  "name_en": "Deep Grand Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 3
+ },
+ "2012012": {
+  "name_it": "Scena ardente magnifica profonda",
+  "name_en": "Deep Grand Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 3
+ },
+ "2012022": {
+  "name_it": "Scena ardente magnifica profonda",
+  "name_en": "Deep Grand Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 3
+ },
+ "2012102": {
+  "name_it": "Scena piovosa magnifica profonda",
+  "name_en": "Deep Grand Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 3
+ },
+ "2012112": {
+  "name_it": "Scena piovosa magnifica profonda",
+  "name_en": "Deep Grand Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 3
+ },
+ "2012122": {
+  "name_it": "Scena piovosa magnifica profonda",
+  "name_en": "Deep Grand Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 3
+ },
+ "2012202": {
+  "name_it": "Scena luminosa magnifica profonda",
+  "name_en": "Deep Grand Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 3
+ },
+ "2012212": {
+  "name_it": "Scena luminosa magnifica profonda",
+  "name_en": "Deep Grand Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 3
+ },
+ "2012222": {
+  "name_it": "Scena luminosa magnifica profonda",
+  "name_en": "Deep Grand Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 3
+ },
+ "2012302": {
+  "name_it": "Scena tranquilla magnifica profonda",
+  "name_en": "Deep Grand Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 3
+ },
+ "2012312": {
+  "name_it": "Scena tranquilla magnifica profonda",
+  "name_en": "Deep Grand Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 3
+ },
+ "2012322": {
+  "name_it": "Scena tranquilla magnifica profonda",
+  "name_en": "Deep Grand Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 3
+ },
+ "2013000": {
+  "name_it": "Scena ardente delicata profonda",
+  "name_en": "Deep Delicate Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 1
+ },
+ "2013001": {
+  "name_it": "Scena ardente raffinata profonda",
+  "name_en": "Deep Polished Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 2
+ },
+ "2013002": {
+  "name_it": "Scena ardente magnifica profonda",
+  "name_en": "Deep Grand Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 3
+ },
+ "2013010": {
+  "name_it": "Scena ardente delicata profonda",
+  "name_en": "Deep Delicate Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 1
+ },
+ "2013011": {
+  "name_it": "Scena ardente raffinata profonda",
+  "name_en": "Deep Polished Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 2
+ },
+ "2013012": {
+  "name_it": "Scena ardente magnifica profonda",
+  "name_en": "Deep Grand Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 3
+ },
+ "2013020": {
+  "name_it": "Scena ardente delicata profonda",
+  "name_en": "Deep Delicate Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 1
+ },
+ "2013021": {
+  "name_it": "Scena ardente raffinata profonda",
+  "name_en": "Deep Polished Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 2
+ },
+ "2013022": {
+  "name_it": "Scena ardente magnifica profonda",
+  "name_en": "Deep Grand Burning Scene",
+  "color": "red",
+  "deep": true,
+  "slots": 3
+ },
+ "2013100": {
+  "name_it": "Scena piovosa delicata profonda",
+  "name_en": "Deep Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 1
+ },
+ "2013101": {
+  "name_it": "Scena piovosa raffinata profonda",
+  "name_en": "Deep Polished Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 2
+ },
+ "2013102": {
+  "name_it": "Scena piovosa magnifica profonda",
+  "name_en": "Deep Grand Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 3
+ },
+ "2013110": {
+  "name_it": "Scena piovosa delicata profonda",
+  "name_en": "Deep Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 1
+ },
+ "2013111": {
+  "name_it": "Scena piovosa raffinata profonda",
+  "name_en": "Deep Polished Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 2
+ },
+ "2013112": {
+  "name_it": "Scena piovosa magnifica profonda",
+  "name_en": "Deep Grand Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 3
+ },
+ "2013120": {
+  "name_it": "Scena piovosa delicata profonda",
+  "name_en": "Deep Delicate Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 1
+ },
+ "2013121": {
+  "name_it": "Scena piovosa raffinata profonda",
+  "name_en": "Deep Polished Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 2
+ },
+ "2013122": {
+  "name_it": "Scena piovosa magnifica profonda",
+  "name_en": "Deep Grand Drizzly Scene",
+  "color": "blue",
+  "deep": true,
+  "slots": 3
+ },
+ "2013200": {
+  "name_it": "Scena luminosa delicata profonda",
+  "name_en": "Deep Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 1
+ },
+ "2013201": {
+  "name_it": "Scena luminosa raffinata profonda",
+  "name_en": "Deep Polished Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 2
+ },
+ "2013202": {
+  "name_it": "Scena luminosa magnifica profonda",
+  "name_en": "Deep Grand Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 3
+ },
+ "2013210": {
+  "name_it": "Scena luminosa delicata profonda",
+  "name_en": "Deep Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 1
+ },
+ "2013211": {
+  "name_it": "Scena luminosa raffinata profonda",
+  "name_en": "Deep Polished Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 2
+ },
+ "2013212": {
+  "name_it": "Scena luminosa magnifica profonda",
+  "name_en": "Deep Grand Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 3
+ },
+ "2013220": {
+  "name_it": "Scena luminosa delicata profonda",
+  "name_en": "Deep Delicate Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 1
+ },
+ "2013221": {
+  "name_it": "Scena luminosa raffinata profonda",
+  "name_en": "Deep Polished Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 2
+ },
+ "2013222": {
+  "name_it": "Scena luminosa magnifica profonda",
+  "name_en": "Deep Grand Luminous Scene",
+  "color": "yellow",
+  "deep": true,
+  "slots": 3
+ },
+ "2013300": {
+  "name_it": "Scena tranquilla delicata profonda",
+  "name_en": "Deep Delicate Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 1
+ },
+ "2013301": {
+  "name_it": "Scena tranquilla raffinata profonda",
+  "name_en": "Deep Polished Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 2
+ },
+ "2013302": {
+  "name_it": "Scena tranquilla magnifica profonda",
+  "name_en": "Deep Grand Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 3
+ },
+ "2013310": {
+  "name_it": "Scena tranquilla delicata profonda",
+  "name_en": "Deep Delicate Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 1
+ },
+ "2013311": {
+  "name_it": "Scena tranquilla raffinata profonda",
+  "name_en": "Deep Polished Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 2
+ },
+ "2013312": {
+  "name_it": "Scena tranquilla magnifica profonda",
+  "name_en": "Deep Grand Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 3
+ },
+ "2013320": {
+  "name_it": "Scena tranquilla delicata profonda",
+  "name_en": "Deep Delicate Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 1
+ },
+ "2013321": {
+  "name_it": "Scena tranquilla raffinata profonda",
+  "name_en": "Deep Polished Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 2
+ },
+ "2013322": {
+  "name_it": "Scena tranquilla magnifica profonda",
+  "name_en": "Deep Grand Tranquil Scene",
+  "color": "green",
+  "deep": true,
+  "slots": 3
+ }
+}
