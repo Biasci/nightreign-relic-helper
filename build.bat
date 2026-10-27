@@ -1,6 +1,11 @@
 @echo off
 rem Crea dist\NightreignRelicHelper\NightreignRelicHelper.exe (non serve Python per avviarlo).
 cd /d "%~dp0"
+rem La build svuota dist\: con l'app aperta la lascerebbe a metà.
+tasklist /fi "imagename eq NightreignRelicHelper.exe" | find /i "NightreignRelicHelper.exe" >nul && (
+    echo Chiudi Nightreign Relic Helper prima di ricreare l'eseguibile.
+    exit /b 1
+)
 if not exist ".venv\Scripts\python.exe" python -m venv .venv || exit /b 1
 ".venv\Scripts\python.exe" -m pip install -q -r requirements.txt pyinstaller || exit /b 1
 ".venv\Scripts\python.exe" -m PyInstaller --noconfirm --clean --windowed ^
