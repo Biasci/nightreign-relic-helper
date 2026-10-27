@@ -13,6 +13,6 @@ BUNDLED_RESEARCH = BUNDLE / "research"
 USER_DIR = Path(os.environ.get("APPDATA", Path.home())) / "NightreignRelicHelper"
 DOWNLOADED_RESEARCH = USER_DIR / "research"
 
-# Il repository da cui arrivano gli aggiornamenti mensili della ricerca.
+# Il repository da cui arrivano gli aggiornamenti periodici della ricerca.
 REPO = "Biasci/nightreign-relic-helper"
 RAW_URL = f"https://raw.githubusercontent.com/{REPO}/main/research"

@@ -1,7 +1,7 @@
 {
   "_info": [
     "Voti degli effetti delle reliquie, da 0 (inutile) a 5 (ottimo): S = 5, A = 4, B = 3, C = 2, inutile = 0-1.",
-    "Aggiornato ogni mese dalla ricerca automatica (vedi research/ROUTINE.md). Per i voti personali usa",
+    "Aggiornato ogni due settimane dalla ricerca automatica (vedi research/ROUTINE.md). Per i voti personali usa",
     "%APPDATA%\\NightreignRelicHelper\\my_ratings.json (stesso formato), che ha la precedenza e non viene mai sovrascritto.",
     "Ogni regola cerca un'espressione regolare nel nome inglese ('match_en') o italiano ('match'); vale la PRIMA che corrisponde.",
     "'solo_score' è il voto usato quando si gioca in solitaria. Fonte: ricerca del 2026-10-27, patch 1.03.2."

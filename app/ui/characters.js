@@ -1,4 +1,4 @@
-// Pagina Personaggi e stato dei dati della ricerca mensile.
+// Pagina Personaggi e stato dei dati della ricerca periodica.
 const TIER_ORDER = ["S", "A", "B", "C"];
 
 Object.assign(state, { research: null, charData: null, charKey: load("charKey", "Wylder") });

@@ -25,11 +25,11 @@ Interfaccia e nomi in italiano o inglese (pulsanti IT/EN).
 - Il salvataggio viene **solo letto**, mai modificato. Ogni 3 secondi controlla se è cambiato.
 - Il server ascolta solo su `127.0.0.1` e si chiude da solo quando chiudi la finestra.
 
-## Dati della ricerca e aggiornamento mensile
+## Dati della ricerca e aggiornamento ogni due settimane
 
 - `research/` contiene i voti degli effetti (`ratings.json`), le schede dei personaggi (`characters.json`)
   e data, novità e fonti (`meta.json`).
-- Ogni mese una routine di Claude nel cloud rifà la ricerca seguendo `research/ROUTINE.md`,
+- Il 1° e il 15 di ogni mese una routine di Claude nel cloud rifà la ricerca seguendo `research/ROUTINE.md`,
   controlla i file con `tools/validate_research.py` e li pubblica su GitHub.
 - All'avvio l'app scarica i dati più recenti dal repository (`REPO` in `app/paths.py`), li verifica e li salva
   in `%APPDATA%\NightreignRelicHelper\research`. Se sei offline usa quelli che ha.

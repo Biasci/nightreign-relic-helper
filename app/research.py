@@ -1,6 +1,6 @@
 """Dati della ricerca (voti degli effetti, tier list, armi, build) e loro aggiornamento.
 
-La routine mensile aggiorna la cartella research/ del repository GitHub. All'avvio l'app
+La routine periodica (1 e 15 del mese) aggiorna la cartella research/ del repository GitHub. All'avvio l'app
 confronta research/meta.json online con quello locale e, se è più recente, scarica i file
 nella cartella utente. I file scaricati vengono validati prima di sostituire quelli vecchi:
 se qualcosa non va, l'app continua con i dati che aveva.

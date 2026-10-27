@@ -1,6 +1,6 @@
-# Ricerca mensile: istruzioni per la routine
+# Ricerca periodica (ogni due settimane): istruzioni per la routine
 
-Questo file descrive cosa deve fare l'agente pianificato ogni mese. L'app scarica i file di questa
+Questo file descrive cosa deve fare l'agente pianificato il 1° e il 15 di ogni mese. L'app scarica i file di questa
 cartella (`meta.json`, `ratings.json`, `characters.json`) dal ramo `main`, quindi un commit sbagliato
 arriva subito agli utenti: segui tutti i passi e **non fare commit se la validazione fallisce**.
 
@@ -94,4 +94,4 @@ python tools/validate_research.py
 ```
 
 Se fallisce, correggi e rilancia. Solo quando passa: commit su `main` con messaggio
-`Ricerca mensile AAAA-MM-GG` e push. Non toccare file fuori da `research/` e `data/`.
+`Ricerca AAAA-MM-GG` e push. Non toccare file fuori da `research/` e `data/`.
