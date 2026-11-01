@@ -3,8 +3,8 @@
     "Wylder": {
       "confidence": "high",
       "summary": {
-        "it": "Tra i migliori in solitaria (tier S per nightreignwiki e timesaver.gg, scelta n. 1 in solitaria per Switchblade, 2026): Sesto senso blocca un colpo letale per ogni luogo di grazia. Nessuna modifica dalla 1.03.2 tranne la reliquia del fuoco dell'arte. Gioca da spadone a due mani con due rampini; un creator (set. 2026, fonte singola) indica la build Night of Dregs + Seppuku come la sua più forte.",
-        "en": "One of the best solo picks (S tier on nightreignwiki and timesaver.gg, Switchblade's no. 1 solo pick, 2026): Sixth Sense blocks one lethal hit per Site of Grace. No changes since 1.03.2 apart from the Art fire relic. Plays as a two-handed greatsword bruiser with two Claw Shots; one creator (Sep 2026, single source) calls the Night of Dregs + Seppuku build his strongest."
+        "it": "Tra i migliori in solitaria (tier S per nightreignwiki e timesaver.gg, scelta n. 1 in solitaria per Switchblade, 2026; la guida patch di Switchblade lo mette però in tier A complessivo, superato dai personaggi potenziati e non per nerf diretti): Sesto senso blocca un colpo letale per ogni luogo di grazia. Nessuna modifica dalla 1.03.2 tranne la reliquia del fuoco dell'arte. Gioca da spadone a due mani con due rampini; la build Night of Dregs + Seppuku (\"Wyldregs\") è citata da un creator in un video (set. 2026) e in una discussione Steam (giu. 2026), probabilmente dallo stesso autore.",
+        "en": "One of the best solo picks (S tier on nightreignwiki and timesaver.gg, Switchblade's no. 1 solo pick, 2026; Switchblade's patch guide however puts him in A tier overall, overtaken by buffed Nightfarers rather than nerfed): Sixth Sense blocks one lethal hit per Site of Grace. No changes since 1.03.2 apart from the Art fire relic. Plays as a two-handed greatsword bruiser with two Claw Shots; the Night of Dregs + Seppuku (\"Wyldregs\") build is promoted by one creator in a video (Sep 2026) and a Steam thread (Jun 2026), probably the same author."
       },
       "relic_effects": [
         {"tier": "S", "effect": "[Wylder] +1 additional Character Skill use", "why": {"it": "Due rampini: mobilità, sbilanciamento e schivate extra.", "en": "Two Claw Shots: mobility, stagger and extra dodges."}},
@@ -19,8 +19,9 @@
         {"tier": "A", "effect": "Improved Stance-Breaking when Two-Handing", "why": {"it": "Gioca a due mani: sbilancia prima i boss.", "en": "He two-hands: breaks boss stance sooner."}},
         {"tier": "A", "effect": "Vigor +3", "why": {"it": "Più PV in solitaria.", "en": "More HP solo."}},
         {"tier": "A", "effect": "Strength +3", "why": {"it": "Forza è la sua statistica principale.", "en": "Strength is his main stat."}},
-        {"tier": "A", "effect": "Status Ailment Gauges Slowly Increase Attack Power", "why": {"it": "Dalla reliquia The Night of Dregs (DLC, Traitorous Straghess): +4% di danno ogni 20 s finché un indicatore di alterazione è attivo, fino a +40%. Un video di set. 2026 la chiama la build più forte del Selvaggio (con Seppuku); una sola fonte, non confermata dalle guide scritte.", "en": "From The Night of Dregs relic (DLC, Traitorous Straghess): +4% damage every 20 s while a status gauge is active, up to +40%. A Sep 2026 video calls it Wylder's strongest build (with Seppuku); single source, not confirmed by written guides."}},
+        {"tier": "A", "effect": "Status Ailment Gauges Slowly Increase Attack Power", "why": {"it": "Dalla reliquia The Night of Dregs (DLC, Straghess il traditore): +4% danni ogni 20 s mentre un indicatore di alterazione è attivo, fino a +40%. Un video (set. 2026) e una discussione Steam (\"Wyldregs\", giu. 2026; probabilmente lo stesso creator) la indicano come la build più forte del Selvaggio; nessuna guida scritta la conferma.", "en": "From The Night of Dregs relic (DLC, Traitorous Straghess): +4% damage every 20 s while a status gauge is active, up to +40%. A video (Sep 2026) and a Steam thread (\"Wyldregs\", Jun 2026; probably the same creator) call it Wylder's strongest build; no written guide confirms it."}},
         {"tier": "B", "effect": "Changes compatible armament's skill to Seppuku at start of expedition", "why": {"it": "Seppuku si autoinfligge sanguinamento e potenzia l'arma: tiene attivo l'indicatore per The Night of Dregs. Utile quasi solo in quella build.", "en": "Seppuku self-inflicts bleed and buffs the weapon: keeps the gauge active for The Night of Dregs. Mostly useful only in that build."}},
+        {"tier": "B", "effect": "Changes compatible armament's skill to Hoarfrost Stomp at start of expedition", "why": {"it": "Lo spadone iniziale del Selvaggio è compatibile (Fextralife): Pestone brinoso applica congelamento ad area senza cambiare arma. Un giocatore su Steam (ott. 2025, prima della 1.03.2) lo indica come grande fonte di danni da Profondità 4 in su, insieme ai seguiti infuocati del rampino. Fonte singola.", "en": "Wylder's starting greatsword is compatible (Fextralife): Hoarfrost Stomp applies area frost without changing weapons. One Steam player (Oct 2025, before 1.03.2) calls it a major damage source from Depth 4 up, together with the Claw Shot fire follow-ups. Single source."}},
         {"tier": "B", "effect": "Fire Attack Power Up +2", "why": {"it": "Si abbina ai colpi di fuoco dello spadone.", "en": "Pairs with the greatsword fire follow-ups."}},
         {"tier": "B", "effect": "Ultimate Art Auto Charge +3", "why": {"it": "Arte suprema più frequente.", "en": "More frequent Ultimate Art."}},
         {"tier": "C", "effect": "Improved Bow Attack Power", "why": {"it": "Indebolito e fuori dal suo stile.", "en": "Nerfed and off-style for him."}}
@@ -84,7 +85,7 @@
           "vessel": {"it": "Calice del Selvaggio (slot rosso per The Night of Dregs)", "en": "Wylder's Chalice (red slot for The Night of Dregs)"},
           "normal": ["Status Ailment Gauges Slowly Increase Attack Power", "Changes compatible armament's skill to Seppuku at start of expedition", "[Wylder] +1 additional Character Skill use"],
           "deep": ["Physical Attack Up +4", "Increased Maximum HP", "Attack power increased for each Night Invader defeated"],
-          "notes": {"it": "Usa Seppuku per tenere attivo il sanguinamento su di te: il danno sale fino a +40%. La reliquia cura anche vicino alla marcescenza. Indicata come la sua build più forte da un creator (set. 2026); richiede il DLC.", "en": "Use Seppuku to keep bleed buildup on yourself: damage climbs to +40%. The relic also heals near rot. Called his strongest build by one creator (Sep 2026); needs the DLC."}
+          "notes": {"it": "Usa Seppuku per mantenere l'accumulo di sanguinamento su di te: i danni salgono fino a +40%. La reliquia cura anche vicino alla marcescenza. L'autore (\"Wyldregs\", Steam giu. 2026) la usa da mesi e cerca una reliquia profonda con Selvaggio +1, Invasore notturno e Seppuku insieme per liberare il terzo slot; serve il DLC. Build di un solo creator.", "en": "Use Seppuku to keep bleed buildup on yourself: damage climbs to +40%. The relic also heals near rot. Its author (\"Wyldregs\", Steam Jun 2026) has run it for months and looks for one relic with Wylder +1, Night Invader and Seppuku together to free the third slot; needs the DLC. Single-creator build."}
         }
       ]
     },
@@ -96,8 +97,8 @@
         "en": "Mixed solo ratings: B on nightreignwiki, A on timesaver.gg (Sep 2026), while creators post solo deathless Depth 4-5 runs (Sep-Oct 2026). Highest HP in the game and buffed in 1.03.2; the \"secret buff\" after 1.03.5 was an April Fools' joke. Plays guard-and-counter with halberd and shield."
       },
       "relic_effects": [
-        {"tier": "S", "effect": "Improved Guard Counters", "why": {"it": "Il contrattacco dopo la parata è il suo danno principale.", "en": "Guard counters are his main damage."}},
-        {"tier": "S", "effect": "Guard counter is given a boost based on current HP", "why": {"it": "Scala con i suoi PV altissimi.", "en": "Scales with his huge HP."}},
+        {"tier": "S", "effect": "Improved Guard Counters", "why": {"it": "I contrattacchi in difesa sono il suo danno principale. Ogni copia moltiplica circa ×1,15 e si somma con le altre (discussione Steam su Profondità 5; potenziato nella 1.03).", "en": "Guard counters are his main damage. Each copy multiplies them by about ×1.15 and copies stack (Steam Depth 5 thread; buffed in 1.03)."}},
+        {"tier": "S", "effect": "Guard counter is given a boost based on current HP", "why": {"it": "Scala con i suoi PV enormi. Una sola copia: non si somma con se stessa (discussione Steam su Profondità 5).", "en": "Scales with his huge HP. One copy only: it doesn't stack with itself (Steam Depth 5 thread)."}},
         {"tier": "S", "effect": "[Guardian] Successful guards send out shockwaves while ability is active", "why": {"it": "Onde d'urto da 100 danni base, potenziate nella 1.03.2. Switchblade la abbina a Stone Stake (durata e ricarica del Turbine).", "en": "100 base damage shockwaves, buffed in 1.03.2. Switchblade pairs it with Stone Stake (Whirlwind duration and cooldown)."}},
         {"tier": "S", "effect": "HP Recovery From Successful Guarding", "why": {"it": "Ti curi parando; potenziato nella 1.03.2. Howtoplayhub (set. 2026): tier A in generale, S sul Guardiano.", "en": "Heal while guarding; buffed in 1.03.2. Howtoplayhub (Sep 2026): A tier in general, S on Guardian."}},
         {"tier": "A", "effect": "Character Skill Cooldown Reduction +3", "why": {"it": "Turbine più spesso.", "en": "Whirlwind more often."}},
@@ -114,8 +115,9 @@
       ],
       "deep_effects": [
         {"tier": "S", "effect": "Improved Guard Counters +2", "why": {"it": "+29% sui contrattacchi.", "en": "+29% on guard counters."}},
-        {"tier": "A", "effect": "Successful guarding fills more of the Art gauge +1", "why": {"it": "1,5% di arte per parata.", "en": "1.5% gauge per block."}},
+        {"tier": "A", "effect": "Successful guarding fills more of the Art gauge +1", "why": {"it": "1,5% di indicatore per parata. Si somma con la versione base delle reliquie normali, ma non con un'altra +1 (discussione Steam su Profondità 5).", "en": "1.5% gauge per block. Stacks with the base version from normal relics, but not with another +1 (Steam Depth 5 thread)."}},
         {"tier": "A", "effect": "Improved Affinity Damage Negation +2", "why": {"it": "Meglio della difesa fisica: lo scudo copre già il fisico.", "en": "Better than physical: the shield already covers physical."}},
+        {"tier": "B", "effect": "Improved Physical Damage Negation +2", "why": {"it": "Due giocatori su Steam (Profondità 5, nov. 2025) la mettono tra le priorità insieme a quella elementale; qui resta sotto perché lo scudo copre già i danni fisici.", "en": "Two Steam players (Depth 5, Nov 2025) list it as a priority alongside affinity negation; ranked lower here because the shield already covers physical damage."}},
         {"tier": "A", "effect": "Increased Maximum HP", "why": {"it": "Più PV anche per il contrattacco basato sui PV.", "en": "More HP, also for the HP-based counter."}},
         {"tier": "A", "effect": "Max HP increased for each great enemy defeated at a Great Church.", "why": {"it": "+5% PV per boss della chiesa.", "en": "+5% HP per church boss."}},
         {"tier": "B", "effect": "[Guardian] Character Skill Boosts Damage Negation of Nearby Allies", "why": {"it": "Vale anche per te: +12% per 30 s.", "en": "Also applies to you: +12% for 30 s."}},
@@ -130,7 +132,8 @@
         "avoid": [
           {"curse": "Lower Stamina Impairs Dmg Negation", "why": {"it": "Parare consuma vigore.", "en": "Guarding drains stamina."}},
           {"curse": "Reduced Maximum Stamina", "why": {"it": "Meno parate.", "en": "Fewer blocks."}},
-          {"curse": "Impaired Affinity Damage Negation", "why": {"it": "Lo scudo non copre gli elementi.", "en": "The shield doesn't cover elements."}}
+          {"curse": "Impaired Affinity Damage Negation", "why": {"it": "Lo scudo non copre gli elementi.", "en": "The shield doesn't cover elements."}},
+          {"curse": "All Resistances Down", "why": {"it": "Sconsigliato da un giocatore su Steam (Profondità 5): i nemici in Notte profonda accumulano molte alterazioni e lui le subisce tutte parando.", "en": "Advised against by a Steam player (Depth 5): Deep of Night enemies stack lots of status buildup and he takes the hits while guarding."}}
         ]
       },
       "weapon_passives": [
@@ -168,8 +171,8 @@
     "Ironeye": {
       "confidence": "medium",
       "summary": {
-        "it": "Tier S in solitaria per tutte le fonti 2026 (nightreignwiki, timesaver.gg, Switchblade): combatte a distanza con l'arco e il punto debole. Nessuna modifica diretta dalla 1.03.2, ma gli effetti degli archi sono stati indeboliti. I video di ago.-ott. 2026 confermano il veleno come build più forte in Notte profonda; l'arco puro resta valido.",
-        "en": "S tier solo on every 2026 source (nightreignwiki, timesaver.gg, Switchblade): fights at range with the bow and weak point. No direct changes since 1.03.2, but bow effects were nerfed. Aug-Oct 2026 videos confirm poison as the strongest Deep of Night build; a pure bow build is still viable."
+        "it": "Tier S in solitaria per tutte le fonti 2026 (nightreignwiki, timesaver.gg, Switchblade): combatte a distanza con l'arco e il punto debole. Nessuna modifica diretta dalla 1.03.2, ma gli effetti degli archi sono stati indeboliti e dalla 1.03.2 anche l'accumulo di alterazioni e la carica dell'arte suprema calano con la distanza (note ufficiali): la build veleno va giocata a media distanza. I video di ago.-ott. 2026 confermano il veleno come build più forte in Notte profonda; l'arco puro resta valido.",
+        "en": "S tier solo on every 2026 source (nightreignwiki, timesaver.gg, Switchblade): fights at range with the bow and weak point. No direct changes since 1.03.2, but bow effects were nerfed and since 1.03.2 status buildup and Ultimate Art charging also fall off with distance (official notes): play the poison build at mid range. Aug-Oct 2026 videos confirm poison as the strongest Deep of Night build; a pure bow build is still viable."
       },
       "relic_effects": [
         {"tier": "S", "effect": "[Ironeye] +1 additional Character Skill use", "why": {"it": "Due Marchi, utili anche come schivata.", "en": "Two Markings, also usable as a dodge."}},
@@ -178,14 +181,14 @@
         {"tier": "S", "effect": "Character Skill Cooldown Reduction +3", "why": {"it": "Marchi più frequenti.", "en": "More frequent Markings."}},
         {"tier": "A", "effect": "[Ironeye] Art Charge Activation Adds Poison Effect", "why": {"it": "300 di veleno con l'arte caricata.", "en": "300 poison on a full charge."}},
         {"tier": "A", "effect": "Attack power up when facing poison-afflicted enemy", "why": {"it": "Sinergia con il veleno. Un video di ago. 2026 chiama la combo \"nemico con alterazione\" la più forte del gioco.", "en": "Synergy with poison. An Aug 2026 video calls the \"afflicted enemy\" combo the game's most OP relic combo."}},
-        {"tier": "A", "effect": "Improved Initial Standard Attack", "why": {"it": "Ogni primo colpo più forte.", "en": "Every first hit stronger."}},
+        {"tier": "A", "effect": "Improved Initial Standard Attack", "why": {"it": "Ogni primo colpo più forte. Su Steam (giu. 2026) due giocatori lo accumulano su sei reliquie con arco/destrezza; il guadagno dichiarato (circa 2,3× i danni) non è verificato.", "en": "Every first hit stronger. On Steam (Jun 2026) two players stack it on six relics with bows/Dex; the claimed gain (about 2.3× damage) is unverified."}},
         {"tier": "A", "effect": "[Ironeye] Boosts thrusting counterattacks after executing Art", "why": {"it": "+20% per 30 s: ogni freccia conta come affondo.", "en": "+20% for 30 s: every arrow counts as a thrust."}},
         {"tier": "A", "effect": "Changes compatible armament's skill to Rain of Arrows at start of expedition", "why": {"it": "Ottimo con veleno o assideramento sull'arma iniziale.", "en": "Great with poison or frost on the starting weapon."}},
         {"tier": "A", "effect": "Physical Attack Up +2", "why": {"it": "Danno generico.", "en": "Generic damage."}},
         {"tier": "B", "effect": "Improved Bow Attack Power", "why": {"it": "Indebolito nella 1.03.2. Fonti in disaccordo: Switchblade lo considera valido solo su di lui, Howtoplayhub (set. 2026) lo mette tra gli effetti da evitare, eip.gg (2025, prima del nerf) tra i migliori.", "en": "Nerfed in 1.03.2. Sources disagree: Switchblade says it's viable only on him, Howtoplayhub (Sep 2026) lists it under relics to avoid, eip.gg (2025, pre-nerf) among the best."}},
         {"tier": "B", "effect": "HP Restoration upon Thrusting Counterattack", "why": {"it": "Funziona anche con le frecce.", "en": "Works with arrows too."}},
         {"tier": "B", "effect": "Stamina Recovery upon Landing Attacks", "why": {"it": "Più vigore per tirare.", "en": "More stamina for shooting."}},
-        {"tier": "C", "effect": "Partial HP Restoration upon Post-Damage Attacks", "why": {"it": "Dubbio che funzioni con gli archi.", "en": "Disputed whether bows trigger it."}}
+        {"tier": "B", "effect": "Partial HP Restoration upon Post-Damage Attacks", "why": {"it": "Funziona con gli archi: le patch 1.02 e 1.03.1 hanno corretto i bug per cui le frecce (e poi i loro critici) non lo attivavano. Utile perché ha solo 200 PV.", "en": "Works with bows: patches 1.02 and 1.03.1 fixed the bugs that stopped arrows (and then bow criticals) from triggering it. Useful given his 200 HP."}}
       ],
       "deep_effects": [
         {"tier": "S", "effect": "[Ironeye] Character Skill Inflicts Heavy Poison Damage on Poisoned Enemies", "why": {"it": "Considerato un \"must-have\" per la build veleno.", "en": "Called a must-have for the poison build."}},
@@ -211,8 +214,8 @@
       "weapon_passives": [
         {"tier": "S", "passive": {"it": "Attacchi a distanza migliorati", "en": "Improved Ranged Weapon Attacks"}, "why": {"it": "Più danno con l'arco.", "en": "More bow damage."}},
         {"tier": "S", "passive": {"it": "Potenza d'attacco migliorata a PV pieni", "en": "Improved Attack Power at Full HP"}, "why": {"it": "A distanza resti quasi sempre a PV pieni.", "en": "At range you're almost always at full HP."}},
-        {"tier": "S", "passive": {"it": "Gli attacchi infliggono veleno", "en": "Attacks Inflict Poison"}, "why": {"it": "Sinergia con la reliquia profonda del veleno.", "en": "Synergy with the deep poison relic."}},
-        {"tier": "A", "passive": {"it": "Calo del danno dei proiettili ridotto", "en": "Projectile Damage Drop-Off Reduced"}, "why": {"it": "Danno pieno anche da lontano.", "en": "Full damage at long range."}},
+        {"tier": "S", "passive": {"it": "Gli attacchi infliggono veleno", "en": "Attacks Inflict Poison"}, "why": {"it": "Sinergia con la reliquia profonda del veleno. Dalla 1.03.2 l'accumulo dalle frecce cala con la distanza: tira da media distanza.", "en": "Synergy with the deep poison relic. Since 1.03.2 buildup from arrows drops with distance: shoot from mid range."}},
+        {"tier": "A", "passive": {"it": "Calo del danno dei proiettili ridotto", "en": "Projectile Damage Drop-Off Reduced"}, "why": {"it": "Danni pieni anche da lontano. Dalla 1.03.2 la distanza riduce anche accumulo di alterazioni e carica dell'arte: probabilmente aiuta anche la build veleno (non verificato).", "en": "Full damage at long range. Since 1.03.2 distance also reduces status buildup and Art gauge charging: likely helps the poison build too (unverified)."}},
         {"tier": "A", "passive": {"it": "Gli attacchi infliggono sonno", "en": "Attacks Inflict Sleep"}, "why": {"it": "Controllo dei nemici.", "en": "Crowd control."}},
         {"tier": "B", "passive": {"it": "Ripristino PV con attacchi di arco", "en": "HP Restoration upon Bow Attacks"}, "why": {"it": "Cura di base.", "en": "Basic healing."}},
         {"tier": "C", "passive": {"it": "Gli attacchi consecutivi riducono i danni", "en": "Successive Attacks Negate Damage"}, "why": {"it": "Con l'arco non si attiva quasi mai (discussione Steam, ott. 2026).", "en": "Bows almost never trigger it (Steam discussion, Oct 2026)."}}
@@ -261,8 +264,10 @@
         {"tier": "A", "effect": "Defeating enemies fills more of the Art gauge", "why": {"it": "Finale usabile spesso: su Steam (Deep of Night, gen. 2026) è indicata come la ricarica dell'arte suprema più affidabile.", "en": "Frequent Finale: Steam players (Deep of Night, Jan 2026) call it the most reliable way to recharge the Ultimate Art."}},
         {"tier": "B", "effect": "[Duchess] Defeating enemies while Art is active ups attack power", "why": {"it": "+15% per uccisione: utile con boss e servitori.", "en": "+15% per kill: good on bosses with adds."}},
         {"tier": "B", "effect": "[Duchess] Become difficult to spot and silence footsteps after landing critical from behind", "why": {"it": "Situazionale.", "en": "Situational."}},
+        {"tier": "B", "effect": "Improved Chain Attack Finishers", "why": {"it": "Per la variante \"colpi finali\" con pugnali emorragici e attacco fisico: citata su Steam (ott. 2026) come build ad alto rischio e da Switchblade (ott. 2026) tra le sue reliquie. Si abbina alla Riproposizione gratuita sul colpo finale.", "en": "For the \"chain finisher\" variant with bleed daggers and physical attack: mentioned on Steam (Oct 2026) as a high-risk build and by Switchblade (Oct 2026) among her relics. Pairs with the free Restage on the final blow."}},
         {"tier": "B", "effect": "Starting armament deals magic damage", "why": {"it": "Pugnale iniziale elementale da abbinare a un potenziamento d'affinità +2 (consiglio su Steam, Deep of Night). Anche sacro o fulmine secondo la debolezza del boss.", "en": "Elemental starting dagger to pair with an affinity +2 boost (Steam advice, Deep of Night). Holy or lightning also work, depending on the boss weakness."}},
-        {"tier": "B", "effect": "Ultimate Art Auto Charge +3", "why": {"it": "Conta poco per lei. Disaccordo su Steam: per alcuni \"non cambia quasi nulla\", per altri è utile nei boss lunghi.", "en": "Matters little for her. Steam players disagree: some say it \"barely makes a difference\", others like it for long boss fights."}}
+        {"tier": "B", "effect": "Ultimate Art Auto Charge +3", "why": {"it": "Conta poco per lei. Disaccordo su Steam: per alcuni \"non cambia quasi nulla\", per altri è utile nei boss lunghi.", "en": "Matters little for her. Steam players disagree: some say it \"barely makes a difference\", others like it for long boss fights."}},
+        {"tier": "C", "effect": "Dormant Power Helps Discover Flails", "why": {"it": "Solo per la build con due Volontà degli Equilibratori su flagelli: un giocatore su Steam (ott. 2026) la definisce \"molto costante\". Altrimenti inutile.", "en": "Only for the double Will of the Balancers flail build: a Steam player (Oct 2026) calls it \"very consistent\". Otherwise useless."}}
       ],
       "deep_effects": [
         {"tier": "S", "effect": "[Duchess] Use Character Skill for Brief Invulnerability", "why": {"it": "0,4 s di invulnerabilità a ogni Riproposizione.", "en": "0.4 s of invulnerability on each Restage."}},
@@ -292,13 +297,15 @@
         {"tier": "A", "passive": {"it": "Sbilanciamento migliorato usando due armamenti", "en": "Improved Stance-Breaking when Wielding Two Armaments"}, "why": {"it": "Boss a terra più spesso.", "en": "Bosses staggered more often."}},
         {"tier": "A", "passive": {"it": "Ripristino PV con attacchi di pugnale", "en": "HP Restoration upon Dagger Attacks"}, "why": {"it": "I pugnali colpiscono spesso.", "en": "Daggers hit often."}},
         {"tier": "A", "passive": {"it": "Attacchi consecutivi riducono i danni", "en": "Successive Attacks Negate Damage"}, "why": {"it": "Colpisce di continuo con i pugnali: difesa gratuita (Game8).", "en": "She hits constantly with daggers: free defense (Game8)."}},
-        {"tier": "A", "passive": {"it": "Potenza d'attacco d'affinità migliorata", "en": "Improved Affinity Attack Power"}, "why": {"it": "Con pugnali elementali o di stato (Game8).", "en": "With elemental or status daggers (Game8)."}}
+        {"tier": "A", "passive": {"it": "Potenza d'attacco d'affinità migliorata", "en": "Improved Affinity Attack Power"}, "why": {"it": "Con pugnali elementali o di stato (Game8).", "en": "With elemental or status daggers (Game8)."}},
+        {"tier": "A", "passive": {"it": "Volontà degli Equilibratori (due diverse)", "en": "Will of the Balancers (two different ones)"}, "why": {"it": "Base della build \"doppi Equilibratori\" (Steam, ott. 2026). Dalla 1.03.2 due copie uguali non si attivano entrambe: servono due Volontà diverse.", "en": "Core of the \"double Balancers\" build (Steam, Oct 2026). Since 1.03.2 two identical copies don't both activate: you need two different Wills."}}
       ],
       "weapons": [
         {"tier": "S", "name": {"it": "Pugnali doppi: Reduvia, Pugnale insanguinato, Kris di pietra di luce", "en": "Dual daggers: Reduvia, Bloodstained Dagger, Glintstone Kris"}, "why": {"it": "Sanguinamento più Riproposizione; il Kris ha spesso il danno più alto.", "en": "Bleed plus Restage; the Kris often has the highest damage."}},
         {"tier": "A", "name": {"it": "Coltello nero, Lama della chiamata", "en": "Black Knife, Blade of Calling"}, "why": {"it": "Buoni pugnali alternativi.", "en": "Good alternative daggers."}},
         {"tier": "A", "name": {"it": "Ala di Astel, Eclisse solare, Spada della notte e della fiamma", "en": "Wing of Astel, Solar Eclipse, Sword of Night and Flame"}, "why": {"it": "Ottime armi a intelligenza.", "en": "Great Int weapons."}},
-        {"tier": "B", "name": {"it": "Bastoni, Falce aureolata", "en": "Staves, Halo Scythe"}, "why": {"it": "Per le varianti magiche.", "en": "For magic variants."}}
+        {"tier": "B", "name": {"it": "Bastoni, Falce aureolata", "en": "Staves, Halo Scythe"}, "why": {"it": "Per le varianti magiche.", "en": "For magic variants."}},
+        {"tier": "B", "name": {"it": "Flagelli", "en": "Flails"}, "why": {"it": "Con due Volontà degli Equilibratori e potenziamenti magici (Steam, ott. 2026).", "en": "With two Will of the Balancers and magic attack boosts (Steam, Oct 2026)."}}
       ],
       "builds": [
         {
@@ -321,6 +328,13 @@
           "normal": ["[Duchess] Improved Character Skill Attack Power", "[Duchess] Reprise events upon nearby enemies by landing the final blow of a chain attack with dagger", "Character Skill Cooldown Reduction +3"],
           "deep": ["[Duchess] Use Character Skill for Brief Invulnerability", "Improved Affinity Attack Power +2", "[Duchess] Improved Vigor and Strength, Reduced Mind"],
           "notes": {"it": "Variante dai giocatori di Notte profonda (Steam, AquaZ): scegli il pugnale in base alla debolezza del boss. Più PV della build emorragica.", "en": "Variant from Deep of Night players (Steam, AquaZ): pick the dagger by boss weakness. More HP than the bleed build."}
+        },
+        {
+          "name": {"it": "Doppi Equilibratori magici (Notte profonda)", "en": "Double Balancers magic (Deep of Night)"},
+          "vessel": {"it": "Calice della Duchessa", "en": "Duchess's Chalice"},
+          "normal": ["[Duchess] Improved Character Skill Attack Power", "Dormant Power Helps Discover Flails", "Character Skill Cooldown Reduction +3"],
+          "deep": ["Magic Attack Power Up +4", "Magic Attack Power Up +4", "Increased Maximum HP"],
+          "notes": {"it": "Da un giocatore su Steam (ott. 2026): due armi con Volontà degli Equilibratori diverse e potenziamenti magici (lui arriva a +12, cioè tre slot profondi); qui uno slot è PV per la solitaria. Un altro giocatore la classifica \"a rischio medio\". Fonte singola: sperimentale.", "en": "From a Steam player (Oct 2026): two weapons with different Will of the Balancers plus magic boosts (he runs +12, i.e. all three deep slots); here one slot is HP for solo. Another player rates it \"medium risk\". Single source: experimental."}
         }
       ]
     },
@@ -335,12 +349,13 @@
         {"tier": "S", "effect": "[Raider] Damage taken while using Character Skill improves attack power and stamina", "why": {"it": "+10% danno e +20% vigore per 20 s.", "en": "+10% damage and +20% stamina for 20 s."}},
         {"tier": "S", "effect": "Improved Stance-Breaking when Two-Handing", "why": {"it": "Sbilancia i boss con le armi pesanti.", "en": "Breaks bosses with heavy weapons."}},
         {"tier": "S", "effect": "Partial HP Restoration upon Post-Damage Attacks", "why": {"it": "Prende colpi di proposito: recupera rispondendo.", "en": "He takes hits on purpose: recovers by hitting back."}},
-        {"tier": "A", "effect": "Taking attacks improves attack power", "why": {"it": "+15% per 10 s dopo un colpo subito; non si cumula con le versioni +1/+2. Switchblade (giu. 2026) la consiglia come sostituto iniziale della reliquia del Predone.", "en": "+15% for 10 s after being hit; doesn't stack with the +1/+2 versions. Switchblade (Jun 2026) suggests it as an early stand-in for the Raider relic."}},
+        {"tier": "A", "effect": "Taking attacks improves attack power", "why": {"it": "+15% per 10 s dopo un colpo subito; non si cumula con le versioni +1/+2. Switchblade (giu. 2026) la consiglia come sostituto iniziale della reliquia del Predone. Su Steam (ott. 2026) è la parte \"Libra\" della build Dregs: arriva da Notte oscura del Demone (blu, 12 Sigilli del sovrano), che ha anche il gesto \"Gambe incrociate\" per accumulare follia.", "en": "+15% for 10 s after being hit; doesn't stack with the +1/+2 versions. Switchblade (Jun 2026) suggests it as an early stand-in for the Raider relic. On Steam (Oct 2026) it is the \"Libra\" half of the Dregs build: it comes from Dark Night of the Demon (blue, 12 Sovereign Sigils), which also has the \"Crossed Legs\" gesture to build Madness."}},
         {"tier": "A", "effect": "Character Skill Cooldown Reduction +3", "why": {"it": "Più abilità, più bonus.", "en": "More skill uses, more buffs."}},
         {"tier": "A", "effect": "Physical Attack Up +2", "why": {"it": "Danno generico.", "en": "Generic damage."}},
         {"tier": "A", "effect": "Strength +3", "why": {"it": "Statistica principale.", "en": "Main stat."}},
         {"tier": "A", "effect": "Improved Great Hammer Attack Power", "why": {"it": "Con le sue armi ideali.", "en": "With his ideal weapons."}},
         {"tier": "A", "effect": "Improved Colossal Weapon Attack Power", "why": {"it": "Le armi colossali sono più rapide dalla 1.03.2; è anche sulla Grand Luminous Scene consigliata da Fextralife.", "en": "Colossal weapons are faster since 1.03.2; also on the Grand Luminous Scene that Fextralife recommends."}},
+        {"tier": "B", "effect": "Status Ailment Gauges Slowly Increase Attack Power", "why": {"it": "Da The Night of Dregs (DLC): +4% ogni 20 s con un'alterazione attiva su di te, fino a +40%. Su Steam (lug. e ott. 2026) la build \"Dregs Raider\" è citata come una delle poche build da Profondità 5 con armi colossali caricate (8-10 mila danni), ma richiede molta manutenzione: gli stack si azzerano se il controllo ogni 20 s non trova alterazioni (anche durante l'animazione del gesto). In solitaria è rischiosa: B.", "en": "From The Night of Dregs (DLC): +4% every 20 s while a status gauge is active on you, up to +40%. Steam players (Jul and Oct 2026) call \"Dregs Raider\" one of the few Depth 5 builds, with charged colossal attacks hitting 8-10k, but it is high-maintenance: stacks reset if the 20 s check finds no ailment (even during the gesture animation). Risky solo: B."}},
         {"tier": "B", "effect": "[Raider] Duration of Ultimate Art extended", "why": {"it": "Totem da 20 a 30 secondi.", "en": "Totem from 20 to 30 seconds."}},
         {"tier": "B", "effect": "Improved Poise Near Totem Stela", "why": {"it": "Potenziato nella 1.03.2.", "en": "Buffed in 1.03.2."}},
         {"tier": "B", "effect": "Defeating enemies near Totem Stela restores HP", "why": {"it": "Potenziato nella 1.03.2.", "en": "Buffed in 1.03.2."}},
@@ -368,7 +383,7 @@
           {"curse": "Reduced Strength and Intelligence", "why": {"it": "Taglia la forza.", "en": "Cuts Strength."}},
           {"curse": "Reduced Faith and Strength", "why": {"it": "Taglia la forza.", "en": "Cuts Strength."}},
           {"curse": "Lower Attack When Below Max HP", "why": {"it": "Prende colpi di proposito e dalla 1.03.2 il suo passivo premia i PV bassi: questo malus lo annulla.", "en": "He takes hits on purpose and since 1.03.2 his passive rewards low HP: this curse cancels it out."}},
-          {"curse": "Taking Damage Causes Rot Buildup", "why": {"it": "Viene colpito spesso.", "en": "He gets hit often."}}
+          {"curse": "Taking Damage Causes Rot Buildup", "why": {"it": "Viene colpito spesso. Eccezione: nella build The Night of Dregs i giocatori su Steam (ott. 2026) usano proprio i malus di veleno/marcescenza sotto i PV massimi per tenere attivo l'indicatore.", "en": "He gets hit often. Exception: in The Night of Dregs build, Steam players (Oct 2026) use the poison/rot-below-max-HP curses precisely to keep the gauge active."}}
         ]
       },
       "weapon_passives": [
@@ -398,6 +413,13 @@
           "normal": ["[Raider] Damage taken while using Character Skill improves attack power and stamina", "Improved Stance-Breaking when Two-Handing", "Strength +3"],
           "deep": ["Arcane increased for each great enemy defeated at a Ruin", "Attack power up when facing scarlet rot-afflicted enemy +2", "Physical Attack Up +4"],
           "notes": {"it": "Da usare quando trovi l'Ascia putrida.", "en": "Use it when you find the Rotten Greataxe."}
+        },
+        {
+          "name": {"it": "Dregs + Libra (Notte profonda, DLC)", "en": "Dregs + Libra (Deep of Night, DLC)"},
+          "vessel": {"it": "Un calice con uno slot rosso (The Night of Dregs) e uno blu (Notte oscura del Demone)", "en": "A vessel with a red slot (The Night of Dregs) and a blue slot (Dark Night of the Demon)"},
+          "normal": ["Status Ailment Gauges Slowly Increase Attack Power", "Taking attacks improves attack power", "Gesture \"Crossed Legs\" Builds Up Madness"],
+          "deep": ["Physical Attack Up +4", "Physical Attack Up +4", "Increased Maximum HP"],
+          "notes": {"it": "Dalle discussioni Steam di ott. 2026: armi colossali (Ascia di Godfrey) con attacchi caricati; dopo ogni luogo di grazia usa il gesto \"Gambe incrociate\" (mettilo come primo preferito) per riattivare gli stack. Le fonti mettono +4 fisico in tutti e tre gli slot profondi e aggiungono la reliquia degli invasori notturni; qui uno slot è PV per la solitaria. Sperimentale: due giocatori la trovano troppo dipendente dalla fortuna e difficile da mantenere.", "en": "From Oct 2026 Steam threads: colossal weapons (Axe of Godfrey) with charged attacks; after each Site of Grace use the \"Crossed Legs\" gesture (set it as first favourite) to restart the stacks. Sources run +4 physical in all three deep slots plus the Night Invader relic; here one slot is HP for solo. Experimental: two players find it too RNG-dependent and hard to maintain."}
         }
       ]
     },
@@ -405,7 +427,7 @@
     "Revenant": {
       "confidence": "medium",
       "summary": {
-        "it": "Tier C in solitaria nelle tier list 2026, ma molto migliore in Notte profonda: dalla 1.03.2 la famiglia guadagna da +12,5% a +58% di danno (e +11-44% di riduzione danni) secondo la profondità. Diversi video di gen.-feb. 2026 mostrano run in solitaria senza morti con Lancia folgorante o Artiglio bestiale iniziali.",
+        "it": "Tier C in solitaria nelle tier list 2026, ma molto migliore in Notte profonda: dalla 1.03.2 la famiglia guadagna da +12,5% a +58% di danno (e +11-44% di riduzione danni) secondo la profondità. Diversi video di gen.-feb. 2026 mostrano run in solitaria senza morti con Lancia folgorante o Artiglio ferino iniziali.",
         "en": "C tier solo in 2026 tier lists, but much better in Deep of Night: since 1.03.2 the family gains +12.5% to +58% damage (and +11-44% damage negation) by depth. Several Jan-Feb 2026 videos show deathless solo runs with a starting Lightning Spear or Beast Claw."
       },
       "relic_effects": [
@@ -413,17 +435,17 @@
         {"tier": "S", "effect": "[Revenant] Strengthens family and allies when Ultimate Art is activated", "why": {"it": "+25% alla famiglia per 30 s.", "en": "+25% to the family for 30 s."}},
         {"tier": "S", "effect": "Changes compatible armament's incantation to Lightning Spear at start of expedition", "why": {"it": "Lancia folgorante dal primo minuto sul sigillo iniziale: base delle build in solitaria di EliteCarlosN (feb. 2026, Profondità 3 senza morti) e Youwy (Profondità 5).", "en": "Lightning Spear from minute one on the starting seal: core of EliteCarlosN's (Feb 2026, deathless depth 3) and Youwy's (depth 5) solo builds."}},
         {"tier": "A", "effect": "Improved Dragon Cult Incantations", "why": {"it": "+12% alla Lancia folgorante; i video la cumulano su più reliquie.", "en": "+12% on Lightning Spear; the videos stack it on several relics."}},
-        {"tier": "A", "effect": "Improved Godslayer Incantations", "why": {"it": "+12% sulla Fiamma nera del Sigillo dell'ammazzadei. Vale solo per la sua scuola: con Lancia folgorante usa il culto draconico, con Artiglio bestiale gli incantesimi bestiali.", "en": "+12% on the Godslayer's Seal Black Flame. Only boosts its own school: use Dragon Cult for Lightning Spear and Bestial for Beast Claw."}},
+        {"tier": "A", "effect": "Improved Godslayer Incantations", "why": {"it": "+12% sulla Fiamma nera del Sigillo dell'ammazzadei. Vale solo per la sua scuola: con Lancia folgorante usa il culto draconico, con Artiglio ferino gli incantesimi bestiali.", "en": "+12% on the Godslayer's Seal Black Flame. Only boosts its own school: use Dragon Cult for Lightning Spear and Bestial for Beast Claw."}},
         {"tier": "A", "effect": "[Revenant] Trigger ghostflame explosion during Ultimate Art activation", "why": {"it": "Danno extra con l'arte suprema.", "en": "Extra damage with the Ultimate Art."}},
         {"tier": "A", "effect": "Faith +3", "why": {"it": "Fede è la sua statistica principale.", "en": "Faith is her main stat."}},
         {"tier": "A", "effect": "Holy Attack Power Up +2", "why": {"it": "Per incantesimi sacri.", "en": "For holy incantations."}},
         {"tier": "A", "effect": "Ultimate Art Auto Charge +3", "why": {"it": "Famiglia potenziata più spesso.", "en": "Family buffed more often."}},
         {"tier": "A", "effect": "Max FP increased for each Sorcerer's Rise unlocked", "why": {"it": "Risolve i suoi problemi di PA.", "en": "Fixes her FP problems."}},
         {"tier": "A", "effect": "FP Restoration upon Successive Attacks", "why": {"it": "Non ha rigenerazione di PA.", "en": "She has no FP regen."}},
+        {"tier": "A", "effect": "Changes compatible armament's incantation to Beast Claw at start of expedition", "why": {"it": "Danno fisico che vale contro tutti (EliteCarlosN, feb. 2026). La 1.03.2 ha alzato il costo in PA dell'Artiglio ferino, ma su Steam (ott. 2026) due giocatori di Profondità 5 la indicano tra le build della Rediviva più usate in Notte profonda: da B ad A.", "en": "Physical damage that works on everything (EliteCarlosN, Feb 2026). 1.03.2 raised Beast Claw's FP cost, but on Steam (Oct 2026) two Depth 5 players call it one of the most-picked Revenant builds in Deep of Night: B to A."}},
+        {"tier": "A", "effect": "Improved Bestial Incantations", "why": {"it": "Con la build Artiglio ferino, di nuovo molto usata in Profondità 5 (Steam, ott. 2026). Inutile con altri incantesimi.", "en": "With the Beast Claw build, widely used again at Depth 5 (Steam, Oct 2026). Useless with other incantations."}},
         {"tier": "B", "effect": "Wraith Calling Bell in possession at start of expedition", "why": {"it": "Aiuto extra a inizio partita.", "en": "Extra help early."}},
         {"tier": "B", "effect": "Attack power increased for each evergaol prisoner defeated", "why": {"it": "Danno che cresce durante la spedizione.", "en": "Damage that grows during the run."}},
-        {"tier": "B", "effect": "Changes compatible armament's incantation to Beast Claw at start of expedition", "why": {"it": "Danno fisico che vale contro tutti (EliteCarlosN, feb. 2026). Ma la 1.03.2 ha alzato il costo in PA dell'Artiglio bestiale: le guide precedenti (Youwy, gen. 2026) lo sopravvalutano.", "en": "Physical damage that works on everything (EliteCarlosN, Feb 2026). But 1.03.2 raised Beast Claw's FP cost: earlier guides (Youwy, Jan 2026) overrate it."}},
-        {"tier": "B", "effect": "Improved Bestial Incantations", "why": {"it": "Solo con la build Artiglio bestiale.", "en": "Only with the Beast Claw build."}},
         {"tier": "C", "effect": "[Revenant] Expend own HP to fully heal nearby allies when activating Art", "why": {"it": "In solitaria è solo un costo.", "en": "Pure cost solo."}}
       ],
       "deep_effects": [
@@ -433,7 +455,8 @@
         {"tier": "A", "effect": "Reduced FP Consumption", "why": {"it": "Fino a -16% di PA (wiki.gg): non ha rigenerazione di PA. Game8 lo consiglia.", "en": "Up to -16% FP cost (wiki.gg): she has no FP regen. Recommended by Game8."}},
         {"tier": "A", "effect": "Increased Maximum HP", "why": {"it": "Ha pochi PV.", "en": "She has low HP."}},
         {"tier": "B", "effect": "Increased Maximum FP", "why": {"it": "Più incantesimi.", "en": "More spells."}},
-        {"tier": "B", "effect": "[Revenant] Improved Vigor and Endurance, Reduced Mind", "why": {"it": "Più sopravvivenza se i PA sono coperti.", "en": "More survival if FP is covered."}}
+        {"tier": "B", "effect": "[Revenant] Improved Vigor and Endurance, Reduced Mind", "why": {"it": "Più sopravvivenza se i PA sono coperti.", "en": "More survival if FP is covered."}},
+        {"tier": "B", "effect": "[Revenant] Improved Strength, Reduced Faith", "why": {"it": "Per le build di forza con armi colossali o grandi archi: su Steam (ott. 2026) una guida della comunità punta a 46 forza/45 fede e un giocatore la dice ancora valida in Profondità 5. Inutile con gli incantesimi.", "en": "For Strength builds with colossal weapons or greatbows: a Steam community guide (Oct 2026) targets 46 Str/45 Fai and a player says it's still viable at Depth 5. Useless for incantation builds."}}
       ],
       "curses": {
         "harmless": [
@@ -458,7 +481,8 @@
       "weapons": [
         {"tier": "S", "name": {"it": "Sigilli sacri: Sigillo dell'ammazzadei, Sigillo di pietrisco, Sigillo dell'Ordine aureo, Sigillo artigliato", "en": "Sacred seals: Godslayer's Seal, Gravel Stone Seal, Golden Order Seal, Clawmark Seal"}, "why": {"it": "Fiamma nera, lancia del fulmine e incantesimi forti.", "en": "Black Flame, Lightning Spear and strong incantations."}},
         {"tier": "A", "name": {"it": "Artigli maledetti della Rediviva", "en": "Revenant's Cursed Claws"}, "why": {"it": "Arma iniziale buona fino a metà partita.", "en": "Starter, good until midgame."}},
-        {"tier": "A", "name": {"it": "Falce aureolata, Spada codificata", "en": "Halo Scythe, Coded Sword"}, "why": {"it": "Armi a fede.", "en": "Faith weapons."}}
+        {"tier": "A", "name": {"it": "Falce aureolata, Spada codificata", "en": "Halo Scythe, Coded Sword"}, "why": {"it": "Armi a fede.", "en": "Faith weapons."}},
+        {"tier": "B", "name": {"it": "Asce grandi, martelli grandi, spadoni colossali, grandi archi", "en": "Greataxes, great hammers, colossal swords, greatbows"}, "why": {"it": "Con la reliquia profonda della forza (Steam, ott. 2026); i grandi archi con abilità come Pioggia di frecce e le Volontà degli Equilibratori sono citati in Profondità 5.", "en": "With the Strength deep relic (Steam, Oct 2026); greatbows with skills like Rain of Arrows plus Will of the Balancers are mentioned at Depth 5."}}
       ],
       "builds": [
         {
@@ -474,6 +498,13 @@
           "normal": ["Changes compatible armament's incantation to Lightning Spear at start of expedition", "Improved Dragon Cult Incantations", "Max FP increased for each Sorcerer's Rise unlocked"],
           "deep": ["Improved Incantations +2", "Reduced FP Consumption", "Increased Maximum HP"],
           "notes": {"it": "Dai video di EliteCarlosN e Youwy (dic. 2025-feb. 2026): danno a distanza dal primo giorno, ottima contro i nemici deboli al fulmine. Evoca comunque la famiglia per distrarre il boss.", "en": "From EliteCarlosN and Youwy videos (Dec 2025-Feb 2026): ranged damage from day one, great against lightning-weak enemies. Still summon the family to pull aggro."}
+        },
+        {
+          "name": {"it": "Artiglio ferino (Notte profonda)", "en": "Beast Claw (Deep of Night)"},
+          "vessel": {"it": "Calice della Rediviva", "en": "Revenant's Chalice"},
+          "normal": ["Changes compatible armament's incantation to Beast Claw at start of expedition", "Improved Bestial Incantations", "Max FP increased for each Sorcerer's Rise unlocked"],
+          "deep": ["Physical Attack Up +4", "Reduced FP Consumption", "Increased Maximum HP"],
+          "notes": {"it": "Artiglio ferino dal primo minuto, potenziato da incantesimi bestiali e attacco fisico (consiglio Steam: accumula tutti i potenziamenti fisici e bestiali). Su Steam (ott. 2026) è tra le build della Rediviva più viste in Profondità 5. Costa più PA dalla 1.03.2: tieni la riduzione del consumo di PA.", "en": "Beast Claw from minute one, boosted by bestial incantations and physical attack (Steam advice: stack every physical and bestial boost). On Steam (Oct 2026) it's among the most-seen Revenant builds at Depth 5. Costs more FP since 1.03.2: keep the FP-cost reduction."}
         }
       ]
     },
@@ -481,8 +512,8 @@
     "Recluse": {
       "confidence": "medium",
       "summary": {
-        "it": "Tier B in solitaria (nightreignwiki 2026: B in solitaria e con sconosciuti, S solo in trio organizzato). Fragile, vive di stregonerie e residui di affinità. Nessuna modifica diretta nella 1.03.2 né nella 1.03.5 (note ufficiali); la 1.03.2 ha però alzato il costo PA di Cristallo frantumante e cambiato la magia del Bastone di cristallo putrido.",
-        "en": "B tier solo (nightreignwiki 2026: B solo and in randoms, S only in coordinated trios). Fragile, lives on sorceries and affinity residue. No direct change in 1.03.2 or 1.03.5 (official notes); 1.03.2 did raise Shattering Crystal's FP cost and change the Rotten Crystal Staff's sorcery."
+        "it": "Tier B in solitaria (nightreignwiki 2026: B in solitaria e con sconosciuti, S solo in trio organizzato). Fragile (200 PV base, i più bassi) e vive di stregonerie e residui di affinità; in solitaria il ciclo dei cocktail rallenta perché nessun compagno genera residui, quindi conviene dare priorità agli effetti dei PA massimi (Switchblade 2026). Nessuna modifica diretta nella 1.03.2 né nella 1.03.5 (note ufficiali); la 1.03.2 ha però alzato il costo PA di Cristallo frantumante e cambiato la magia del Bastone di cristallo putrido.",
+        "en": "B tier solo (nightreignwiki 2026: B solo and in randoms, S only in coordinated trios). Fragile (200 base HP, the lowest) and lives on sorceries and affinity residue; solo the cocktail loop slows because no teammate generates residues, so prioritise max FP effects (Switchblade 2026). No direct change in 1.03.2 or 1.03.5 (official notes); 1.03.2 did raise Shattering Crystal's FP cost and change the Rotten Crystal Staff's sorcery."
       },
       "relic_effects": [
         {"tier": "S", "effect": "Improved Glintblade Sorcery", "why": {"it": "+12% sulla scuola che usi (anche Cristalliane, Invisibilità ecc.). In solitaria le magie rapide ed economiche (Scintilama, Fendente cariano) sono più sicure di quelle da caricare (discussioni Steam).", "en": "+12% on the school you use (Crystalian, Invisibility, etc. too). Solo, fast cheap spells (Glintblade, Carian Slicer) are safer than charged ones (Steam discussions)."}},
@@ -510,7 +541,10 @@
         {"tier": "A", "effect": "Attack power increased for each Night Invader defeated", "why": {"it": "Vale anche per le stregonerie; in Notte profonda preferibile al bonus delle evergaol («The Huge Recluse Guide»).", "en": "Applies to sorceries; in Deep of Night preferred over the evergaol bonus ('The Huge Recluse Guide')."}},
         {"tier": "B", "effect": "[Recluse] Collect Affinity Residues to Negate Affinity", "why": {"it": "+20% difesa dall'affinità raccolta.", "en": "+20% negation of the collected affinity."}},
         {"tier": "B", "effect": "Dormant Power Helps Discover Sacred Seals", "why": {"it": "Garantisce sigilli per i cocktail.", "en": "Guarantees seals for cocktails."}},
-        {"tier": "B", "effect": "Improved Physical Damage Negation +2", "why": {"it": "Sopravvivenza in Notte profonda (fino a ~12% di riduzione fisica, «The Huge Recluse Guide»).", "en": "Deep of Night survival (up to ~12% physical negation, 'The Huge Recluse Guide')."}}
+        {"tier": "B", "effect": "Improved Physical Damage Negation +2", "why": {"it": "Sopravvivenza in Notte profonda (fino a ~12% di riduzione fisica, «The Huge Recluse Guide»).", "en": "Deep of Night survival (up to ~12% physical negation, 'The Huge Recluse Guide')."}},
+        {"tier": "B", "effect": "[Recluse] Improved Intelligence and Faith, Reduced Mind", "why": {"it": "Esclusivo delle reliquie profonde: intelligenza +12, fede +12, mente -13 (wiki.gg). «Sorprendentemente valido» per le build cocktail, che raccolgono residui quasi a ogni lancio e soffrono meno i PA ridotti («The Huge Recluse Guide»); compensa con effetti dei PA massimi.", "en": "Deep relic exclusive: Intelligence +12, Faith +12, Mind -13 (wiki.gg). 'Surprisingly viable' for cocktail builds, which collect residues on almost every cast and suffer less from lower FP ('The Huge Recluse Guide'); offset with max FP effects."}},
+        {"tier": "B", "effect": "Max HP increased for each great enemy defeated at a Great Church.", "why": {"it": "Opzione di sopravvivenza in Notte profonda indicata da «The Huge Recluse Guide» (+5% PV per ogni boss di grande chiesa).", "en": "Deep of Night survival option listed by 'The Huge Recluse Guide' (+5% HP per great church boss)."}},
+        {"tier": "C", "effect": "[Recluse] Improved Vigor, Endurance, and Dexterity, Reduced Intelligence and Faith", "why": {"it": "Esclusivo delle reliquie profonde: vitalità +4 (circa 80 PV), tempra +5, destrezza +20, intelligenza e fede -10 (wiki.gg). Solo per build difensive o ibride da mischia: la perdita di intelligenza va compensata con l'altro effetto statistico («The Huge Recluse Guide»).", "en": "Deep relic exclusive: Vigor +4 (about 80 HP), Endurance +5, Dexterity +20, Intelligence and Faith -10 (wiki.gg). Only for defensive or melee-hybrid builds: the Intelligence loss must be offset with the other stat effect ('The Huge Recluse Guide')."}}
       ],
       "curses": {
         "harmless": [
@@ -521,7 +555,8 @@
           {"curse": "Reduced Strength and Intelligence", "why": {"it": "Taglia l'intelligenza.", "en": "Cuts Intelligence."}},
           {"curse": "Reduced Intelligence and Dexterity", "why": {"it": "Taglia l'intelligenza.", "en": "Cuts Intelligence."}},
           {"curse": "Reduced Maximum HP", "why": {"it": "Ha già pochi PV.", "en": "She already has low HP."}},
-          {"curse": "Impaired Affinity Damage Negation", "why": {"it": "Già debole agli elementi.", "en": "Already weak to elements."}}
+          {"curse": "Impaired Affinity Damage Negation", "why": {"it": "Già debole agli elementi.", "en": "Already weak to elements."}},
+          {"curse": "Continuous HP Loss", "why": {"it": "Con i suoi pochi PV il consumo continuo pesa molto; la rigenerazione di Notte del Mare lo compensa solo in parte («The Huge Recluse Guide»).", "en": "With her low HP the constant drain hurts a lot; Night of the Fathom regen only partly offsets it ('The Huge Recluse Guide')."}}
         ]
       },
       "weapon_passives": [
@@ -529,13 +564,15 @@
         {"tier": "S", "passive": {"it": "Velocità di lancio migliorata", "en": "Improved Spell Casting Speed"}, "why": {"it": "Con due copie arriva al massimo.", "en": "Two copies reach the cap."}},
         {"tier": "S", "passive": {"it": "Costo PA degli incantesimi ridotto", "en": "Reduced Spell FP Cost"}, "why": {"it": "Più lanci.", "en": "More casts."}},
         {"tier": "A", "passive": {"it": "Stregonerie caricate migliorate", "en": "Improved Charged Sorceries"}, "why": {"it": "Più danno caricando.", "en": "More damage when charging."}},
-        {"tier": "A", "passive": {"it": "Durata degli incantesimi estesa", "en": "Extended Spell Duration"}, "why": {"it": "Buff e magie più lunghi.", "en": "Longer buffs and spells."}}
+        {"tier": "A", "passive": {"it": "Durata degli incantesimi estesa", "en": "Extended Spell Duration"}, "why": {"it": "Buff e magie più lunghi.", "en": "Longer buffs and spells."}},
+        {"tier": "B", "passive": {"it": "Riduzione danni durante il lancio degli incantesimi", "en": "Damage Negation While Casting"}, "why": {"it": "Seconda priorità dopo la velocità di lancio secondo Switchblade (2026): protegge la sua fragilità mentre lancia.", "en": "Second priority after casting speed per Switchblade (2026): protects her fragility while casting."}}
       ],
       "weapons": [
         {"tier": "S", "name": {"it": "Bastone albinauro", "en": "Albinauric Staff"}, "why": {"it": "Il bastone migliore per lei.", "en": "Her best staff."}},
         {"tier": "A", "name": {"it": "Carian Regal Scepter", "en": "Carian Regal Scepter"}, "why": {"it": "Arma leggendaria «tetto massimo» secondo Switchblade (2026): Luna piena riduce la difesa magica dei nemici.", "en": "Her 'ceiling' legendary per Switchblade (2026): Full Moon lowers enemy magic defense."}},
         {"tier": "S", "name": {"it": "Stregonerie: Glaive di Lansseax, Fiamma nera, Cometa azzurra, Arco grande di Loretta, Decadimento di Ekzykes, Shattering Crystal", "en": "Spells: Lansseax's Glaive, Black Flame, Comet Azur, Loretta's Greatbow, Ekzykes's Decay, Shattering Crystal"}, "why": {"it": "Le più forti per gruppi e boss. Shattering Crystal è considerata la migliore dalla guida Steam ma costa più PA dalla 1.03.2; in solitaria alcuni giocatori preferiscono magie rapide come Carian Slicer (Carian Glintstone Staff).", "en": "The strongest for groups and bosses. Shattering Crystal is rated best by the Steam guide but costs more FP since 1.03.2; solo, some players prefer fast spells like Carian Slicer (Carian Glintstone Staff)."}},
         {"tier": "A", "name": {"it": "Gelmir Glintstone Staff", "en": "Gelmir Glintstone Staff"}, "why": {"it": "Aggiornamento prioritario secondo Game8 (Magma Shot di fuoco, utile per i residui).", "en": "Priority upgrade per Game8 (fire Magma Shot, useful for residues)."}},
+        {"tier": "A", "name": {"it": "Lusat's Glintstone Staff", "en": "Lusat's Glintstone Staff"}, "why": {"it": "Bastone di fine partita con Rovina stellare secondo la guida Switchblade (percorso: Albinauro → Gelmir → Lusat).", "en": "Late-game staff with Stars of Ruin per the Switchblade guide (path: Albinauric → Gelmir → Lusat)."}},
         {"tier": "A", "name": {"it": "Sigillo artigliato e altri sigilli per i cocktail", "en": "Clawmark Seal and other seals for cocktails"}, "why": {"it": "Varietà di elementi.", "en": "Element variety."}},
         {"tier": "B", "name": {"it": "Un'arma da mischia o un arco", "en": "A melee weapon or bow"}, "why": {"it": "Per risparmiare PA.", "en": "To save FP."}}
       ],
@@ -552,7 +589,7 @@
           "vessel": {"it": "Calice della Reclusa", "en": "Recluse's Chalice"},
           "normal": ["[Recluse] Collecting affinity residue activates Terra Magica", "Max FP increased for each Sorcerer's Rise unlocked", "Intelligence +3"],
           "deep": ["Improved Affinity Attack Power +2", "Dormant Power Helps Discover Sacred Seals", "Increased Maximum FP"],
-          "notes": {"it": "Mescola elementi diversi per i residui.", "en": "Mix elements for residues."}
+          "notes": {"it": "Mescola elementi diversi per i residui. In Notte profonda puoi sostituire «Increased Maximum FP» con «[Recluse] Improved Intelligence and Faith, Reduced Mind» (più danno, meno PA; «The Huge Recluse Guide»).", "en": "Mix elements for residues. In Deep of Night you can swap \"Increased Maximum FP\" for \"[Recluse] Improved Intelligence and Faith, Reduced Mind\" (more damage, less FP; 'The Huge Recluse Guide')."}
         }
       ]
     },
@@ -560,8 +597,8 @@
     "Executor": {
       "confidence": "high",
       "summary": {
-        "it": "Tier S in solitaria (nightreignwiki 2026; Game8 lo dava A prima della patch) e il più potenziato dalla 1.03.2 (Spada maledetta: critici, deviazioni, stabilità; forma bestiale). Discussioni Steam del 2026: «ora è davvero Sekiro». Nessuna modifica nella 1.03.5. Un sito (nightreignwiki) cita un lieve nerf al sanguinamento non presente nelle note ufficiali.",
-        "en": "S tier solo (nightreignwiki 2026; Game8 had him A pre-patch) and the biggest 1.03.2 winner (Cursed Sword: crits, deflects, stance; beast form). 2026 Steam threads: 'properly Sekiro now'. No change in 1.03.5. One site (nightreignwiki) mentions a slight bleed nerf that is not in the official notes."
+        "it": "Tier S in solitaria (nightreignwiki 2026; Game8 lo dava A prima della patch) e il più potenziato dalla 1.03.2 (Spada maledetta: critici, deviazioni, stabilità; forma bestiale). Discussioni Steam del 2026: «ora è davvero Sekiro»; a settembre 2026 per la Notte profonda si consigliano soprattutto le build The Night of Dregs + Seppuku e sonno. Nessuna modifica nella 1.03.5. Un sito (nightreignwiki) cita un lieve nerf al sanguinamento non presente nelle note ufficiali.",
+        "en": "S tier solo (nightreignwiki 2026; Game8 had him A pre-patch) and the biggest 1.03.2 winner (Cursed Sword: crits, deflects, stance; beast form). 2026 Steam threads: 'properly Sekiro now'; in September 2026 the main Deep of Night suggestions are the Night of Dregs + Seppuku and sleep builds. No change in 1.03.5. One site (nightreignwiki) mentions a slight bleed nerf that is not in the official notes."
       },
       "relic_effects": [
         {"tier": "S", "effect": "[Executor] Roaring restores HP while Art is active", "why": {"it": "15% dei PV a ogni ruggito.", "en": "15% HP per roar."}},
@@ -575,7 +612,6 @@
         {"tier": "A", "effect": "Changes compatible armament's skill to Seppuku at start of expedition", "why": {"it": "Attiva subito il suo passivo.", "en": "Instantly triggers his passive."}},
         {"tier": "A", "effect": "Partial HP Restoration upon Post-Damage Attacks", "why": {"it": "Recupero PV in mischia.", "en": "Melee HP recovery."}},
         {"tier": "A", "effect": "Improved Critical Hits +1", "why": {"it": "La 1.03.2 ha aumentato i critici con la Spada maledetta; Switchblade (2026) lo mette in S universale e su Steam si usa con Notte del Barone.", "en": "1.03.2 raised crit damage with the Cursed Sword; Switchblade (2026) rates it universal S and Steam players pair it with Night of the Baron."}},
-        {"tier": "B", "effect": "[Executor] Slowly Restore HP upon Ability Activation", "why": {"it": "Durata della cura aumentata nella 1.03.2; si cumula con i recuperi dagli stati.", "en": "Healing duration increased in 1.03.2; stacks with status recoveries."}},
         {"tier": "B", "effect": "Improved Katana Attack Power", "why": {"it": "Non vale per la Spada maledetta.", "en": "Doesn't apply to the Cursed Sword."}},
         {"tier": "B", "effect": "Stamina Recovery upon Landing Attacks", "why": {"it": "Più vigore per deviare.", "en": "More stamina to deflect."}},
         {"tier": "B", "effect": "Successful guarding fills more of the Art gauge", "why": {"it": "Le deviazioni caricano la forma bestiale, molto potenziata nella 1.03.2 (Steam, Fextralife).", "en": "Deflects charge the beast form, heavily buffed in 1.03.2 (Steam, Fextralife)."}},
@@ -589,10 +625,10 @@
         {"tier": "A", "effect": "Attack power up when facing frostbite-afflicted enemy +2", "why": {"it": "Con le armi ad assideramento.", "en": "With frost weapons."}},
         {"tier": "A", "effect": "Arcane increased for each great enemy defeated at a Ruin", "why": {"it": "Più sanguinamento.", "en": "More bleed."}},
         {"tier": "A", "effect": "Increased Maximum HP", "why": {"it": "Margine di errore.", "en": "Room for error."}},
-        {"tier": "A", "effect": "Improved Critical Hits +1", "why": {"it": "Nella build «una sola Volontà» accettata su Steam per la Notte profonda.", "en": "In the accepted 'single Balancer' Deep of Night build on Steam."}},
         {"tier": "B", "effect": "Max stamina increased for each great enemy defeated at a Great Encampment", "why": {"it": "Più deviazioni.", "en": "More deflects."}},
         {"tier": "B", "effect": "[Executor] Improved Dexterity and Arcane, Reduced Vigor", "why": {"it": "Scelta offensiva (circa -140 PV): opzionale nella build Spada maledetta su Steam; le fonti non concordano su vitalità o danno.", "en": "Offensive pick (about -140 HP): optional in the Steam Cursed Sword build; sources disagree on vigor vs damage."}},
-        {"tier": "A", "effect": "[Executor] Improved Vigor and Endurance, Reduced Arcane", "why": {"it": "Scelta sicura in solitaria: su Steam (2026) si consiglia di accumulare vitalità (fino a ~1700 PV) per una forma bestiale robusta anche a profondità 4.", "en": "Safe solo pick: 2026 Steam threads suggest stacking Vigor (up to ~1700 HP) for a tanky beast form even at Depth 4."}}
+        {"tier": "A", "effect": "[Executor] Improved Vigor and Endurance, Reduced Arcane", "why": {"it": "Scelta sicura in solitaria: su Steam (2026) si consiglia di accumulare vitalità (fino a ~1700 PV) per una forma bestiale robusta anche a profondità 4.", "en": "Safe solo pick: 2026 Steam threads suggest stacking Vigor (up to ~1700 HP) for a tanky beast form even at Depth 4."}},
+        {"tier": "B", "effect": "[Executor] Slowly Restore HP upon Ability Activation", "why": {"it": "Esclusivo delle reliquie profonde (wiki.gg, foglio AOEAH): (0,27% PV max + 3) PV al secondo per 30 s dopo essersi ripreso da un'alterazione; si cumula. Si attiva con il sanguinamento autoinflitto del Seppuku (Steam, settembre 2026). Switchblade dice invece che si attiva entrando in forma bestiale: le fonti non concordano.", "en": "Deep relic exclusive (wiki.gg, AOEAH sheet): (0.27% max HP + 3) HP per second for 30 s after recovering from an ailment; stacks. Seppuku's self-inflicted bleed triggers it (Steam, September 2026). Switchblade instead says it triggers on entering beast form: sources disagree."}}
       ],
       "curses": {
         "harmless": [
@@ -604,7 +640,8 @@
           {"curse": "Reduced Dexterity and Faith", "why": {"it": "Taglia la destrezza.", "en": "Cuts Dexterity."}},
           {"curse": "Reduced Intelligence and Dexterity", "why": {"it": "Taglia la destrezza.", "en": "Cuts Dexterity."}},
           {"curse": "Reduced Vigor and Arcane", "why": {"it": "Taglia l'arcano.", "en": "Cuts Arcane."}},
-          {"curse": "Lower Stamina Impairs Dmg Negation", "why": {"it": "Deviare consuma vigore.", "en": "Deflecting costs stamina."}}
+          {"curse": "Lower Stamina Impairs Dmg Negation", "why": {"it": "Deviare consuma vigore.", "en": "Deflecting costs stamina."}},
+          {"curse": "Continuous HP Loss", "why": {"it": "Sconsigliato su Steam (settembre 2026) per la reliquia profonda: meglio PV massimi o recupero PV dopo i danni.", "en": "Advised against on Steam (September 2026) for deep relics: prefer max HP or post-damage HP recovery."}}
         ]
       },
       "weapon_passives": [
@@ -625,9 +662,9 @@
         {
           "name": {"it": "Deviazioni ed emorragia", "en": "Deflect and bleed"},
           "vessel": {"it": "Calice del Giustiziere", "en": "Executor's Chalice"},
-          "normal": ["[Executor] While Character Skill is active, unlocking use of cursed sword restores HP", "Starting armament inflicts blood loss", "HP Recovery From Successful Guarding"],
-          "deep": ["Attack power increased for each evergaol prisoner defeated", "[Executor] Roaring restores HP while Art is active", "Partial HP Restoration upon Post-Damage Attacks +2"],
-          "notes": {"it": "La build più sicura per la solitaria.", "en": "The safest solo build."}
+          "normal": ["[Executor] While Character Skill is active, unlocking use of cursed sword restores HP", "Starting armament inflicts blood loss", "[Executor] Roaring restores HP while Art is active"],
+          "deep": ["Attack power increased for each evergaol prisoner defeated", "Partial HP Restoration upon Post-Damage Attacks +2", "Increased Maximum HP"],
+          "notes": {"it": "La build più sicura per la solitaria. Il ruggito curativo è un effetto delle reliquie normali (Germoglio dorato, Grande scena ardente), quindi va negli slot normali; se trovi una reliquia con «HP Recovery From Successful Guarding», è un buon sostituto.", "en": "The safest solo build. The healing roar is a normal relic effect (Golden Sprout, Grand Burning Scene), so it goes in the normal slots; \"HP Recovery From Successful Guarding\" is a good substitute."}
         },
         {
           "name": {"it": "Cannone di vetro", "en": "Glass cannon"},
@@ -642,6 +679,13 @@
           "normal": ["[Executor] Roaring restores HP while Art is active", "Successful guarding fills more of the Art gauge", "Attack power increased for each evergaol prisoner defeated"],
           "deep": ["[Executor] Improved Vigor and Endurance, Reduced Arcane", "Increased Maximum HP", "Physical Attack Up +4"],
           "notes": {"it": "Variante robusta per la solitaria suggerita su Steam (2026): la forma bestiale potenziata nella 1.03.2 cura e tanka.", "en": "Tanky solo variant suggested on Steam (2026): the 1.03.2-buffed beast form heals and tanks."}
+        },
+        {
+          "name": {"it": "Seppuku e The Night of Dregs (Notte profonda)", "en": "Seppuku + Night of Dregs (Deep of Night)"},
+          "vessel": {"it": "Calice del Giustiziere", "en": "Executor's Chalice"},
+          "normal": ["Status Ailment Gauges Slowly Increase Attack Power", "Changes compatible armament's skill to Seppuku at start of expedition", "Attack power increased for each evergaol prisoner defeated"],
+          "deep": ["[Executor] Slowly Restore HP upon Ability Activation", "Attack power increased for each Night Invader defeated", "Physical Attack Up +4"],
+          "notes": {"it": "Sperimentale (Steam, settembre 2026, e video «The BUSTED Dreg Relic Executor Build»). Il sanguinamento del Seppuku attiva Tenacia, il bonus della The Night of Dregs (+4% ogni 20 s fino a 10 volte mentre hai un accumulo di stato) e la cura della reliquia profonda. Controlla i colori degli slot del calice.", "en": "Experimental (Steam, September 2026, and the video 'The BUSTED Dreg Relic Executor Build'). Seppuku's bleed triggers Tenacity, the Night of Dregs bonus (+4% every 20 s up to 10 stacks while you have status buildup) and the deep relic heal. Check the vessel's slot colours."}
         }
       ]
     },
@@ -649,8 +693,8 @@
     "Scholar": {
       "confidence": "medium",
       "summary": {
-        "it": "Tier C in solitaria secondo nightreignwiki (le fonti non concordano: nightreign.club lo mette in B, ma quella pagina è poco affidabile; molti video del 2026 lo mostrano in Notte profonda da solo senza morire). È un personaggio di supporto: da solo funziona con la reliquia profonda della destrezza, con stati o vasi, ed è più lento.",
-        "en": "C tier solo per nightreignwiki (sources disagree: nightreign.club says B, but that page is unreliable; many 2026 videos show solo deathless Deep of Night runs). He's a support character: solo he works with the Dex deep relic, status or pots, but slower."
+        "it": "Tier C in solitaria secondo nightreignwiki (nightreign.club lo mette in B, pagina poco affidabile). Switchblade Gaming (aggiornata il 29/10/2026) sconsiglia di usarlo da solo: è molto più debole senza compagni. È un personaggio di supporto: da solo funziona con la reliquia profonda della destrezza, con stati o vasi, ed è più lento.",
+        "en": "C tier solo per nightreignwiki (nightreign.club says B, unreliable page). Switchblade Gaming (updated 2026-10-29) advises against him for solo: significantly weaker without teammates. He's a support character: solo he works with the Dex deep relic, status or pots, but slower."
       },
       "relic_effects": [
         {"tier": "A", "effect": "[Scholar] Continuous damage inflicted on targets threaded by Ultimate Art", "why": {"it": "Solo 15 danni al secondo per 20 s sui nemici collegati (Eldenpedia): utile contro i gruppi, debole sui boss. La guida Steam su Notte profonda (2026) lo mette in A; prima era in S.", "en": "Only 15 damage per second for 20 s on linked enemies (Eldenpedia): good against groups, weak on bosses. The 2026 Steam Deep of Night guide rates it A; it used to be S here."}},
@@ -681,7 +725,7 @@
           {"curse": "Reduced Faith and Strength", "why": {"it": "Statistiche secondarie.", "en": "Secondary stats."}}
         ],
         "avoid": [
-          {"curse": "Reduced Vigor and Arcane", "why": {"it": "Arcano è la sua statistica migliore.", "en": "Arcane is his best stat."}},
+          {"curse": "Reduced Vigor and Arcane", "why": {"it": "Arcano è la sua statistica migliore e serve alle build a stati; nella build con la reliquia della destrezza (che toglie già 20 arcano) pesa meno, ma resta il taglio alla vitalità.", "en": "Arcane is his best stat and drives status builds; in the Dex-relic build (which already removes 20 Arcane) it matters less, but the Vigor cut still hurts."}},
           {"curse": "Ultimate Art Charging Impaired", "why": {"it": "La comunione è il suo cuore.", "en": "Communion is his core."}},
           {"curse": "Reduced Maximum HP", "why": {"it": "Ha già pochi PV.", "en": "He already has low HP."}}
         ]
@@ -704,9 +748,23 @@
         {
           "name": {"it": "Combattente a stati e vasi", "en": "Status and pot fighter"},
           "vessel": {"it": "Calice dell'Erudito", "en": "Scholar's Chalice"},
-          "normal": ["[Scholar] Continuous damage inflicted on targets threaded by Ultimate Art", "Improved Throwing Pot Damage", "[Scholar] Prevent slowing of Character Skill progress"],
+          "normal": ["Attack power increased for each Night Invader defeated", "[Scholar] Continuous damage inflicted on targets threaded by Ultimate Art", "Improved Throwing Pot Damage"],
           "deep": ["[Scholar] Improved Endurance and Dexterity, Reduced Intelligence and Arcane", "Increased Maximum HP", "Physical Attack Up +4"],
-          "notes": {"it": "La build consigliata per giocarlo da solo. Senza la reliquia della destrezza usa armi ad arcano (Lama ondulata) e stati.", "en": "The recommended solo build. Without the Dex relic, use Arcane weapons (Ripple Blade) and status."}
+          "notes": {"it": "La build consigliata per giocarlo da solo: la guida Steam di Notte profonda costruisce il nucleo sulle reliquie in tier S, e da solo restano utili la reliquia della destrezza e il bonus per gli invasori notturni (al posto di \"Previene il rallentamento...\", solo tier B). Armi: Falce aureolata, Candelabro frusta di magma, Fiumi di sangue.", "en": "The recommended solo build: the Steam Deep of Night guide builds its core around its S-tier relics, and solo the useful ones are the Dex relic and the Night Invader bonus (replacing \"Prevent slowing...\", only B tier). Weapons: Halo Scythe, Magma Whip Candlestick, Rivers of Blood."}
+        },
+        {
+          "name": {"it": "Vasi da lancio", "en": "Throwing pots"},
+          "vessel": {"it": "Calice dell'Erudito", "en": "Scholar's Chalice"},
+          "normal": ["Improved Throwing Pot Damage", "Small Pouch in possession at start of expedition", "Attack power increased for each Night Invader defeated"],
+          "deep": ["Improved Throwing Pot Damage +1", "Increased Maximum HP", "Improved Physical Damage Negation +2"],
+          "notes": {"it": "Dalla guida Steam (build \"Throwing Pot Scholar\": danno dei vasi e fino a 8 borse piccole) e da Mobalytics/fdaytalk (vasi scelti in base alla debolezza del Signore della Notte). PV e riduzione danni per reggere da solo, come nella variante \"tank\" della stessa guida. Dalla 1.03.2 i Vasi incendiari nei negozi sono limitati: raccogli tutti i vasi che trovi.", "en": "From the Steam guide (\"Throwing Pot Scholar\": pot damage and up to 8 small pouches) and Mobalytics/fdaytalk (pots picked by the Nightlord's weakness). HP and damage negation to survive solo, as in the same guide's \"tank\" variant. Since 1.03.2 shop Fire Pots are capped: pick up every pot you find."}
+        },
+        {
+          "name": {"it": "Stati ad arcano (senza reliquia della destrezza)", "en": "Arcane status (no Dex relic)"},
+          "vessel": {"it": "Calice dell'Erudito", "en": "Scholar's Chalice"},
+          "normal": ["Poison & Rot in Vicinity Increases Attack Power", "Attack power increased for each Night Invader defeated", "Starting armament inflicts poison"],
+          "deep": ["Arcane increased for each great enemy defeated at a Ruin", "Increased Maximum HP", "Physical Attack Up +4"],
+          "notes": {"it": "Usa il suo arcano S (50, il più alto del gioco) per gli stati: GameRant e fdaytalk consigliano gli effetti di Notte del saggio (potenza vicino a veleno/marcescenza, armamento base che avvelena). Armi: Stocco a sperone, Ago congelato, Lama ad asta di Eleonora, Lama ondulata. Qui evita le maledizioni che riducono l'arcano.", "en": "Uses his S Arcane (50, highest in the game) for status: GameRant and fdaytalk recommend the Night of the Wise effects (attack near Poison/Rot, starting armament inflicts poison). Weapons: Antspur Rapier, Frozen Needle, Eleonora's Poleblade, Ripple Blade. Avoid Arcane-reducing curses here."}
         }
       ]
     },

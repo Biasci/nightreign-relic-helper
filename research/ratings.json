@@ -4,7 +4,7 @@
     "Aggiornato ogni due settimane dalla ricerca automatica (vedi research/ROUTINE.md). Per i voti personali usa",
     "%APPDATA%\\NightreignRelicHelper\\my_ratings.json (stesso formato), che ha la precedenza e non viene mai sovrascritto.",
     "Ogni regola cerca un'espressione regolare nel nome inglese ('match_en') o italiano ('match'); vale la PRIMA che corrisponde.",
-    "'solo_score' è il voto usato quando si gioca in solitaria. Fonte: ricerca del 2026-10-27 (seconda passata), patch 1.03.2 + hotfix 1.03.5."
+    "'solo_score' è il voto usato quando si gioca in solitaria. Fonte: ricerca del 2026-11-01, patch 1.03.2 + hotfix 1.03.5."
   ],
   "default_score": 2,
   "default_curse": -1,
@@ -80,7 +80,9 @@
     { "match_en": "^Physical attack power increases after using grease", "score": 3 },
     { "match_en": "^Attack power up when facing", "score": 3 },
     { "match_en": "^Rot in Vicinity Causes Continuous HP Recovery", "score": 3 },
-    { "match_en": "^Changes compatible armament's (skill to Seppuku|incantation to Beast Claw)", "score": 3 },
+    { "match_en": "^Changes compatible armament's incantation to Beast Claw", "score": 4 },
+    { "match_en": "^Changes compatible armament's skill to Seppuku", "score": 3 },
+    { "match_en": "^Improved Chain Attack Finishers", "score": 3 },
     { "match_en": "^Starting armament (inflicts|deals)", "score": 3 },
     { "match_en": "^Stonesword Key in possession", "score": 3 },
     { "match_en": "^Taking attacks improves attack power", "score": 3 },
@@ -114,7 +116,7 @@
   ],
   "curses": [
     { "match_en": "Frost(bite)? Buildup|Death Buildup|Sleep Buildup", "score": -2 },
-    { "match_en": "^(Impaired (Physical |Affinity )?Damage Negation|Ailments Cause Increased Damage|Lower Stamina Impairs|Attacks Impaired on Occasion|All Resistances Down|Reduced Maximum HP)", "score": -2 },
+    { "match_en": "^(Impaired (Physical |Affinity )?Damage Negation|Ailments Cause Increased Damage|Lower Stamina Impairs|Attacks Impaired on Occasion|All Resistances Down|Reduced Maximum HP|Continuous HP Loss)", "score": -2 },
     { "match_en": "^(Reduced Flask HP Restoration|Ultimate Art Charging Impaired|Lower Attack When Below Max HP|Reduced Damage Negation After Evading|Repeated Evasions Lower Damage Negation)", "score": -2 },
     { "match_en": "^(Near Death Reduces|Less Likely to Be Targeted|Night's Tide|Damage Increased by Night's Encroachment)", "score": 0 },
     { "match_en": "Buildup", "score": -1 },
