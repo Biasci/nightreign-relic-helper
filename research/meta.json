@@ -1,44 +1,32 @@
 {
-  "updated": "2026-11-01",
-  "game_version": "1.03.5 (hotfix 2026-03-31); ultimo bilanciamento 1.03.2 (2026-01-15). Nessuna patch successiva (Steam News API e wiki.gg controllati il 2026-11-01).",
+  "updated": "2026-11-15",
+  "game_version": "1.03.5 (hotfix 2026-03-31); ultimo bilanciamento 1.03.2 (2026-01-15). Nessuna patch successiva (Steam News API e wiki.gg controllati il 2026-11-15).",
   "changes": [
     {
-      "it": "Nessuna nuova patch dopo la 1.03.5: data/ non cambia. Poche guide nuove dopo il 27/10: le modifiche sono soprattutto correzioni da wiki e patch notes e build da discussioni Steam (lug.-ott. 2026).",
-      "en": "No new patch after 1.03.5: data/ unchanged. Few new guides since 10/27: changes are mostly corrections from wikis and patch notes plus builds from Steam discussions (Jul–Oct 2026)."
+      "it": "Nessuna nuova patch dopo la 1.03.5: data/ non cambia. Nessuna nuova tier list in solitaria dopo il 25/10; nessun personaggio cambia tier. Le novità vengono da discussioni Steam di fine ottobre-novembre 2026 e da modifiche minori a wiki.gg (10/11).",
+      "en": "No new patch after 1.03.5: data/ unchanged. No new solo tier list since 10/25; no character changes tier. Updates come from late Oct-Nov 2026 Steam threads and minor wiki.gg edits (11/10)."
     },
     {
-      "it": "Saliti di voto: Rediviva, Artiglio ferino e \"Improved Bestial Incantations\" da B ad A (voto 3→4, nuova build); Occhio di ferro, \"Partial HP Restoration upon Post-Damage Attacks\" da C a B (le patch 1.02/1.03.1 confermano che funziona con gli archi).",
-      "en": "Raised: Revenant Beast Claw and \"Improved Bestial Incantations\" B→A (score 3→4, new build); Ironeye \"Partial HP Restoration upon Post-Damage Attacks\" C→B (patches 1.02/1.03.1 confirm it works with bows)."
+      "it": "Aggiunti: \"Attack power increased for each Night Invader defeated\" tra le profonde di Guardiano e Occhio di ferro (A, voto 5 invariato); \"[Ironeye] Improved Vigor and Strength, Reduced Dexterity\" (B, voto 2→3).",
+      "en": "Added: \"Attack power increased for each Night Invader defeated\" to Guardian and Ironeye deep effects (A, score 5 unchanged); \"[Ironeye] Improved Vigor and Strength, Reduced Dexterity\" (B, score 2→3)."
     },
     {
-      "it": "Giustiziere: \"Slowly Restore HP upon Ability Activation\" spostato tra le profonde (esclusivo), tolto \"Improved Critical Hits +1\" dalle profonde, corretta la build Deviazioni ed emorragia. Erudito: la build con la destrezza usa il bonus invasori notturni al posto di \"Prevent slowing\".",
-      "en": "Executor: \"Slowly Restore HP upon Ability Activation\" moved to deep effects (deep-only), \"Improved Critical Hits +1\" removed from deep, Deflect & bleed build fixed. Scholar: the Dex build uses the Night Invader bonus instead of \"Prevent slowing\"."
-    },
-    {
-      "it": "Nuove build (sperimentali, fonti Steam): Predone Dregs + Libra, Duchessa doppi Equilibratori magici, Giustiziere Seppuku + The Night of Dregs, Erudito Vasi da lancio e Stati ad arcano, Rediviva Artiglio ferino.",
-      "en": "New builds (experimental, Steam sources): Raider Dregs + Libra, Duchess double Balancers magic, Executor Seppuku + The Night of Dregs, Scholar Throwing pots and Arcane status, Revenant Beast Claw."
-    },
-    {
-      "it": "Aggiunti effetti: Pestone brinoso (Selvaggio, B), \"Improved Physical Damage Negation +2\" (Guardiano, B), effetti profondi esclusivi della Reclusa (B/C), \"Improved Chain Attack Finishers\" (Duchessa, B, voto 3). Nuovi malus da evitare: \"All Resistances Down\" (Guardiano), \"Continuous HP Loss\" (Reclusa, Giustiziere; voto -2). Becchina invariata.",
-      "en": "Added effects: Hoarfrost Stomp (Wylder, B), \"Improved Physical Damage Negation +2\" (Guardian, B), Recluse deep-only effects (B/C), \"Improved Chain Attack Finishers\" (Duchess, B, score 3). New curses to avoid: \"All Resistances Down\" (Guardian), \"Continuous HP Loss\" (Recluse, Executor; score -2). Undertaker unchanged."
+      "it": "Corretti i testi: cura del Giustiziere (si attiva guarendo da un'alterazione, confermato da wiki.gg e Fextralife), riduzione PA dell'Erudito (cumulo per livello non confermato), \"Successive Attacks Boost Attack Power\" della Becchina (valori della Collana di vetro), scoppio di veleno di Occhio di ferro, Pestone brinoso (Selvaggio) e Falce aureolata (Duchessa). Nuova regola: tra reliquie in conflitto vale quella più a sinistra.",
+      "en": "Text fixes: Executor heal (triggers on ailment recovery, confirmed by wiki.gg and Fextralife), Scholar FP reduction (per-tier stacking unconfirmed), Undertaker \"Successive Attacks Boost Attack Power\" (Glass Necklace values), Ironeye poison burst, Hoarfrost Stomp (Wylder) and Halo Scythe (Duchess). New rule: when relics clash, the left-most one wins."
     }
   ],
   "gaps": [
     {
-      "it": "YouTube ora risponde con un captcha (letti solo alcuni titoli via oEmbed); Reddit, Mobalytics e Vulkk 403; Game8 restituisce pagine vuote; TikTok non leggibile.",
-      "en": "YouTube now returns a captcha (only some titles via oEmbed); Reddit, Mobalytics and Vulkk 403; Game8 returns empty pages; TikTok not readable."
+      "it": "Reddit bloccato, YouTube con captcha (solo titoli), Game8 pagine vuote, Mobalytics, Vulkk e thefilibusterblog 403; TikTok non leggibile. Molte guide Steam risultano rimosse.",
+      "en": "Reddit blocked, YouTube captcha (titles only), Game8 empty pages, Mobalytics, Vulkk and thefilibusterblog 403; TikTok not readable. Many Steam guides have been removed."
     },
     {
-      "it": "Le nuove build vengono da poche discussioni Steam, spesso di gioco in gruppo: non verificate in solitaria. Le build con The Night of Dregs (Selvaggio, Predone, Giustiziere) restano sperimentali; non è confermato dalle wiki che veleno/marcescenza su di te bastino per gli stack.",
-      "en": "New builds come from a few Steam threads, often about group play: not verified solo. The Night of Dregs builds (Wylder, Raider, Executor) remain experimental; wikis do not confirm whether poison/rot on yourself counts for stacks."
+      "it": "Le novità vengono da poche discussioni Steam, spesso di gioco in gruppo: non verificate in solitaria. LFCarry (2/11/2026) mette la Becchina in S e l'Erudito in C, ma solo per il gioco in tre. La build a tre stati della Becchina (Dregs + Miasma + Saggio) è vista solo in un'anteprima di ricerca: non aggiunta.",
+      "en": "Updates come from a few Steam threads, often about co-op: not verified solo. LFCarry (2026-11-02) rates Undertaker S and Scholar C, but only for 3-player. The Undertaker triple-status build (Dregs + Miasma + Wise) was seen only in a search snippet: not added."
     },
     {
-      "it": "Fonti inaffidabili usate solo per confronto: Switchblade (Best Builds del 29/10 con errori su Risolutezza del combattente e Rugiada dorata; guida patch con versioni sbagliate), lootlore.online (reliquie inventate). Le guide Steam su Erudito e Giustiziere ora mostrano un avviso di rimozione.",
-      "en": "Unreliable sources used only for comparison: Switchblade (10/29 Best Builds with errors on Fighter's Resolve and Golden Dew; patch guide with wrong versions), lootlore.online (invented relics). The Steam guides on Scholar and Executor now show a removal notice."
-    },
-    {
-      "it": "Disaccordi: tier in solitaria di Guardiano (A/B), Erudito (B/C, Switchblade lo sconsiglia), Becchina (A/C) e Selvaggio (S/A); innesco della cura del Giustiziere (fine alterazione secondo wiki.gg, forma bestiale secondo Switchblade). Build a tre stati della Becchina e build sonno del Giustiziere citate senza dettagli: non aggiunte.",
-      "en": "Disagreements: solo tier for Guardian (A/B), Scholar (B/C, Switchblade advises against), Undertaker (A/C) and Wylder (S/A); Executor heal trigger (ailment recovery per wiki.gg, beast form per Switchblade). Undertaker triple-status and Executor sleep builds mentioned without details: not added."
+      "it": "Disaccordi aperti: tier in solitaria di Guardiano (A/B), Erudito (B/C), Becchina (A/B/C) e Selvaggio (S/A); Switchblade consiglia di non usare \"[Ironeye] Extends duration of weak point\" senza alleati (qui resta S) e indica il Grande arco del leone come arma principale; scalatura dello scoppio di veleno di Occhio di ferro non testata. Fonti inaffidabili usate solo per confronto: Switchblade, findingdulcinea (titolo \"novembre 2026\" ma contenuti del 2025), lootlore.online.",
+      "en": "Open disagreements: solo tier for Guardian (A/B), Scholar (B/C), Undertaker (A/B/C) and Wylder (S/A); Switchblade advises dropping \"[Ironeye] Extends duration of weak point\" without allies (kept S here) and names Lion Greatbow as main weapon; Ironeye poison burst scaling untested. Unreliable sources used only for comparison: Switchblade, findingdulcinea (\"November 2026\" title but 2025 content), lootlore.online."
     }
   ],
   "sources": [
@@ -151,6 +139,22 @@
     {"title": "AOEAH: Undertaker builds", "url": "https://www.aoeah.com/news/4233--elden-ring-nightreign-undertaker-abilities-skills-stats-weapon--builds-forsaken-hollows"},
     {"title": "XboxPlay: Best Undertaker build", "url": "https://xboxplay.games/elden-ring-nightreign/best-undertaker-build-in-elden-ring-nightreign-69240"},
     {"title": "Steam: Your Tier list", "url": "https://steamcommunity.com/app/2622380/discussions/0/844006470562358336/"},
-    {"title": "Steam News API: Nightreign (nessuna patch dopo 1.03.2/1.03.5)", "url": "https://api.steampowered.com/ISteamNews/GetNewsForApp/v2/?appid=2622380"}
+    {"title": "Steam News API: Nightreign (nessuna patch dopo 1.03.2/1.03.5)", "url": "https://api.steampowered.com/ISteamNews/GetNewsForApp/v2/?appid=2622380"},
+    {"title": "Steam News API: Nightreign (nessuna patch dopo 1.03.5, controllato 2026-11-15)", "url": "https://api.steampowered.com/ISteamNews/GetNewsForApp/v2/?appid=2622380&count=10"},
+    {"title": "LFCarry: Classes tier list (2026-11-02, 3 giocatori)", "url": "https://lfcarry.com/guides/elden-ring-nightreign-classes"},
+    {"title": "Steam: Guardian guard counter builds in DoN (ott. 2026)", "url": "https://steamcommunity.com/app/2622380/discussions/0/565923725076136722/"},
+    {"title": "Steam: what do you build for ironeye? (nov. 2026)", "url": "https://steamcommunity.com/app/2622380/discussions/0/573806123111539575/"},
+    {"title": "Steam: can you increase ironeye heavy poison damage? (nov. 2026)", "url": "https://steamcommunity.com/app/2622380/discussions/0/573806123111532317/"},
+    {"title": "Steam: Items during the run + useless relics (nov. 2026)", "url": "https://steamcommunity.com/app/2622380/discussions/0/573805391546458665/"},
+    {"title": "Steam: Thoughts on perfect relic builds that are LEGAL? (nov. 2026)", "url": "https://steamcommunity.com/app/2622380/discussions/0/574932244729182220/"},
+    {"title": "Steam: can someone teach me how to play (nov. 2026)", "url": "https://steamcommunity.com/app/2622380/discussions/0/574932244729349220/"},
+    {"title": "Steam: Lemme heal you (nov. 2026)", "url": "https://steamcommunity.com/app/2622380/discussions/0/573805817326865888/"},
+    {"title": "Steam: highest skill ceiling (nov. 2026)", "url": "https://steamcommunity.com/app/2622380/discussions/0/573805817327064327/"},
+    {"title": "Steam: Learn to PlaY SoLo (nov. 2026)", "url": "https://steamcommunity.com/app/2622380/discussions/0/573805817326938998/"},
+    {"title": "Steam: stuck with crappy players in depth 2 (nov. 2026)", "url": "https://steamcommunity.com/app/2622380/discussions/0/574932244729492388/"},
+    {"title": "Steam: revenant's claw (nov. 2026)", "url": "https://steamcommunity.com/app/2622380/discussions/0/574932530844729614/"},
+    {"title": "Switchblade Gaming: Healing guide", "url": "https://www.switchbladegaming.com/elden-ring-nightreign/healing-guide/"},
+    {"title": "Switchblade Gaming: Crucible Beast guide", "url": "https://www.switchbladegaming.com/elden-ring-nightreign/crucible-beast-guide/"},
+    {"title": "Switchblade Gaming: Revenant guide", "url": "https://www.switchbladegaming.com/elden-ring-nightreign/revenant-guide/"}
   ]
 }

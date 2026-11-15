@@ -4,7 +4,7 @@
     "Aggiornato ogni due settimane dalla ricerca automatica (vedi research/ROUTINE.md). Per i voti personali usa",
     "%APPDATA%\\NightreignRelicHelper\\my_ratings.json (stesso formato), che ha la precedenza e non viene mai sovrascritto.",
     "Ogni regola cerca un'espressione regolare nel nome inglese ('match_en') o italiano ('match'); vale la PRIMA che corrisponde.",
-    "'solo_score' è il voto usato quando si gioca in solitaria. Fonte: ricerca del 2026-11-01, patch 1.03.2 + hotfix 1.03.5."
+    "'solo_score' è il voto usato quando si gioca in solitaria. Fonte: ricerca del 2026-11-15, patch 1.03.2 + hotfix 1.03.5."
   ],
   "default_score": 2,
   "default_curse": -1,
@@ -17,7 +17,7 @@
     { "match_en": "^\\[Guardian\\] Improved Strength and Dexterity", "score": 3 },
     { "match_en": "^\\[Ironeye\\] (\\+1 additional Character Skill|Extends duration of weak point|Character Skill Inflicts Heavy Poison)", "score": 5 },
     { "match_en": "^\\[Ironeye\\] (Art Charge Activation Adds Poison|Boosts thrusting counterattacks)", "score": 4 },
-    { "match_en": "^\\[Ironeye\\] Improved Arcane", "score": 3 },
+    { "match_en": "^\\[Ironeye\\] Improved (Arcane|Vigor and Strength)", "score": 3 },
     { "match_en": "^\\[Duchess\\] Improved Character Skill Attack Power", "score": 5 },
     { "match_en": "^\\[Duchess\\] (Reprise events|Use Character Skill for Brief Invulnerability)", "score": 4 },
     { "match_en": "^\\[Duchess\\] Improved Vigor and Strength", "score": 4 },
